@@ -1,5 +1,5 @@
 1. INSCRIÇÕES:
-    1. Serão aceitas inscrições realizadas até o dia 08/06/2022 às 11h00;
+    1. Serão aceitas inscrições realizadas até o dia 10/06/2022 às 18h00;
     1. O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook;
     1. A inscrição deverá ser feita com postagem no seguinte modelo:
         - Nº da inscrição: (Seguindo a sequência das postagens de inscrições anteriores);
@@ -43,8 +43,8 @@
             - Derrota = 0 pontos;
         1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
             - Confronto direto;
-            - Saldo de pontos;
             - Pontos conquistados;
+            - Saldo de pontos;
             - Sorteio;
         1. Serão classificados para a segunda fase a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
             - Inscritos: até 12. Classificados: 6;

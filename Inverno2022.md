@@ -11,7 +11,7 @@
     1. Será utilizado o emulador ZSNES 1.42
     1. A ROM pode ser tanto a Top Gear TGC Rom (E) [!] ou a Top Gear (E) (Links no final da postagem);
     1. A conexão deverá ser estabelecida por rede VPN HAMACHI ou RADMIN;
-    1. Não havendo consenso para criação do servidor, o Player 1 será aquele que vier primeiro na tabela do Challonge.
+    1. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge.
     1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato;
         1. Na primeira fase, a URL é https://challonge.com/tgcinverno2022
     1. O envio de mensagens estará proibido caso um dos participantes solicite no início da partida;

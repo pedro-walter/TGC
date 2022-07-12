@@ -57,8 +57,10 @@
         - Caso o número de jogadores classificados seja 6, 12 ou 24, eliminatória simples com os 2, 4 ou 8 melhores colocados na primeira fase avançando uma etapa;
     1. Na Fase Eliminatória:
         1. A escolha de carros é livre
-        1. Serão serão sorteados 3 países
-        1. Cada país será utilizado em pelo menos uma das rodadas dessa fase, método de sorteio será definido posteriormente
+        2. Será necessário imformar previamente o carro que será usado na disputa através do comissário eletrônico: https://leomarx.com/games/tgc/comissario.html
+        3. Serão serão sorteados 3 países para cada rodada
+        4. Cada país será utilizado em pelo menos uma das rodadas dessa fase, mas não mais que duas vezes
+        5. Sorteio foi realizado e está disponível em https://www.twitch.tv/videos/1529396395
 1. COMUNICAÇÂO
     1. Será utilizado o grupo/servidor do DISCORD da TGC (link abaixo)
     1. Haverá um grupo de salas, sendo uma de chat geral com todos os inscritos e uma sala para cada grupo.

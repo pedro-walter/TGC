@@ -61,6 +61,7 @@
         3. Serão serão sorteados 3 países para cada rodada
         4. Cada país será utilizado em pelo menos uma das rodadas dessa fase, mas não mais que duas vezes
         5. Sorteio foi realizado e está disponível em https://www.twitch.tv/videos/1529396395
+        6. Em caso de empate após a disputa, a primeira pista do país seguinte ao último será a pista de desempate. Caso esse país seja UK, o desempate será Las Vegas.
 1. COMUNICAÇÂO
     1. Será utilizado o grupo/servidor do DISCORD da TGC (link abaixo)
     1. Haverá um grupo de salas, sendo uma de chat geral com todos os inscritos e uma sala para cada grupo.

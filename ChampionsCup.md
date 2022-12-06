@@ -63,15 +63,15 @@
     1. A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado será o válido.
     1. As regras podem ser modificadas durante o campeonato caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes
 1. LINKS IMPORTANTES:
-I. Top Gear TGC Rom (E) [!]
-https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640/
-II. RADMIN VPN
-https://www.radmin-vpn.com/
-III. ZSNES 1.42
-http://prdownloads.sourceforge.net/zsnes/zsnesw142.zip
-IV. HAMACHI VPN
-https://www.facebook.com/groups/topgearchampionships/permalink/2459236631010949
-V. DISCORD TGC
-https://discord.gg/4gS5JBBp
+    1. Top Gear TGC Rom (E) [!]
+        https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640/
+    1. RADMIN VPN
+        https://www.radmin-vpn.com/
+    1. ZSNES 1.42
+        http://prdownloads.sourceforge.net/zsnes/zsnesw142.zip
+    1. HAMACHI VPN
+        https://www.facebook.com/groups/topgearchampionships/permalink/2459236631010949
+    1. DISCORD TGC
+        https://discord.gg/4gS5JBBp
 1. DISPOSIÇÕES FINAIS
     - Situações não previstas neste regulamento e que sejam relatadas por qualquer dos participantes, serão analisadas e decididas pela ADMINISTRAÇÃO DO CAMPEONATO.

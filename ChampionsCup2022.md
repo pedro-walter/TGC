@@ -35,15 +35,15 @@
     1. O campeonato será em uma única fase de dupla eliminação;
     1. A escolha de carros é livre;
     1. Será necessário imformar previamente o carro que será usado na disputa através do comissário eletrônico: https://leomarx.com/games/tgc/comissario.html;
-    1. Serão serão sorteadas 12 pistas para cada rodada, exceto a grande final onde serão sorteadas 16 pistas. As demais pistas serão também embaralhadas para serem usadas em caso de empate;
+    1. Serão serão sorteadas 12 pistas para cada rodada, exceto a grande final onde serão sorteadas 16 pistas. Será também sorteado um país para o início do desempate;
     1. Cada pista será utilizada pelo menos duas vezes e não mais que tres vezes;
-    1. Em caso de empate reinicia-se a ROM e joga a partir da primeira pista (Las Vegas) até um jogador abrir mais de 5 pontos
+    1. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate até um jogador abrir mais de 5 pontos de vantagem
     1. É permitido trocar de carro ao reiniciar a ROM por causa de empate
 1. COMUNICAÇÂO
-    1. Será utilizado o grupo/servidor do DISCORD da TGC (link abaixo);
-    1. Haverá uma sala exclusiva para os jogadores e a ADM;
-    1. Os jogadores devem anunciar o resultado de suas partidas no canal;
-    1. Os participantes que não realizarem o agendamento de suas partidas no prazo estabelecido pela administração através do DISCORD, ou que não realize suas partidas no horário marcado sem justificativa, receberá W.O. e terá atribuída derrota;
+    1. Será utilizado um grupo do whatsapp para os jogadores combinarem as partidas. Deve ser usado unicamente para os anúncios da administração, combinar horário para jogar as partidas e para postagem de resultados;
+    1. Os jogadores podem fazer uma chamada para o seu oponente a cada 48 horas, marcando com @;
+    1. Os jogadores devem anunciar o resultado de suas partidas no grupo;
+    1. Os participantes que não realizarem o agendamento de suas partidas no prazo estabelecido pela administração através do grupo, ou que não realize suas partidas no horário marcado sem justificativa, receberá W.O. e terá atribuída derrota;
 1. REGRAS ESPECÍFICAS:
     1. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada.  
     1. O nível do jogo será o CHAMPIONSHIPS;

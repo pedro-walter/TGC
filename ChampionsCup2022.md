@@ -23,7 +23,10 @@
     1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato
     1. O campeonato será em uma única fase de dupla eliminação;
     1. A escolha de carros é livre;
-    1. Será necessário informar previamente o carro que será usado na disputa através do comissário eletrônico: https://leomarx.com/games/tgc/comissario.html;
+    1. Será utilizado o sistema de comissário eletrônico:
+        1. Pode ser acessado no endereço https://leomarx.com/games/tgc/comissario.html;
+        1. É necessário informar tanto o carro usado na partida normal como o carro que será usado no desempate;
+        1. Descumprimento desse procedimento resulta em perda de partida.
     1. Serão serão sorteadas 12 pistas para cada rodada, exceto a grande final onde serão sorteadas 16 pistas. Será também sorteado um país para o início do desempate;
     1. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
         1. É permitido trocar de carro ao reiniciar a ROM por causa de empate
@@ -31,6 +34,7 @@
         1. Nas demais partidas, vence o jogador que abrir mais que 5 pontos de vantagem;
         1. Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não teve um vencedor seguindo os critérios acima, a partida continua a partir de USA;
     1. Cada pista será utilizada pelo menos duas vezes e não mais que tres vezes;
+    1. Durante o campeonato não haverá substituição de jogadores.
 1. COMUNICAÇÂO
     1. Será utilizado um grupo do whatsapp para os jogadores combinarem as partidas. Deve ser usado unicamente para os anúncios da administração, combinar horário para jogar, combinar transmissão e comentário ao vivo, e para postagem de resultados;
     1. Os jogadores podem fazer uma chamada para o seu oponente a cada 48 horas, marcando com @;

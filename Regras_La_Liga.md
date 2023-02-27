@@ -79,7 +79,7 @@ Concordou e Assinou, ja era! Se reclamar, o choro é livre.
 - *ORGANIZAÇÃO E CHAVEAMENTO*
 	Será utilizado o CHALLONGE para chaveamento das partidas do campeonato
 	Fase de grupos: 2 países em cada rodada.
-	Semifinal e terceiro: 3 países
+	Semifinal e terceiro: 4 países
 	Final: 4 países 
 	Na D1 e D2 o campeonato será modelo tradicional, todos contra todos na fase grupos
 	Depois os 6 melhores colocados farão as fases finais 

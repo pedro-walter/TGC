@@ -1,0 +1,33 @@
+Austrália
+Reino Unido
+Canadá
+Egito
+França
+Alemanha
+Grécia
+Índia
+Irlanda
+Itália
+Japão
+Escandinávia
+América do Sul
+Espanha
+Suíça
+Estados Unidos
+
+1 - Austrália
+2 - Reino Unido
+3 - Canadá
+4 - Egito
+5 - França
+6 - Alemanha
+7 - Grécia
+8 - Índia
+9 - Irlanda
+10 - Itália
+11 - Japão
+12- Escandinávia
+13 - América do Sul
+14 - Espanha
+15- Suíça
+16 - Estados Unidos

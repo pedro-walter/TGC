@@ -21,7 +21,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 Apelido/Nickname: LeomarxGames Número de telefone com WhatsApp: +55-11-9-9349-9981 Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 # **Cronograma (Previsão):**
-Prazo para confirmações e novas inscrições: 04/03/2023 às 11h59 
+Prazo para confirmações e novas inscrições: 04/03/2023 às 17h59 
 
 Após revisão das inscrições será feito o sorteio das pistas/países e inicia a Fase de Grupos 
 
@@ -126,6 +126,8 @@ Link das Redes:
 <https://www.twitch.tv/leomarxgames>
 
 <https://www.tiktok.com/@leomarxgames>
+
+<https://www.facebook.com/groups/mestresdotopgear2>
 
 **Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp +55-11-9-9349-9981
 

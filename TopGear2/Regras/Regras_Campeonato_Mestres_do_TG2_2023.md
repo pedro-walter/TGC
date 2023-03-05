@@ -8,6 +8,7 @@
 **Emulador Retroarch =** Link para download [aqui](https://www.retroarch.com/index.php?page=platforms)
 
 ROM: Top Gear 2 (Americana) = Link para download [aqui](https://leomarx.com/games/tgc/TopGear2(USA).zip)
+(Podemos de comum acordo da maioria mudar para ROM européia, se ela funcionar online)
 
 Radmin para conexão entre os jogadores = Link para download [aqui](https://vpn.net/)
 # **Inscrições:**
@@ -33,21 +34,21 @@ Quartas de final: 23 a 26/03 23h59
 
 Semifinal, Final e terceiro: 27 a 02/04/2023 23h59
 
-**Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário.
+**Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com W.O's*
 
 Durante a fase de grupos, na primeira metade do prazo (até dia 12/03/2023 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
 
-O competidor que não cumprir o item anterior, será desclassificado e receberá W.O de todas as partidas
+O competidor que não cumprir o item anterior, poderá ser desclassificado e receber W.O de todas as partidas
 # **Organização e Chaveamento:**
 Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
 
 O nível do jogo será o CHAMPIONSHIP.
 
-Fase de grupos: 2 países em cada rodada.
+Fase de grupos: 2 países, sendo 1 países para cada rodada (Como se fosse jogos de ida e volta).
 
-Oitavas e Quartas de Final: 3 países em cada rodada.
+Oitavas e Quartas de Final: 3 países de rodada única
 
-Semifinal, Final e terceiro: 4 países 
+Semifinal, Final e terceiro: 4 países (2 países ida e 2 países volta)
 # **Classificação e Desempate:**
 Na fase de grupo(s), a classificação será definida pela pontuação geral. As pontuações serão definidas da seguinte forma: Vitória = 3 pontos, Empate = 1 ponto, Derrota = 0 ponto.
 
@@ -57,7 +58,7 @@ Os critérios de desempate na fase de grupo serão na seguinte ordem: Confronto 
 
 Em caso de empate nas fases finais, os pilotos devem reiniciar a ROM e jogar o próximo país subsequente ao último sorteado. No desempate os pilotos devem utilizar normalmente a regra de dinheiro e upgrades. Vence o jogador que ao final do **país subsequente tiver mais pontos**, caso o empate se mantenha, deve-se continuar jogando e vencerá o piloto que **terminar na frente a primeira pista do país seguinte em qualquer posição, mesmo com Race Over** (ver mais detalhes nesta seção).
 
-Obs: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente.
+Obs: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente.
 # **Comunicação:**
 Serão criados grupos no WhatsApp para cada um dos grupos (se houver), sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
 
@@ -136,11 +137,15 @@ Link das Redes:
 
 **Fechadas:** 
 
-Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. A preferência da curva é do carro que está na frente e recomenda-se ultrapassar “por fora”. É necessário facilitar a ultrapassagem. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
+Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
 
-Se perceber que o outro carro atrás estiver vindo mais rápido (com nitro ou não) é necessário facilitar a ultrapassagem e não ficando “zanzando” para que o bug seja evitado. A maior parte das ocorrências do bug ocorrem na largada.
+Exemplo prático 1: A preferência das curvas é sempre do carro que está na frente então recomenda-se quem for ultrapassar que faça a ultrapassagem “por fora”.
 
-Se assim ocorrer o bug e danificar o carro do oponente, seja por imperícia ou acidentalmente, a pista deve ser jogada novamente fazendo o carregamento com o load state.
+Exemplo prático 2: Em um trecho de reta em que a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
+
+A maior parte das ocorrências do bug ocorrem na largada e/ou na primeira volta.
+
+Se mesmo assim ocorrer o bug e danificar o carro do oponente, seja por imperícia ou acidentalmente, a pista deve ser jogada novamente fazendo o carregamento com o load state.
 
 **Exceção A**: Se o acidente ocorrer na última volta e ambos perceberem que é possível terminar a pista com o carro quebrado e sem perder posições já conquistadas, o jogo segue normalmente.
 
@@ -173,7 +178,7 @@ A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido
 ![](Upgrades.jpeg)
 
 # **Upgrades:**
-De início ambos os carros sairão iguais, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.
+De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.
 
 **Exceção A**: Itens de dinheiro no chão das pistas poderão/serão coletados normalmente, **mas em nenhuma hipótese poderão ser usados para compra de upgrade**. Caso a infração seja percebida por um dos jogadores, o mesmo deve pausar a emulação entrar em contato com o oponente via chat do emulador ou WhatsApp e comunicar a infração solicitando que seja feito o “load state” informando o uso indevido do dinheiro.
 

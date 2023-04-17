@@ -23,7 +23,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 # **Validação e Verificação de perfil dos Inscritos:** #
 
 A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento  durante a inscrição e/ou durante o campeonato informações adicionais a qualquer um dos inscritos em seus campeonatos.
-Tais medidas vem de om o intuito de impedir a inscrição ou participação de jogadores fakes.
+Tais medidas vem com o intuito de impedir a inscrição ou participação de jogadores fakes.
 
 As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).

@@ -20,6 +20,19 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Método que utiliza para conectar: Preferencialmente Hamachi, se houver erro, poderá ser utilizado o Radmin.
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
+# **Validação e Verificação de perfil dos Inscritos:** #
+
+A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento  durante a inscrição e/ou durante o campeonato informações adicionais a qualquer um dos inscritos em seus campeonatos.
+Tais medidas vem de om o intuito de impedir a inscrição ou participação de jogadores fakes.
+
+As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
+- Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+- Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+- Tipo de computador, Fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+
+O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também pode por mera liberalidade, o **direito de não aceitar a inscrição ou remover durante um campeonato**, o participante que não concorde em providênciar as informações que lhe forem solicitadas.
+
 # **Cronograma (Previsão):**
 Prazo para confirmações e novas inscrições: 01/05/2023 às 11h59
 

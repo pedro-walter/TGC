@@ -70,10 +70,10 @@ Alguns cenários terão o seu carro previamente sorteado.
 
 Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
 
-- (https://topgearchampionships.com/tg1/Top Gear TGC Hack1 - LeomarxGames.smc)
-- (https://topgearchampionships.com/tg1/Top Gear TGC Hack2 - LeomarxGames.smc)
-- (https://topgearchampionships.com/tg1/Top Gear TGC Hack3 - LeomarxGames.smc)
-- (https://topgearchampionships.com/tg1/Top Gear TGC Hack4 - LeomarxGames.smc)
+- Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
+- Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
+- Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
+- Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
 
 ## **Cenário 1 - Novas Estratégias:**
 **ROM Hack1 Requerida**

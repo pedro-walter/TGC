@@ -70,10 +70,10 @@ Alguns cenários terão o seu carro previamente sorteado.
 
 Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
 
-- <https://topgearchampionships.com/tg1/Top Gear TGC Hack1 - LeomarxGames.smc>
-- <https://topgearchampionships.com/tg1/Top Gear TGC Hack2 - LeomarxGames.smc>
-- <https://topgearchampionships.com/tg1/Top Gear TGC Hack3 - LeomarxGames.smc>
-- <https://topgearchampionships.com/tg1/Top Gear TGC Hack4 - LeomarxGames.smc>
+- (https://topgearchampionships.com/tg1/Top Gear TGC Hack1 - LeomarxGames.smc)
+- (https://topgearchampionships.com/tg1/Top Gear TGC Hack2 - LeomarxGames.smc)
+- (https://topgearchampionships.com/tg1/Top Gear TGC Hack3 - LeomarxGames.smc)
+- (https://topgearchampionships.com/tg1/Top Gear TGC Hack4 - LeomarxGames.smc)
 
 ## **Cenário 1 - Novas Estratégias:**
 **ROM Hack1 Requerida**
@@ -117,7 +117,7 @@ Sua chance de dar uma ou duas voltas em cima do Ritchie.
 
 Modificações: Nitros e Gasolina Infinita.
 
-Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.emendando um nitro atrás do outro.
+Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.
 
 ## **Cenário 5 - Efeito Borboleta:**
 **ROM Hack1 Requerida**

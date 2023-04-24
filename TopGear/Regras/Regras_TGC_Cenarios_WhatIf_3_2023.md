@@ -31,7 +31,7 @@ As informações solicitadas servem para um processo de verificação/confirmaç
 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, Fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também pode por mera liberalidade, o **direito de não aceitar a inscrição ou remover durante um campeonato**, o participante que não concorde em providênciar as informações que lhe forem solicitadas.
+O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva o **direito de não confirmar a inscrição ou remover um participante durante um campeonato**, que não concorde em providênciar as informações que lhe forem solicitadas.
 
 # **Cronograma (Previsão):**
 Prazo para confirmações e novas inscrições: 01/05/2023 às 11h59

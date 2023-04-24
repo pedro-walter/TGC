@@ -98,11 +98,13 @@ Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. T
 
 Objetivo: <span style="color:red">**Pilotos devem obrigatoriamente entrar nos boxes em todas as voltas**</span> e abastecer o quanto quiser e achar necessário, o combustível é **grátis**
 
-Atenção: <span style="color:red">Se errar a entrada do Pit stop é como se desse pane seca!!!</span> 
+Atenção: <span style="color:red">**Se errar a entrada do Pit stop é como se desse pane seca!!!**</span> 
 O jogador que errar deve imediatamente parar de acelerar e poderá apenas posicionar o seu carro na pista para tentar ganhar empurrões de bots ou desistir até a próxima pista.
 Se ambos errarem durante uma partida e ninguém se recuperar com empurrões, os pilotos deverão aguardar o jogo dar race over e então jogar normalmente a próxima pista.
 
 Modificação: Toma aí 6 nitros para tentar recuperar as posições que serão perdidas.
+
+Objetivo: Jogar normalmente as pistas sorteadas e ver se o atraso do pit stop impedirá de chegar em 1st e 2nd.
 
 ## **Cenário 4 - Velozes e Furiosos 2092:**
 **ROM Hack4 Requerida**
@@ -115,7 +117,7 @@ Sua chance de dar uma ou duas voltas em cima do Ritchie.
 
 Modificações: Nitros e Gasolina Infinita.
 
-Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.
+Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.emendando um nitro atrás do outro.
 
 ## **Cenário 5 - Efeito Borboleta:**
 **ROM Hack1 Requerida**
@@ -133,8 +135,8 @@ Objetivo: Jogar a pista sorteada por diversas vezes repetidamente.
 **Exemplo:**
 - Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas
 - - Exemplo Pior cenário 3x Roma com 10 voltas
-- Se cair repetição de 3 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas
-- - Exemplo Pior cenário 6x Rio Roma 7 voltas
+- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas
+- - Exemplo Pior cenário 6x Rio com 7 voltas
 - Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas
 - - Exemplo Pior cenário 10x Stonehenge com 3 voltas
 - Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas

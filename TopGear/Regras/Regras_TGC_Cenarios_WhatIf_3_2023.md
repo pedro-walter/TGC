@@ -20,6 +20,8 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Método que utiliza para conectar: Preferencialmente Hamachi, se houver erro, poderá ser utilizado o Radmin.
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
+A TGC se reserva ao direito do uso de imagem dos participantes deste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+
 # **Validação e Verificação de perfil dos Inscritos:** #
 
 A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento  durante a inscrição e/ou durante o campeonato informações adicionais a qualquer um dos inscritos em seus campeonatos.

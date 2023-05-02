@@ -36,17 +36,17 @@ As informações solicitadas servem para um processo de verificação/confirmaç
 O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva o **direito de não confirmar a inscrição ou remover um participante durante um campeonato**, que não concorde em providênciar as informações que lhe forem solicitadas.
 
 # **Cronograma (Previsão):**
-Prazo para confirmações e novas inscrições: 01/05/2023 às 11h59
+Prazo para confirmações e novas inscrições: 14/05/2023 às 11h59
 
 Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
 
-Fase de grupos terá prazo de 14 dias. Previsão de término – 14/05/2023 23h59
+Fase de grupos terá prazo de 14 dias. Previsão de término – 28/05/2023 23h59
 
-Oitavas de final terá prazo de 6 dias: 15 a 20/05/2023 23h59
+Oitavas de final terá prazo de 6 dias: 29 a 03/06/2023 23h59
 
-Quartas de final terá prazo de 6 dias: 21 a 26/03 23h59
+Quartas de final terá prazo de 6 dias: 04 a 10/06/03 23h59
 
-Semifinal, Final e terceiro terá prazo de 7 dias: 27 a 02/06/2023 23h59
+Semifinal, Final e terceiro terá prazo de 7 dias: 11 a 17/06/2023 23h59
 
 **Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com W.O's*
 

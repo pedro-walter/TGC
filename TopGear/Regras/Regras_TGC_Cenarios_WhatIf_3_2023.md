@@ -60,9 +60,11 @@ O nível do jogo será o CHAMPIONSHIP.
 
 Fase de grupos: Todos os 5 cenários pelo menos 1x
 
-Oitavas e Quartas de Final: 2 cenários, vence aquele que tiver a maior soma de pontos no final
+Oitavas e Quartas de Final: 3 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
 
-Semifinal, Final e terceiro: 4 cenários (2 ida e 2 volta), vence aquele que tiver a maior soma no final de todos
+Semifinal: 4 cenários (2 ida e 2 volta), vence aquele que tiver a maior soma de pontos no final de todos os cenários
+
+Final e terceiro: Todos os 5 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
 
 Alguns cenários terão o seu carro previamente sorteado.
 

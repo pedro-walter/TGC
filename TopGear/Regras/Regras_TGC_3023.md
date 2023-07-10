@@ -7,13 +7,15 @@
 # **Inscrições:** #
 
 
-CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
+CONFIRME SUA INSCRIÇÃO ENTRANDO NO GRUPO DE WHATSAPP DO CAMPEONATO E UTILIZANDO O MODELO ABAIXO:
 
+    Nome Real: Leonardo Andrade
     Apelido/Nickname: LeomarxGames
-    Número de telefone com WhatsApp: +55 11 99349-9981
     Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência
     Método: Fightcade 2 (fc2)
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
+
+Link do Grupo do WhatsApp = (https://chat.whatsapp.com/DDTZTz39RvH94epXeDtsls)
 
 As inscrições para o torneio podem ser encerradas antecipadamente, caso seja atingido o número par de participantes para que o chaveamento seja feito de forma correta com um número par de jogadores 8/10/12/14/16... 32.
 

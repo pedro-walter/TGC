@@ -57,93 +57,42 @@ Modelo copa do mundo. (Chaveamento, Oitavas, quartas, semis, final e terceiro).
 
 O nível do jogo será o CHAMPIONSHIP (MODO VERSUS).
 
-Fase de grupos: Partidas de 4 pistas, todos contra todos da chave.
+Fase de grupos: Partidas de 4 pistas, todos contra todos da chave. Vence a melhor soma dos pontos das 4 primeiras pistas
 
-Oitavas, Quartas de Final e Semifinal: Partidas de 7 pistas, quem vencer 4 pistas primeiro encerra a disputa.
+Oitavas, Quartas de Final e Semifinal: Partidas de 7 pistas (full game), vence a melhor soma dos pontos.
 
-Final e terceiro: Partidas de 11 pistas, quem vencer 6 pistas primeiro encerra a disputa.
+Final e terceiro: Partidas de 14 pistas (2 x full game), não podendo repetir o mesmo carro, vence a melhor soma dos pontos.
+
+# **Pontuação:**
+
+1st = 10 pontos
+2nd = 6 pontos
+3rd = 3 pontos
+4th = 0 pontos
 
 # **Como Jogar ?**
 
-Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
+1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos;
+2 - Entrarem na sala da disputa do FightCade 2 **"(Top Gear 3000 (USA) (SUPER NES)"**
+3 - Ao carregar o jogo selecionar 4 Players (2 jogadores humanos e 2 jogadores BOT).
+4 - Selecionar o carro desejado. Carro livre. Conforme lista a seguir:
+5 - Vence aquele que somar a pontuação ao final da disputa.
 
-- Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
-- Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
-- Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
-- Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
+**TG3K_Carro_A_Cheetah**
 
-## **Cenário 1 - Novas Estratégias:**
-**ROM Hack1 Requerida**
+![](TG3K_Carro_A_The_Cheetah.png)
 
-E se tivesse mais voltas do que o normal em algumas pistas? 
+**TG3K_Carro_B_The_Demon**
 
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
+![](TG3K_Carro_B_The_Demon.png)
 
-Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
+**TG3K_Carro_C_The_Phantom**
 
-## **Cenário 2 - Reis da Arrancada:**
-**ROM Hack2 Requerida**
+![](TG3K_Carro_C_The_Phantom.png)
 
-Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
+**TG3K_Carro_D_The_Pegasus**
 
-Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal um full game?)
-
-Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
-
-## **Cenário 3 - Promoção Tanque Cheio Grátis:**
-**ROM Hack3 Requerida**
-
-Objetivo: <span style="color:red">**Pilotos devem obrigatoriamente entrar nos boxes em todas as voltas**</span> e abastecer o quanto quiser e achar necessário, o combustível é **grátis**
-
-Atenção: <span style="color:red">**Se errar a entrada do Pit stop é como se desse pane seca!!!**</span> 
-O jogador que errar deve imediatamente parar de acelerar e poderá apenas posicionar o seu carro na pista para tentar ganhar empurrões de bots ou desistir até a próxima pista.
-Se ambos errarem durante uma partida e ninguém se recuperar com empurrões, os pilotos deverão aguardar o jogo dar race over e então jogar normalmente a próxima pista.
-
-Modificação: Toma aí 6 nitros para tentar recuperar as posições que serão perdidas.
-
-Objetivo: Jogar normalmente as pistas sorteadas e ver se o atraso do pit stop impedirá de chegar em 1st e 2nd.
-
-## **Cenário 4 - Velozes e Furiosos 2092:**
-**ROM Hack4 Requerida**
-
-E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
-
-Bata todos os records de tempo do Guinness Book se os bots deixarem é claro. Quero ver tangências de curvas sem tirar o pé do acelerador hahaha! 
-
-Sua chance de dar uma ou duas voltas em cima do Ritchie.
-
-Modificações: Nitros e Gasolina Infinita.
-
-Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.
-
-## **Cenário 5 - Efeito Borboleta:**
-**ROM Hack1 Requerida**
-
-"Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
-
-Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
-
-Objetivo: Jogar a pista sorteada por diversas vezes repetidamente.
-
-**Detalhes:**
-- Terá um sorteio de 2 a 16 que representará a quantidade de vezes que uma pista deverá ser jogada
-- Quanto maior o número de repetição, pistas mais simples e com menos voltas serão atribuídas.
-
-**Exemplo:**
-- Se cair repetição de 2 a 3x. Serão sorteadas pistas com 8, 9 ou 10 voltas
-- - Exemplo Pior cenário 3x Roma com 10 voltas
-- Se cair repetição de 4 a 6x. Serão sorteadas pistas com 4, 5, 6 ou 7 voltas
-- - Exemplo Pior cenário 6x Rio com 7 voltas
-- Se cair repetição de 7 a 10x. Serão sorteadas pistas com 3 voltas
-- - Exemplo Pior cenário 10x Stonehenge com 3 voltas
-- Se cair repetição de 11 a 13x. Serão sorteadas pistas com 2 voltas
-- - Exemplo Pior cenário 13x Pisa com 2 voltas
-- Se cair repetição de 14 a 16x. Serão sorteadas pistas com 1 volta apenas.
-- - Exemplo Pior cenário 16x Colônia com 1 volta
-
-Apesar de parecer um alto volume... As partidas não irão passar de mais 30 minutos de jogo, porque colônia com uma volta só é 40 segundos cada vez que jogar hahaha!
-
-![](Info_ROMs_Cenarios_WhatIf.png)
+![](TG3K_Carro_D_The_Pegasus.png)
 
 # **Classificação Desempate:**
 
@@ -153,17 +102,15 @@ Na fase de grupos o desempate se aplicará apenas na Pontuação geral, seguindo
 
 - Pontuação Geral, Confronto Direto, Jogos Vencidos, Pontos Conquistados.
 
-Nas fases finais o desempate segue o exemplo abaixo:
+Nas fases finais haverá um número ímpar de pistas, mas se ainda ocorrer, o desempate segue o exemplo abaixo:
         
-- 1º Cenário 100 x 80
-- 2º Cenário 80 x 100
-- Total 180 x 180
-- Desempate será jogando 4x o cenário com pistas de apenas 1 volta:
+Inicia-se um novo full game versus(7 pistas):
+    - Proibido repetir o carro que já jogou.
     - Vence o desempate, o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
-    - Permanecendo o empate, o cenário deverá ser jogado sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
+    - Permanecendo uma diferença menor ou igual a 5 pontos após mais um full game versus (7 pistas), o jogo deverá ser reiniciado jogado sucessivamente, sem repetir os carros, até que um jogador abra mais de 5 pontos de vantagem.
 
 # **Comunicação:**
-Serão criados grupos no aplicativo WhatsApp para cada um dos grupos de pilotos (se houver), sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
+Serão criados grupos no aplicativo WhatsApp para cada um dos grupos de pilotos, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
 
 A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. 
 
@@ -175,7 +122,7 @@ Os participantes que não realizarem suas partidas ou agendamento delas nos praz
 
 O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida. 
 
-A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado de comum acordo entre os pilotos será o válido.
+A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado de comum acordo entre os pilotos será o válido. Se não houver comum acordo, joguem novamente.
 
 Exemplo de postagem:
 
@@ -202,10 +149,10 @@ Mensagens de zoeira e gozação são permitidas, desde que não sejam ofensivas 
 
 **Denúncia:**
 
-Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp do campeonato, Discord, YouTube, Twitch, Instagram e outros) ou chat da transmissão oficial de uma partida válida do campeonato. 
+Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp do campeonato, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. 
 Chats privados e quaisquer outros meios não serão considerados.
-Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva à punição única de exclusão do campeonato e proibição de inscrição no campeonato seguinte.
-Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente.
+Após análise, se caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva à punição única de exclusão do campeonato e proibição de inscrição no campeonato seguinte.
+Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente, sem o envolvimento da administração da TGC
 As capturas de tela das mensagens ou áudios devem ser encaminhados por meio de protocolo conforme modelo a seguir, pelo Facebook com a hashtag #PROTOCOLO e que deverá ser respondido pela administração em um prazo máximo de 48h úteis.
 
 **Modelo de protocolo:**
@@ -222,31 +169,22 @@ PROTOCOLO DE JULGAMENTO DE CONDUTA:
 
 Clique aqui para ler as Regras Gerais <https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527>.
 
-Proibições e bugs estão descritos no link acima.
+Bugs e Trapaças estão proibidos, punições estão descritas no link acima. Cabendo ainda uma punição maior após análise da TGC.
 
 Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
 # **Regras Específicas:**
 
-- Será utilizado o emulador ZSNES 1.42;
-- A ROM poderá ser a Top Gear TGC Rom (E) [!] com as customizações para o cenário a ser jogado;
-- Nível/Level: Championship;
+- Será utilizado o emulador Fightcade 2 - **"(Top Gear 3000 (USA) (SUPER NES)"** ;
 - A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
-- A conexão deverá ser estabelecida por rede VPN HAMACHI ou RADMIN;
+- A conexão deverá ser estabelecida pela plataforma;
 - Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
   - Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge;
 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada país disputado;
 - Procedimento para início da partida:
-  - Selecione 2 Jogadores;
+  - Selecione 4 Jogadores;
     - Digitem seus nomes se desejado;
-    - Selecione o Cambio, Controle e Carro;
-    - Selecione a Dificuldade: Championships;
-    - Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da TGC ROM:
-    - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
-    - Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
-    - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-    - O Password para abrir todos os países na Rom Original é KELLSON.
-
+    - Selecionem o Carro;
 #
 **Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
 

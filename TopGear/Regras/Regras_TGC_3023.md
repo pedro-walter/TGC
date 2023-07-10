@@ -94,6 +94,11 @@ Final e terceiro: Partidas de 14 pistas (2 x full game), não podendo repetir o 
 
 ![](TG3K_Carro_D_The_Pegasus.png)
 
+**TG3K_Sala_FIghtCade**
+
+![](TG3K_Sala_FIghtCade.png)
+
+
 # **Classificação Desempate:**
 
 A classificação da fase de grupos se dará pela Pontuação Geral.

@@ -41,13 +41,13 @@ Prazo para confirmações e novas inscrições: 15/07/2023 às 11h59
 
 Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
 
-Fase de grupos terá prazo de 13 dias. Previsão de término – 28/07/2023 23h59
+Fase de grupos terá prazo de 13 dias. Previsão de término – 30/07/2023 23h59
 
-Oitavas de final terá prazo de 6 dias: 29 a 03/08/2023 23h59
+Oitavas de final terá prazo de 6 dias: 30 a 05/08/2023 23h59
 
-Quartas de final terá prazo de 6 dias: 04 a 10/08/03 23h59
+Quartas de final terá prazo de 6 dias: 06 a 12/08/03 23h59
 
-Semifinal, Final e terceiro terá prazo de 7 dias: 11 a 17/08/2023 23h59
+Semifinal, Final e terceiro terá prazo de 7 dias: 13 a 20/08/2023 23h59
 
 **Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com W.O's*
 
@@ -59,7 +59,7 @@ Modelo copa do mundo. (Chaveamento, Oitavas, quartas, semis, final e terceiro).
 
 O nível do jogo será o CHAMPIONSHIP (MODO VERSUS).
 
-Fase de grupos: Partidas de 4 pistas, todos contra todos da chave. Vence a melhor soma dos pontos das 4 primeiras pistas
+Fase de grupos: Partidas de 7 pistas - (full game do modo versus), todos contra todos da chave.
 
 Oitavas, Quartas de Final e Semifinal: Partidas de 7 pistas (full game), vence a melhor soma dos pontos.
 

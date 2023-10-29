@@ -111,7 +111,9 @@ Os resultados das partidas devem ser informados no grupo respectivo do whatsapp 
 Exemplo de postagem de resultado:
 
 Grupo A - Rodada 4
+
 @Player1 36 x 28 @Player2
+
 Link da live ou link do arquivo da gravação.
 
 **Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo whatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo que após mais uma segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.

@@ -6,27 +6,25 @@
 
 # **1. Premiação:** #
 
-1.1.	- R$ XXX,00 (Divididos entre os 3 primeiros colocados);
+1.1.	- Teremos premiação em dinheiro! (O valor total será divulgado no decorrer do campeonato. Dividido entre os 3 primeiros colocados);
 
-1.2.	- CAMPEÃO: R$ XXX,00 (50% do valor arrecadado);
+1.2.	- CAMPEÃO: (60% do total);
 
-1.3.	- VICE-CAMPEÃO: R$ XXX,00 (30% do valor arrecadado);
+1.3.	- VICE-CAMPEÃO: (25% do total);
 
-1.4.	- TERCEIRO: R$ XXX,00 (20% do valor arrecadado);
+1.4.	- TERCEIRO: (15% do total);
 
-1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço);
+1.5.    - 4 estrelas no **Mural de Honrarias da TGC**;
 
-1.6.    - 4 estrelas no **Mural de Honrarias da TGC**;
+1.6.    - Pontuação para o Mundial de Pilotos 2023 TGC;
 
-1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC;
-
-1.8.    - 1 (uma) vaga para a Copa dos Campeões (Champions Cup) 2023.
+1.7.    - 1 (uma) vaga para a Copa dos Campeões (Champions Cup) 2023.
 
 # **2. Inscrições:** #
 
 2.1.	As inscrições estarão abertas do dia 30/10/2023 até 02/11/2023 às 22h00.
 
-2.2.	A inscrição será gratuita, mas o jogador que puder contribuir com a organização do campeonato, poderá realizar transferência simbólica de R$ 5,00 através do Pix: +5561-98135-6228. (Os valores arrecadados serão convertidos em premiação. O comprovante deverá ser encaminhado para o WhatsApp do mesmo número).
+2.2.	A inscrição será gratuita, mas o jogador que quiser pode contribuir com a organização do campeonato, realizando transferência simbólica de R$ 5,00 através do Pix: +5561-98135-6228. (Os valores arrecadados serão convertidos em premiação. O comprovante deverá ser encaminhado para o WhatsApp do mesmo número).
 
 2.3.	As inscrições poderão ser encerradas antecipadamente ao critério da administração.
 
@@ -73,7 +71,7 @@
 
 4.7.    Todos os horários aqui estabelecidos, seguirão o horário oficial de Brasília/BR.
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+**Observação:** As Rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
 # **5. Itens Obrigatórios:**
 
@@ -135,9 +133,9 @@
 
 8.8.	Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
-8.9     Os participantes poderão agendar o início de suas partidas no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
+8.9     Os participantes poderão agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
 
-8.10    O lançamento dos resultados deverá ser lançado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
+8.10    O lançamento dos resultados deverá ser realizado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
 
 Exemplo de postagem de resultado:
 
@@ -177,7 +175,7 @@ Exemplo de postagem de resultado:
 
 # **10. Regras Gerais:**
 
-10.1.	Clique aqui para ler as Regras Gerais <https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527>.
+10.1.	Clique aqui para ler as Regras Gerais <https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527>. (Mesmas Regras  Gerais da Comunidade Top Gear Championships)
 
 10.2.	Proibições e bugs estão descritos no link acima:
 

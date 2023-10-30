@@ -4,15 +4,15 @@
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-1.	# **Premiação:** #
+# **1. Premiação:** #
 
 1.1.	- R$ XXX,00 (Divididos entre os 3 primeiros colocados);
 
-1.2.	- CAMPEÃO: R$ XXX,00;
+1.2.	- CAMPEÃO: R$ XXX,00 (50% do valor arrecadado);
 
-1.3.	- VICE-CAMPEÃO: R$ XXX,00;
+1.3.	- VICE-CAMPEÃO: R$ XXX,00 (30% do valor arrecadado);
 
-1.4.	- TERCEIRO: R$ XXX,00;
+1.4.	- TERCEIRO: R$ XXX,00 (20% do valor arrecadado);
 
 1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço);
 
@@ -20,9 +20,9 @@
 
 1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC;
 
-1.8.    - 1 (uma) vaga para a CC (Champions Cup) 2023.
+1.8.    - 1 (uma) vaga para a Copa dos Campeões (Champions Cup) 2023.
 
-2.	# **Inscrições:** #
+# **2. Inscrições:** #
 
 2.1.	As inscrições estarão abertas do dia 30/10/2023 até 02/11/2023 às 22h00.
 
@@ -43,7 +43,7 @@
 
 2.7     Os participantes aqui inscritos se comprometem a cumprir todas as regras estabelecidas neste regulamento. Em caso de descumprimento, a administração analisará cada caso e tomará as medidas necessárias para o bom andamento do campeonato. 
 
-3.	# **Validação e Verificação de perfil dos Inscritos:** #
+# **3. Validação e Verificação de perfil dos Inscritos:** #
 
 3.1.	A administração da SNESTALGIA e da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
@@ -57,7 +57,7 @@
 
 3.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a SNESTALGIA e a TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
-4.	# **Cronograma (Previsão):**
+# **4. Cronograma (Previsão):**
 
 4.1. Prazo para confirmações e novas inscrições: 02/11/2023 às 22h00
 
@@ -75,7 +75,7 @@
 
 **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
-5.	# **Itens Obrigatórios:**
+# **5. Itens Obrigatórios:**
 
 5.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
@@ -85,7 +85,7 @@
 
 5.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-6.	# **Organização e Chaveamento:**
+# **6. Organização e Chaveamento:**
 
 6.1.	Será utilizado o CHALLONGE [link](https://challonge.com/pt_BR/SnestalgearCup2023) para chaveamento das partidas do campeonato.
 
@@ -95,7 +95,7 @@
 
 6.4.	Final e terceiro: 4 países.
 
-7.	# **Classificação e Desempate:**
+# **7. Classificação e Desempate:**
 
 7.1.	Na fase de grupo(s), a classificação será definida pela pontuação geral. As pontuações serão definidas da seguinte forma:
 - Vitória = 3 pontos;
@@ -117,7 +117,7 @@
 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente.
 
-8.	# **Comunicação:**
+# **8. Comunicação:**
 
 8.1.	Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
   	
@@ -147,7 +147,7 @@ Exemplo de postagem de resultado:
 
 8.9.	**Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
-9.	# **Regras de Conduta**
+# **9. Regras de Conduta**
 
 9.1.	É passível de eliminação do campeonato, mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
 
@@ -175,7 +175,7 @@ Exemplo de postagem de resultado:
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
-10.	# **Regras Gerais:**
+# **10. Regras Gerais:**
 
 10.1.	Clique aqui para ler as Regras Gerais <https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527>.
 
@@ -203,7 +203,7 @@ Exemplo de postagem de resultado:
 
 10.9.	Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
-11.	# **Regras Específicas:**
+# **11. Regras Específicas:**
 
 11.1.	- Será utilizado o emulador ZSNES 1.42;
 
@@ -232,7 +232,7 @@ Exemplo de postagem de resultado:
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
 - O Password para abrir todos os países na Rom Original é KELLSON.
 
-12.	# **Situações inéditas**
+# **12. Situações inéditas**
 
 12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
 

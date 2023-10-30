@@ -15,6 +15,8 @@
 1.4.	- TERCEIRO: R$ XXX,00
 
 1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço) 
+1.6.    - 4 estrelas no **Mural de Honrarias da TGC**
+1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC
 
 2.	# **Inscrições:** #
 
@@ -33,7 +35,9 @@
     Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Hamachi, se houver erro, poderá ser utilizado o Radmin.
 
-2.6.	A SNESTALGIA e a TGC, se reservam ao direito do uso de imagem dos participantes deste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+2.6.	A SNESTALGIA e a TGC, se reservam ao direito do uso de imagem dos participantes inscritos deste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+
+2.7     Os participantes aqui inscritos se comprometem a cumprir todas as regras estabelecidas neste regulamento. Em caso de descumprimento, a administração analisará cada caso e tomará as medidas necessárias para o bom andamento do campeonato. 
 
 3.	# **Validação e Verificação de perfil dos Inscritos:** #
 
@@ -55,15 +59,15 @@
 
 4.2. Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
 
-4.3.	Fase de grupos terá prazo de 8 dias.
+4.3.	Fase de grupos terá prazo de 8 dias (até dia 10/11/2023 às 23h).
 
-4.4.	Oitavas de final terá prazo de 5 dias
+4.4.	Oitavas de final terá prazo de 5 dias (até dia 15/11/2023 às 23h)
 
-4.5.	Quartas de final terá prazo de 4 dias
+4.5.	Quartas de final terá prazo de 4 dias (até dia 19/11/2023 às 23h)
 
-4.6.	Semifinal terá prazo de 4 dias
+4.6.	Semifinal, Final e Disputa do Terceiro terá prazo de 7 dias (até dia 26/11/2023, possivelmente com transmissões ao vivo pelo Canal do You Tube **Snelstalgia**)
 
-4.7.	Final e disputa do terceiro terá prazo de 3 dias
+4.7.    Todos os horários aqui estabelecidos, seguirão o horário oficial de Brasília/BR.
 
 **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
@@ -126,6 +130,10 @@
 8.7.	**É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
 
 8.8.	Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+
+8.9     Os participantes poderão agendar o início de suas partidas no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
+
+8.10    O lançamento dos resultados deverá ser lançado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
 
 Exemplo de postagem de resultado:
 

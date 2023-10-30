@@ -6,19 +6,21 @@
 
 1.	# **Premiação:** #
 
-1.1.	- R$ XXX,00 (Divididos entre os 3 primeiros colocados)
+1.1.	- R$ XXX,00 (Divididos entre os 3 primeiros colocados);
 
-1.2.	- CAMPEÃO: R$ XXX,00
+1.2.	- CAMPEÃO: R$ XXX,00;
 
-1.3.	- VICE-CAMPEÃO: R$ XXX,00
+1.3.	- VICE-CAMPEÃO: R$ XXX,00;
 
-1.4.	- TERCEIRO: R$ XXX,00
+1.4.	- TERCEIRO: R$ XXX,00;
 
-1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço) 
+1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço);
 
-1.6.    - 4 estrelas no **Mural de Honrarias da TGC**
+1.6.    - 4 estrelas no **Mural de Honrarias da TGC**;
 
-1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC
+1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC;
+
+1.8.    - 1 (uma) vaga para a CC (Champions Cup) 2023.
 
 2.	# **Inscrições:** #
 

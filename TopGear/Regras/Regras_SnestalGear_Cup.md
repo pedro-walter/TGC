@@ -15,7 +15,9 @@
 1.4.	- TERCEIRO: R$ XXX,00
 
 1.5.	- Troféu de acrílico para os 3 mais bem colocados. (Os vencedores devem arcar apenas com o frete para seu endereço) 
+
 1.6.    - 4 estrelas no **Mural de Honrarias da TGC**
+
 1.7.    - Pontuação para o Mundial de Pilotos 2023 TGC
 
 2.	# **Inscrições:** #

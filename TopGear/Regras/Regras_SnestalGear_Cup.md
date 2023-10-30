@@ -238,4 +238,4 @@ Exemplo de postagem de resultado:
 
 12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes.**
 
-# **A administração da SNESTALGIA e da TGC desejam a todos os participantes um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**
+# **A administração da SNESTALGIA e da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**

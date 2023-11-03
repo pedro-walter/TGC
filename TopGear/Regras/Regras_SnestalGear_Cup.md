@@ -93,6 +93,8 @@
 
 6.4.	Final e terceiro: 4 países.
 
+6.5.    Para o sorteio na fase de grupos, serão cabeça de chave, os melhores classificados no Mundial de Pilotos 2023 da TGC.
+
 # **7. Classificação e Desempate:**
 
 7.1.	Na fase de grupo(s), a classificação será definida pela pontuação geral. As pontuações serão definidas da seguinte forma:
@@ -191,15 +193,16 @@ Exemplo de postagem de resultado:
 
 - Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
 
-10.8.	Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
+10.8.	Em caso de bug de pane seca ao mesmo tempo para ambos os jogadores ao entrar no pit das pistas de Rio, Tokyo, Kyoto, Nice, Bourdeaux, Roma e Londres, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país novamente (utilizando a ROM Original).
+- Obs. 1: Caso os jogadores estejam jogando com a ROM Original, não haverá atribuição de pontuação da pista onde aconteceu a pane, sendo necessário jogar o país todo novamente e a contagem de pontos das pistas daquele país que tiverem sido jogadas anteriormente será zerada.
+- Obs. 2: Não será necessário jogar todo o país novamente, caso o bug aconteça na pista de Kyoto, sendo atribuído as pontuações conforme descrito no caput deste item, jogando-se apenas os países restantes.
+- Obs. 3: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
 
-- Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
+10.9.	Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
 
-- Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
+10.10.  Caso aconteça um bug, onde claramente o jogador chegaria a linha de chagada, porém o jogo fecha com tela preta, será atribuída ao final da partida, a pontuação da posição que o jogador estava quando a tela escureceu.
 
-10.8.	Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
-
-10.9.	Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
+10.11.	Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
 # **11. Regras Específicas:**
 
@@ -234,6 +237,6 @@ Exemplo de postagem de resultado:
 
 12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
 
-12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes.**
+12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
 
 # **A administração da SNESTALGIA e da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**

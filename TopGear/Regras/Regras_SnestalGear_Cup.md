@@ -67,9 +67,11 @@
 
 4.5.	Quartas de final terá prazo de 4 dias (até dia 19/11/2023 às 23h)
 
-4.6.	Semifinal, Final e Disputa do Terceiro terá prazo de 7 dias (até dia 26/11/2023, possivelmente com transmissões ao vivo pelo Canal do You Tube **Snelstalgia**)
+4.6     Semifinal terá prazo de 5 dias (até 25/11 às 23h)
 
-4.7.    Todos os horários aqui estabelecidos, seguirão o horário oficial de Brasília/BR.
+4.7.	Final e Disputa do Terceiro terá prazo de 6 dias (até dia 01/12/2023 às 23h)
+
+4.8.    Todos os horários aqui estabelecidos, seguirão o horário oficial de Brasília/BR.
 
 **Observação:** As Rodadas podem ter o prazo estendido caso a administração julgue necessário.
 

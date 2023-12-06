@@ -1,1 +1,89 @@
+1. INSCRIÇÕES:
 
+1.1 - Classificados:
+
+Ordem	- Nome do Campeonato	 - Vagas CC	       - Posição
+1° C	- Torneio de Verão	   - Jurandir Filho	 - 1st
+2° C	- La Liga X	           - Alexis Sánchez	 - 1st
+3° C	- Copa TGC	           - Rafael Lopes	   - 1st
+4º C	- Torneio de Outono	   - Tomyo Sato	     - 1st
+5º C	- Snesecidade	         - Allan Live	     - 2nd
+6º C	- TGC 14	             - Carlos Rubens	  - 3rd
+7º C	- Torneio de Inverno	 - Robson Meireles	- 1st
+8º C	- La Liga XI	         - Vinny	          - 9th
+9º C	- Torneio de Primavera - Lenno Coelho	    - 3rd
+10º C	- SnestalGearCup	     - Carlos CJX	      - 9th
+
+1.2 - Apenas os jogadores acima mencionados, deverão se manifestar quanto ao interesse de participar da ChampionsCup2023. Caso um jogador desista ou não se manifeste até às 10h do dia 07/12/2023, será substituído por outro jogador melhor qualificado no campeonato da vaga do jogador desistente conforme as regras de classificação da CC.
+
+2. CRONOGRAMA:
+    2.1 - O Sorteio será realizado no dia 07/12/2023, após confirmação das inscrições;
+    2.2 - A fase de grupos começará após realização do sorteio e terá duração até às 23h do dia 16/12/2023; 
+    2.3 - O prazo para realização da Final, será até às 23h do dia 20/12/2023 às 23h.
+
+3. ORGANIZAÇÃO E CHAVEAMENTO
+    3.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato
+    3.2 - O campeonato terá uma fase de grupos e os vencedores de cada grupo se enfrentam em uma final de jogo único;
+    3.3 - A escolha de carros é livre;
+    3.4 - Será utilizado o sistema de comissário eletrônico:
+        3.4.1 - Pode ser acessado no endereço https://leomarx.com/games/tgc/comissario.html;
+        3.4.2 - É necessário informar o carro que será utilizado para cada rodada na fase de grupos, podendo informar até o momento antes de começar a partida;
+        3.4.3 - Para a Final, informar o carro que será utilizado na partida normal e o carro que será utilizado para um possivel desempate;
+        3.4.4 - Descumprimento desse procedimento resulta em perda de partida.
+    3.5 - Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para cada rodada.
+    3.6 - Na Final, serão sorteados 03 países para a disputa normal e um país para o início de um possível desempate;
+    3.7 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+        3.7.1 - É permitido trocar de carro ao reiniciar a ROM, desde que seja aquele informado no Comissário, conforme item 3.4.3;
+        3.7.2 - Vence o desempate, o jogador que abrir mais que 5 pontos;
+        3.7.3 - Mantendo-se o empate após o primeiro país, deverá ser jogado o país seguinte, até que um dos jogadores abra mais de 5 pontos de vantagem.
+        3.7.4 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
+    3.8 - Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o para as partidas restantes.
+
+4. COMUNICAÇÂO
+    4.1 - Será utilizado um grupo do whatsapp para os jogadores combinarem as partidas. Deve ser usado unicamente para os anúncios da administração, combinar horário para jogar, combinar transmissão e comentário ao vivo, e para postagem de resultados;
+    4.2 - Os jogadores podem fazer uma chamada para o seu oponente a cada 48 horas, marcando com @;
+    4.3 - Os jogadores devem anunciar o resultado de suas partidas no grupo;
+    4.4 - Os participantes que não realizarem o agendamento de suas partidas no prazo estabelecido pela administração através do grupo, ou que não realize suas partidas no horário marcado sem justificativa, receberá W.O. e terá atribuída derrota;
+    4.5 - O envio de mensagens estará proibido caso um dos participantes solicite no início da partida;
+    1. Sobre o teor das mensagens trocadas entre os participantes:
+        1. Mensagens de zueira e gozação são permitidas, desde que não sejam ofensivas segundo as regras a seguir.
+        1. É passível de desclassificação mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
+            - Racial ou étnica
+            - Gênero
+            - Religião
+            - Status social
+            - De idade, deficiência
+            - Difamação ou calúnia
+            - Lugar onde mora ou nasceu
+        1. Os prints das mensagens ou áudios (enviados no período de realização do campeonato) devem ser enviados para a organização para análise. Fica a critério da administração o julgamento e possível desclassificação do jogador.
+        1. Somente serão analisadas mensagens enviadas:
+            - em canais oficiais da TGC ou diretamente para o jogador
+            - a partir da data de inscrição para o campeonato.
+1. REGRAS E PROCEDIMENTOS:
+    1. Será utilizado o emulador ZSNES 1.42
+    1. A ROM será a Top Gear TGC Rom (E) [!]
+    1. A conexão deverá ser estabelecida por rede VPN HAMACHI ou RADMIN;
+    1. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge, exceto na grande final onde o jogador invicto fará a escolha.
+    1. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada pista disputada.  
+    1. O nível do jogo será o CHAMPIONSHIPS;
+    1. A escolha de câmbio (automático ou manual) é livre durante todo o torneio.
+    1. Proibido o bug de bater no poste para ganhar duas posições;
+    1. Proibido o uso do freio em curvas para derrapagem (acelerador+freio), devido ao bug de não reduzir a velocidade ser exclusiva para o P1;
+    1. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+    1. Procedimento para início da partida:
+        - Selecione 2 Jogadores;
+        - Digitem seus nomes se desejado;
+        - Selecione o Cambio, Controle e Carro;
+        - Selecione a Dificuldade: Championships;
+        - Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da TGC ROM:
+            - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
+            - Para selecionar a pista Pressione o botão "A”. Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
+            - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
+1. LINKS IMPORTANTES:
+    1. [Top Gear TGC Rom (E) [!]](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640/)
+    1. [RADMIN VPN](https://www.radmin-vpn.com/)
+    1. [ZSNES 1.42](http://prdownloads.sourceforge.net/zsnes/zsnesw142.zip)
+    1. [HAMACHI VPN](https://www.facebook.com/groups/topgearchampionships/permalink/2459236631010949)
+    1. [DISCORD TGC](https://discord.gg/4gS5JBBp)
+1. DISPOSIÇÕES FINAIS
+    1. As regras podem ser modificadas durante o campeonato caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes;

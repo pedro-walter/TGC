@@ -1,77 +1,86 @@
 # **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-# **Torneio de Top Gear de Estação ** #
+# **Torneios de Estação Top Gear** #
 
-# **Vermelho = Verão, Azul = Outono, Branco = Inverno, Roxo = Primavera)** #
+# **Vermelho = Verão, Azul = Outono, Branco = Inverno, Roxo = Primavera** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-# **2 Modelo Confirmação:** #
+# **1. Incrições / Confirmação:** #
+
+1.1.	O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
     Apelido/Nickname: LeomarxGames
-    Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
+    Número do telefone com WhatsApp: +55-11-99999-8888
+    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-# **3. Validação e Verificação de perfil dos Inscritos:** #
+# **2. Validação e Verificação de perfil dos Inscritos:** #
 
-3.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
+2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-3.2.	Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
+2.2.	Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
-3.3.	As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
+2.3.	As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
 - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-3.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
+2.4.	O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
-# **4. Itens Obrigatórios:** #
+# **3. Itens Obrigatórios:** #
 
-4.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
-4.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
+3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-4.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
+3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
 
-4.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-# **5. Cronograma (Previsão):** #
+# **4. Cronograma (Previsão):** #
 
-5.1. O Sorteio será realizado no dia 07/12/2023, após confirmação das inscrições;
+4.1. O sorteio será realizado no dia 10/01/2024, após confirmação das inscrições.
 
-5.2. A fase de grupos começará 08/12/2023 terá prazo de 8 dias duração até às 23h do dia 16/12/2023; 
+4.2. E cada partida terá prazo de 4 dias na fase de grupos com duração até às 23h do dia final do prazo.
 
-5.3. O prazo para realização da Final terá prazo de 5 dias e será até às 23h do dia 21/12/2023;
+4.3. O prazo para a realização das fases finais terá prazo de 4 dias cada uma (oitavas, quartas, semifinal, terceiro e final) com duração até às 23h do dia final do prazo.
 
-**Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+4.4. **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
 
-# **6. Organização e Chaveamento:** #
+# **5. Organização e Chaveamento:** #
 
-6.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato https://challonge.com/ChampionsCup2023;
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/torneiodeverao2024_groupstage](https://challonge.com/pt_BR/torneiodeverao2024_groupstage).
 
-6.2. O campeonato terá uma fase de grupos e os vencedores de cada grupo se enfrentam em uma final de jogo único;
+5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados se enfrentam em uma final de jogo único.
 
-6.3. A escolha de carros é livre;
+5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
-6.4. Será utilizado o sistema de comissário eletrônico:
+- Vitória = 3 pontos;
+- Empate = 1 ponto;
+- Derrota = 0 pontos.
 
-6.4.1. O Comissário pode ser acessado aqui (https://topgearchampionships.com/games/tgc/comissario.html);
+5.4. A escolha de carro é obrigatória conforme a cor da estação, sendo **Vermelho = Verão, Azul = Outono, Branco = Inverno, Roxo = Primavera.**
 
-6.4.2. É necessário informar o carro que será utilizado para cada rodada na fase de grupos, podendo informar até o momento antes de começar a partida;
+5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-6.4.3. Para a Final, informar o carro que será utilizado na partida normal e o carro que será utilizado para um possível desempate;
+- Inscritos: até 12. Classificados: 8;
+- Inscritos: entre 13 e 16. Classificados: 8;
+- Inscritos: entre 17 e 20. Classificados: 16;
+- Inscritos: entre 21 e 24. Classificados: 16;
+- Inscritos: entre 25 e 28. Classificados: 16;
+- Inscritos: entre 29 e 32. Classificados: 16.
+- Inscritos: 32 ou mais. Classificados: 16.
 
-6.4.4. O descumprimento desse procedimento resulta em perda de partida;
+5.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para cada rodada.
 
-6.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para cada rodada;
+5.6. Nas fases finais, serão sorteados 12 pistas para a oitavas, quartas, semifinal e terceiro e um país para o início de um possível desempate.
 
-6.6. Na final, serão sorteados 04 países para a disputa normal e um país para o início de um possível desempate;
+5.6. Na final, serão sorteados 16 pistas para a disputa normal e um país para o início de um possível desempate.
 
-6.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
-
-6.7.1. É permitido trocar de carro ao reiniciar a ROM, desde que seja aquele informado no Comissário, conforme item 6.4.3;
+5.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
@@ -80,28 +89,29 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-6.8. Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o para as partidas restantes.
+5.8. Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o. para as partidas restantes.
 
-# **7. Validação das partidas** #
+5.9. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim nas pistas seguintes o adversário leva os 20 pontos de cada pista e quem sair fica com zero nas pistas finais, sem ser prejudicado pela regra de excesso de w.o.
 
-7.1. Caso os participantes não consigam transmitir a partida online, um dos pilotos devem gravar e encaminhar o resultado. 
+# **6. Validação das partidas** #
 
-7.2. A gravação da partida será obrigatória, caso não seja possível transmiti-la ao vivo.
+6.1. É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
-7.3. Resolução ideal é em **HD 1280x720 (720p)**, porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será **(SD) 854 x 480 (480p)**.
+6.2. Ainda que um dos pilotos faça a transmissão online, ambos os pilotos devem obrigatóriamente gravar a partida, para evitar problemas técnicos e, então, depois um dos pilotos depois encaminhar o resultado. 
 
-7.4. O arquivo de gravação deve ser disponibilizado na nuvem ou no grupo do WhatsApp, através do arquivo de gravação gerado no OBS Studio ou a gravação direto do emulador (Se necessário, solicitar o manual de instruções de gravação).
+6.3. Resolução ideal é em **HD 1280x720 (720p)**, porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será **(SD) 854 x 480 (480p)**.
 
-7.5. **É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
+6.4. O arquivo de gravação deve ser disponibilizado na nuvem ou no grupo do WhatsApp, através do arquivo de gravação gerado no OBS Studio ou a gravação direto do emulador (Se necessário, solicitar o manual de instruções de gravação).
 
-# **8. Comunicação:** #
-8.1. Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
+# **7. Comunicação:** #
+
+7.1. Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
 
 8.2. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
 8.3. Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
-8.4. Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., podendo ser substituído por jogador que estiver em cadastro de reserva ou atribuída derrota pelo placar de pontuação máxima para o adversário e mínima para quem for aplicado o W.O.
+8.4. Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., 
 
 8.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
@@ -196,7 +206,7 @@ Exemplo de postagem de resultado:
 - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
 - Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-- O Password para abrir todos os países na Rom Original é KELLSON.
+- O Password para abrir todos os países na Rom Original é KELLSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 
 # **12. Situações inéditas** #
 

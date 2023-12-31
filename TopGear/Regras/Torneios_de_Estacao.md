@@ -1,8 +1,6 @@
-# **A Comunidade Top Gear Championships (TGC) Apresenta:** #
+# **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Torneios de Estação Top Gear** #
-
-# **Vermelho = Verão, Azul = Outono, Branco = Inverno, Roxo = Primavera** #
+# **TORNEIO DE VERÃO** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -10,6 +8,7 @@
 
 1.1.	O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
+    Exemplo:
     Apelido/Nickname: LeomarxGames
     Número do telefone com WhatsApp: +55-11-99999-8888
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
@@ -42,13 +41,13 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. O sorteio será realizado no dia 10/01/2024, após confirmação das inscrições.
+4.1. Abertura das inscrições: 03/01/2024
 
-4.2. E cada partida terá prazo de 4 dias na fase de grupos com duração até às 23h do dia final do prazo.
+4.2. O sorteio será realizado no dia 10/01/2024, após confirmação das inscrições.
 
-4.3. O prazo para a realização das fases finais terá prazo de 4 dias cada uma (oitavas, quartas, semifinal, terceiro e final) com duração até às 23h do dia final do prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 4 dias, finalizando até às 23h do último dia de prazo.
 
-4.4. **Observação:** As rodadas podem ter o prazo estendido caso a administração julgue necessário.
+4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
@@ -62,23 +61,18 @@
 - Empate = 1 ponto;
 - Derrota = 0 pontos.
 
-5.4. A escolha de carro é obrigatória conforme a cor da estação, sendo **Vermelho = Verão, Azul = Outono, Branco = Inverno, Roxo = Primavera.**
+5.4. **É obrigatório o uso do carro VEMRELHO.**
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-- Inscritos: até 12. Classificados: 8;
-- Inscritos: entre 13 e 16. Classificados: 8;
-- Inscritos: entre 17 e 20. Classificados: 16;
-- Inscritos: entre 21 e 24. Classificados: 16;
-- Inscritos: entre 25 e 28. Classificados: 16;
-- Inscritos: entre 29 e 32. Classificados: 16.
-- Inscritos: 32 ou mais. Classificados: 16.
+- Inscritos: até 18. Classificados: 8;
+- Inscritos: 19 ou mais. Classificados: 16;
 
-5.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para cada rodada.
+5.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.6. Nas fases finais, serão sorteados 12 pistas para a oitavas, quartas, semifinal e terceiro e um país para o início de um possível desempate.
+5.6. Nas fases finais, serão sorteadas 12 pistas para a oitavas, quartas, semifinal e terceiro e um país para o início de um possível desempate.
 
-5.6. Na final, serão sorteados 16 pistas para a disputa normal e um país para o início de um possível desempate.
+5.6. Na final, serão sorteadas 16 pistas para a disputa normal e um país para o início de um possível desempate.
 
 5.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 

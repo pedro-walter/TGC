@@ -4,7 +4,7 @@
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-# **1. Incrições / Confirmação:** #
+# **1. Incrições:** #
 
 1.1.	O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
@@ -14,7 +14,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-# **2. Validação e Verificação de perfil dos Inscritos:** #
+# **2. Validação e Verificação de Perfil dos Inscritos:** #
 
 2.1.	A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
@@ -38,12 +38,13 @@
 3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
 
 3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.5.    **Hamachi** = Link para download **COLOCAR O LINK**
 
 # **4. Cronograma (Previsão):** #
 
-4.1. Abertura das inscrições: 03/01/2024
+4.1. As inscrições serão aceitas de 03/01/2024 até às 23h00 do dia 09/01/2024;
 
-4.2. O sorteio será realizado no dia 10/01/2024, após confirmação das inscrições.
+4.2. Sorteio dos países e 1ª Rodada será realizado no dia 10/01/2024, após confirmação das inscrições.
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 4 dias, finalizando até às 23h do último dia de prazo.
 
@@ -70,9 +71,9 @@
 
 5.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.6. Nas fases finais, serão sorteadas 12 pistas para a oitavas, quartas, semifinal e terceiro e um país para o início de um possível desempate.
+5.6. Nas fases finais, serão sorteadas 12 pistas para a oitavas, quartas e semifinal e um país para o desempate.
 
-5.6. Na final, serão sorteadas 16 pistas para a disputa normal e um país para o início de um possível desempate.
+5.6. Na final e disputa de 3º, serão sorteadas 16 pistas para a disputa normal e um país para desempate.
 
 5.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
@@ -83,19 +84,21 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.8. Durante o campeonato não haverá substituição de jogadores, aqueles que desistirem, receberam w.o. para as partidas restantes.
+5.8. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.9. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim nas pistas seguintes o adversário leva os 20 pontos de cada pista e quem sair fica com zero nas pistas finais, sem ser prejudicado pela regra de excesso de w.o.
+5.9. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
 # **6. Validação das partidas** #
 
-6.1. É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+6.1. É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
-6.2. Ainda que um dos pilotos faça a transmissão online, ambos os pilotos devem obrigatóriamente gravar a partida, para evitar problemas técnicos e, então, depois um dos pilotos depois encaminhar o resultado. 
+6.2. Ainda que um dos pilotos faça a transmissão online, ambos os pilotos devem gravar a partida, para evitar problemas técnicos e, então, depois um dos pilotos depois encaminhar o resultado. 
 
 6.3. Resolução ideal é em **HD 1280x720 (720p)**, porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será **(SD) 854 x 480 (480p)**.
 
 6.4. O arquivo de gravação deve ser disponibilizado na nuvem ou no grupo do WhatsApp, através do arquivo de gravação gerado no OBS Studio ou a gravação direto do emulador (Se necessário, solicitar o manual de instruções de gravação).
+
+6.5. Não serão aceitos resultados enviados sem o cumprimento das regras previstas nos subitens anteriores do item 6.
 
 # **7. Comunicação:** #
 
@@ -119,7 +122,7 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-7.8. **Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+7.8. O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
 # **8. Regras de Conduta** #
 
@@ -165,7 +168,7 @@ Exemplo de postagem de resultado:
 - Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
 - Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
 
-9.7. Caso o país sorteado seja UK e ambos utilizarem carros que não completam STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
+9.7. Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
 - Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
 
 9.8. Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
@@ -206,6 +209,6 @@ Exemplo de postagem de resultado:
 
 11.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
 
-11.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes.**
+11.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
 # **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #

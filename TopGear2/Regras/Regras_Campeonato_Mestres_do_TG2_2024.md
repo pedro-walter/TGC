@@ -1,65 +1,123 @@
-﻿# **A Comunidade TGC (Top Gear Championships) Apresenta:** #
+﻿# **O canal Leomarx Games e a Comunidade Top Gear Championships (TGC) Apresentam:** #
 
-# **3° Campeonato Mestres do Top Gear 2 - 2023** #
+# **4° Campeonato Mestres do Top Gear 2 - 2024 - 1° Edição** #
 
-# **Itens Obrigatórios:**
-**Emulador Null DC 1.96c =** Link para download [aqui](https://github.com/RossenX/NullDC-BEAR/releases/tag/1.96c)
+# **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-**Emulador Retroarch =** Link para download [aqui](https://www.retroarch.com/index.php?page=platforms)
+# **1 - Incrições:** #
 
-ROM: Top Gear 2 (Americana) = Link para download [aqui](https://leomarx.com/games/tgc/TopGear2(USA).zip)
-(Podemos de comum acordo da maioria mudar para ROM européia, se ela funcionar online)
-
-Radmin para conexão entre os jogadores = Link para download [aqui](https://vpn.net/)
-
-# **Inscrições:**
-Lista dos participantes com os respectivos Nicks e/ou nomes do Facebook.
-
-Mínimo de 8 Participantes - Máximo a ser definido pela comissão.
-
-Obs.: O Torneio pode ser iniciado antecipadamente caso seja atingido o número par de participantes para que o chaveamento seja feito de forma correta "número par de jogadores 8/10/12/14...16". Poderá ser feito cadastro reserva de jogadores a fim de preencher possíveis desistência de jogadores.
+1.1	- O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
 CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
-Apelido/Nickname: LeomarxGames Número de telefone com WhatsApp: +55-11-9-9349-9981 Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
-# **Cronograma (Previsão):**
-Prazo para confirmações e novas inscrições: 04/03/2023 às 17h59 
+    Exemplo:
+    Apelido/Nickname: LeomarxGames
+    Número do telefone com WhatsApp: +55-11-99999-8888
+    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
+    Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Retroarch e Null DC Bear + Radmin e/ou Hamachi)
+    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-Após revisão das inscrições será feito o sorteio das pistas/países e inicia a Fase de Grupos 
+1.2 - Mínimo de 8 Participantes - Máximo a ser definido pela comissão.
 
-Fase de grupos terá prazo de 14 dias. Previsão de término – 18/03/2023 23h59 
+# **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
-Oitavas de final:19 a 22/03/2023 23h59
+2.1 - A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-Quartas de final: 23 a 26/03 23h59
+2.2 - Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
-Semifinal, Final e terceiro: 27 a 02/04/2023 23h59
+2.3 - As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
-**Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com W.O's*
+- Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+- Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+- Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-Durante a fase de grupos, na primeira metade do prazo (até dia 12/03/2023 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
+2.4 - O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a Leomarx Games e/ou TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
-O competidor que não cumprir o item anterior, poderá ser desclassificado e receber W.O de todas as partidas
-# **Organização e Chaveamento:**
-Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
+# **3 - Itens Obrigatórios:** #
 
-O nível do jogo será o CHAMPIONSHIP.
+3.1 - **Emulador Null DC 1.96c =** Link para download [aqui](https://github.com/RossenX/NullDC-BEAR/releases/tag/1.96c)
 
-Fase de grupos: 2 países, sendo 1 países para cada rodada (Como se fosse jogos de ida e volta).
+3.2 - **Emulador Retroarch =** Link para download [aqui](https://www.retroarch.com/index.php?page=platforms)
 
-Oitavas e Quartas de Final: 3 países de rodada única
+3.3 - **ROM Top Gear 2 (Européia) =** Link para download [aqui](https://wowroms.com/en/roms/super-nintendo/top-gear-2-europe/29934.html)
 
-Semifinal, Final e terceiro: 4 países (2 países ida e 2 países volta)
-# **Classificação e Desempate:**
-Na fase de grupo(s), a classificação será definida pela pontuação geral. As pontuações serão definidas da seguinte forma: Vitória = 3 pontos, Empate = 1 ponto, Derrota = 0 ponto.
+3.4. - **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
-Depois a depender da quantidade de inscritos poderão passar 4, 6 ou 8 mais bem colocados e poderão ser aplicados modos diferentes de rodadas e fases finais devido a quantidade de participantes.
+3.5. - **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-Os critérios de desempate na fase de grupo serão na seguinte ordem: Confronto Direto. Jogos Vencidos. Pontos Conquistados.
+# **4 - Cronograma (Previsão):** #
 
-Em caso de empate nas fases finais, os pilotos devem reiniciar a ROM e jogar o próximo país subsequente ao último sorteado. No desempate os pilotos devem utilizar normalmente a regra de dinheiro e upgrades. Vence o jogador que ao final do **país subsequente tiver mais pontos**, caso o empate se mantenha, deve-se continuar jogando e vencerá o piloto que **terminar na frente a primeira pista do país seguinte em qualquer posição, mesmo com Race Over** (ver mais detalhes nesta seção).
+4.1 - As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 09/01/2024;
 
-Obs: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente.
+4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 10/01/2024;
+
+4.3 - Prazos previstos ( Todos em Horário de Brasília):
+
+- Fase de grupos terá prazo de 12 dias. Previsão de término 22/01/2024 23h00
+- Oitavas de final terá prazo de 5 dias: Previsão de 23 a 27/01/2024 23h00
+- Quartas de final terá prazo de 5 dias: Previsão de 28 a 01/02/2024 23h00
+- Semifinal terá prazo de 5 dias: Previsão de 02 a 06/02/2024 23h00
+- Final e terceiro terá prazo de 5 dias: Previsão de 07 a 11/02/2024 23h59
+
+4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
+
+4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 16/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
+
+4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
+
+# **5 - Organização e Chaveamento:** #
+
+5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/torneiodeverao2024_groupstage](https://challonge.com/pt_BR/torneiodeverao2024_groupstage).
+
+5.2 - O nível do jogo será o CHAMPIONSHIP.
+
+5.3 - O campeonato terá modelo de copa do mundo com fase de grupos e os melhores colocados avançam para uma fase final de jogos mata-mata.
+
+5.4 - Sorteio de Países. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum deles nas oitavas de final e quartas de final. A partir da Semifinal serão considerados todos os países novamente, sendo a quantidade:
+
+- Fase de grupos: 2 países, sendo 1 país para 1 rodada (Como se fosse jogos de ida e volta).
+- Oitavas e Quartas de Final: 3 países de rodada única (Vence quem tiver mais pontos na soma total)
+- Semifinal, Final e terceiro: 4 países de rodada única (Vence quem tiver mais pontos na soma total)
+
+5.5 - Serão classificados para a fase final uma quantidade de jogadores, dependendo da quantidade de inscritos. Exemplo:
+
+- Inscritos: até 08. Classificados: 6;
+- Inscritos: entre 09 e 12. Classificados: 8;
+- Inscritos: entre 13 e 16. Classificados: 10;
+- Inscritos: entre 17 e 20. Classificados: 12;
+- Inscritos: entre 21 e 24. Classificados: 16;
+- Inscritos: entre 25 e 28. Classificados: 20;
+- Inscritos: entre 29 e 32. Classificados: 24;
+- O número de grupos e de participantes por grupo será definido após encerramento das inscrições.
+
+# **6. Classificação e Desempate:**
+
+6.1 - Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
+
+- Vitória = 3 pontos;
+- Empate = 1 ponto;
+- Derrota = 0 pontos.
+
+6.2 - Os critérios de desempate na fase de grupo serão:
+
+- Confronto Direto;
+- Jogos Vencidos;
+- Pontos Conquistados;
+- Diferença de Pontos.
+
+6.3 - Em caso de empate nas fases finais reinicia-se a ROM e joga-se a partir do país sorteado para desempate:
+
+- No desempate os pilotos devem utilizar normalmente a regra de dinheiro e upgrades.
+- Vencerá aquele que ao final do país tiver mais pontos que o oponente;
+- Permanecendo o empate no primeiro país, reinicia-se a ROM e joga-se e o país seguinte ao anterior deverá ser jogado e assim sucessivamente, até haver um vencedor;
+- Se durante o desempate houver Race Over para ambos, vencerá o piloto que **terminar na frente, em qualquer posição, mesmo com Race Over** (ver mais detalhes nesta seção).
+- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
+
+6.4 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar refazer todas as partidas da fase de grupos antes do final do prazo. Se não houver substituto, será aplicado **w.o. apenas para as partidas restantes**, com pontuação máxima para o adversário e mínima para o desistente.
+
+6.5 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada um w.o e não haverão sansões.
+
 # **Comunicação:**
 Serão criados grupos no WhatsApp para cada um dos grupos (se houver), sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
 

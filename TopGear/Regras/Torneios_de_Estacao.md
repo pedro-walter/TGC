@@ -62,7 +62,7 @@
 - Empate = 1 ponto;
 - Derrota = 0 pontos.
 
-5.4. **É obrigatório o uso do carro VEMRELHO.**
+5.4. **É obrigatório o uso do carro VERMELHO.**
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 

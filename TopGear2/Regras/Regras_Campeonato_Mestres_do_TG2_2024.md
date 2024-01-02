@@ -12,12 +12,11 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
-    Número do telefone com WhatsApp: +55-11-99999-8888
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Retroarch e Null DC Bear + Radmin e/ou Hamachi)
     Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-1.2 - Mínimo de 8 Participantes - Máximo a ser definido pela comissão.
+1.2 - Logo de seguida deverá solicitar ingresso no grupo de WhatsApp. Link do grupo a ser divulgado posteriormente.
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -118,24 +117,53 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 6.5 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada um w.o e não haverão sansões.
 
-# **Comunicação:**
-Serão criados grupos no WhatsApp para cada um dos grupos (se houver), sendo este o canal oficial para as marcações das partidas e divulgação de resultados. 
+# **7 - Validação das partidas:** #
 
-A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados. 
+7.1 - É obrigatório gravar as partidas, seja pelo OBS Studio ou Emulador. Se for possível para um dos participantes, o ideal será transmiti-las ao vivo.
 
-Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção deverá acontecer no máximo a cada 24horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração. 
+7.2 - Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada.
 
-Os participantes que não realizarem suas partidas ou agendamento delas nos prazos aqui estabelecidos, através do grupo oficial do campeonato, receberão W.O.:
+7.3 - Os jogadores que não gravarem ou transmitirem suas partidas, **terão seus confrontos invalidados** e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
-O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida. A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado de comum acordo entre os pilotos será o válido.
+7.4 - A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-Exemplo de postagem:
+7.5 - O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
 
-Grupo A - Rodada 4
+7.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
 
-@Player1 36 x 28 @Player2
+# **8 - Comunicação:**
 
-**Mensagens sem Relevância**: O jogador que enviar mensagens no grupo, sem relevância para o campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo. Mesmo com a punição o jogador tem o dever de cumprir os seus jogos previamente agendados. Após 4h, o jogador removido poderá solicitar aos administradores entrar novamente ao grupo. O jogador readmitido no grupo que após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
+8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
+ 
+8.2 - A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e dúvidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
+
+8.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+
+8.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., podendo ser substituído por jogador que estiver em cadastro de reserva ou atribuída derrota pelo placar de pontuação máxima para o adversário e mínima para quem for aplicado o W.O.
+
+8.5 - O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
+
+8.6 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
+
+8.7 - **É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
+
+8.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+
+8.9 - Os participantes poderão agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
+
+8.10 - O lançamento dos resultados deverá ser realizado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
+
+Exemplo de postagem de resultado:
+
+- **Grupo A - Rodada 4**
+- **@Player1 110 x 100 @Player2**
+- **Link da live ou link do arquivo da gravação.**
+
+8.11 - **Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+
+
+
+
 # **Regras de Conduta**
 Sobre o teor das mensagens trocadas entre os participantes: Mensagens de zoeira e gozação são permitidas, desde que não sejam ofensivas segundo as regras. É passível de desclassificação do campeonato mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
 

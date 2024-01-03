@@ -189,7 +189,7 @@ Exemplo de postagem de resultado:
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
-**10 - Premiação de Troféus do Campeonato** 
+# **10 - Premiação de Troféus do Campeonato** #
 
 10.1 - A inscrição e a participação no campeonato é gratuita.
 
@@ -217,34 +217,19 @@ Link das Redes:
 
 **10.4 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV.
 
-# **11 - Regras das Corridas: \*IMPORTANTE\* Leia com bastante atenção**
-\*As regras a seguir servirão como base, mas caso de divergência caberá ao ADM a decisão final:
+# **11 - Regras das Corridas: Leia com bastante atenção**
 
-**Fechadas:** 
+11.1 - Após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes do WhatsApp, sobre a opinião de um campeonato no modelo **VALE TUDO (Dirty Edition)** A depender do resultado da votação poderemos seguir ou ignorar alguns regras listadas abaixo. Sendo que as regras a partir deste ponto seguir servirão como base e poderão ser alteradas, mas em caso de divergência **caberá ao ADM a decisão final**.
 
-Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
+11.2 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para eventuais dúvidas.
 
-Exemplo prático 1: A preferência das curvas é sempre do carro que está na frente então recomenda-se quem for ultrapassar que faça a ultrapassagem “por fora”.
-
-Exemplo prático 2: Em um trecho de reta em que a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
-
-A maior parte das ocorrências do bug ocorrem na largada e/ou na primeira volta.
-
-Se mesmo assim ocorrer o bug e danificar o carro do oponente, seja por imperícia ou acidentalmente, a pista deve ser jogada novamente fazendo o carregamento com o load state.
-
-**Exceção A**: Se o acidente ocorrer na última volta e ambos perceberem que é possível terminar a pista com o carro quebrado e sem perder posições já conquistadas, o jogo segue normalmente.
-
-**Exceção B**: Se o bug acontecer contra um outro carro da CPU, infelizmente não há o que fazer. Apenas por opção do seu oponente (“Fair Play”) é que se ser feito o “load state” e jogada a pista novamente.
-
-**Punição:** Se o bug ocorrer com muita frequência em um mesmo jogo por intenção de um jogador e o jogador oponente que se sentir prejudicado pelas fechadas e excesso de “load state”, ele pode posteriormente a partida solicitar ao ADM a análise por vídeo (VAR). Importante que para que essa solicitação seja atendida, recomenda-se que as partidas sejam transmitidas ao vivo ou gravadas por aplicativo (Ex.: BANDICAM) e seja enviado o link do vídeo para o ADM. E se for verificada irregularidades com mais de 3 fechadas intencionais para que o jogo fosse reiniciado, o ADM poderá aplicar a uma contramedida para remover os pontos do piloto ofensor na pista analisada.
-
-# **Desbloqueio de todos os países, seleção de país sorteado:** 
+# **Desbloqueio de todos os países, seleção de país sorteado:** #
 
 ![](Desbloqueio.jpeg)
 
-# **Dinheiro e Equipamentos:**
+# **Dinheiro e Equipamentos:** #
  
-Usando o desbloqueio acima, cada país virá com uma quantidade de dinheiro inicial e segue abaixo uma tabela com quantidade de dinheiro e a sugestão de compra de equipamentos, conforme print e a tabela a seguir: 
+Usando o desbloqueio acima, cada país virá com uma quantidade de dinheiro inicial e segue abaixo uma tabela com quantidade de dinheiro e a **sugestão de compra de equipamentos**, conforme print e a tabela a seguir: 
 
 A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido comprar, pois conforme a dificuldade do jogo aumenta, maior fica a dificuldade, onde:
 
@@ -258,30 +243,31 @@ A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido
 
 3 o equipamento de nível 3.
 
-|**Países e Upgrades - Top Gear 2 - USA**|
+# **Países e Upgrades - Top Gear 2 - USA** #
 
 ![](Upgrades.jpeg)
 
-# **Upgrades:**
+# **Upgrades:** #
 De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.
 
 **Exceção A**: Itens de dinheiro no chão das pistas poderão/serão coletados normalmente, **mas em nenhuma hipótese poderão ser usados para compra de upgrade**. Caso a infração seja percebida por um dos jogadores, o mesmo deve pausar a emulação entrar em contato com o oponente via chat do emulador ou WhatsApp e comunicar a infração solicitando que seja feito o “load state” informando o uso indevido do dinheiro.
 
 **Exceção B**: A regra acima de impedir o uso do dinheiro coletado no chão, tem como objetivo diminuir erros de “bug de fechada”, pois um pode argumentar que para pegar o dinheiro da pista mudou de faixa e fechou sem querer o carro mais rápido. Então, ambos competindo pelo dinheiro podem acabar cometendo uma fechada acidentalmente e nessa disputa ambos podem sair prejudicados pelo bug. 
 
-# **Nitro N²O:**
+# **Nitro N²O:** #
 **Itens de Nitro** (N) nas pistas poderão/serão coletados normalmente, **mas não podem em nenhuma hipótese serem usados**. São 6 nitros iniciais em todas as pistas, tenha ATENÇÃO para usar somente os 6! Se houver o uso indevido o jogador será penalizado com o rebaixamento de duas posições abaixo da posição em que chegar no final da corrida e o oponente receberá uma posição acima.  
 
 **Exceção A**: Caso seja uma pista como a França/Mônaco onde existem dois nitros e se ambos os pilotos concordarem **antes da partida** de cada um pegar um e usarem fica liberado o uso.
 
-`	`**Exemplo Punição de Nitro A:** P1 chegou em 1st e usou o um nitro a mais coletado na rua, então sua colocação considerada será 3rd e se o oponente chegar em 2nd, neste no caso ele ganhará uma posição acima e sua posição no final da pista será 1st.
+  - **Exemplo Punição pelo uso indevido de Nitro A:** P1 chegou em 1st e usou o um nitro a mais coletado na rua, então sua colocação considerada será 3rd e se o oponente chegar em 2nd, neste no caso ele ganhará uma posição acima e sua posição no final da pista será 1st.
 
-`	`**Exemplo Punição de Nitro B**: P1 chegou em 2nd e usou o nitro a mais, então sua colocação final será 4th e se o oponente chegar em 5th, neste no caso ele ganhará uma posição acima e sua posição no final da pista também será 4th.
+  - **Exemplo Punição pelo uso indevido de Nitro B**: P1 chegou em 2nd e usou o nitro a mais, então sua colocação final será 4th e se o oponente chegar em 5th, neste no caso ele ganhará uma posição acima e sua posição no final da pista também será 4th.
 
 A punição de nitro também se estende com relação ao dinheiro... Se a infração for percebida ainda durante a partida o oponente deve notificar para o outro piloto que não faça uso do dinheiro.
-Se a análise for percebida após a partida (VAR) e somente os pontos serão descontados após revisão, pois não há o que se fazer com relação ao dinheiro, que no caso já foi gasto:
 
-Pontuações de referência para aplicação da regra acima:
+Se a análise for percebida após a partida por análise de (VAR), então, somente os pontos serão descontados após revisão, pois não há o que se fazer com relação ao dinheiro, que no caso já foi gasto.
+
+**Pontuações de referência para aplicação da regra acima:**
 
 •	1st = 10pts, 10mil
 
@@ -304,23 +290,29 @@ Pontuações de referência para aplicação da regra acima:
 •	10th = 0pts
 
 # **Itens de Super:**
-os “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
+Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
 
 # **Race Over/Game Over:**
 Devido ao nível do jogo Championship ser elevado e os equipamentos “base” da tabela às vezes serem inferiores ao necessário para aquele país, poderá ocorrer fim jogo de forma inesperada durante uma das 4 pistas. Para contornar esse problema segue as observações: 
 
-**Observação A**: Se apenas um jogador não concluir a pista >10th, e o outro finalizar abaixo ou igual a 10th, o jogo segue normalmente.
+  - **Observação A**: Se apenas um jogador não concluir a pista >10th, e o outro finalizar abaixo ou igual a 10th, o jogo segue normalmente.
 
-**Observação B:** Se ambos não concluírem a pista e der Race Over/Game Over, pode ser feito o load state por mais 2x para novas tentativas de finalizar a corrida. Se ainda assim não for possível finalizar a corrida. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
+  - **Observação B:** Se ambos não concluírem a pista e der Race Over/Game Over, pode ser feito o load state por mais 2x para novas tentativas de finalizar a corrida. Se ainda assim não for possível finalizar a corrida. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
+    
 # **Regras de W.O. e desistência:**
-A vitória por W.O dará ao vitorioso a pontuação média por partida. (5 pontos por pista) e a derrota por W.O. dará ao derrotado, receberá zero na pontuação da partida.
 
-**Observação A:** Se um dos jogadores desistir em meio a disputa, será atribuído a ele zero na pontuação das pistas restantes. E ao vitorioso será atribuído a somatória da pontuação máxima das pistas restantes (10 pontos por pista)
+  - A vitória por W.O dará ao vitorioso a pontuação média por partida. (5 pontos por pista) e a derrota por W.O. dará ao derrotado zero na pontuação por cada pista da partida.
 
-Toda e qualquer decisão da administração quanto à aplicação de W.O. será baseada exclusivamente pelas comunicações feitas pelo meio comunicação oficial do campeonato (WhatsApp).
+  - **Observação A:** Se um dos jogadores desistir em meio a disputa, será atribuído a ele zero na pontuação das pistas restantes. E ao vitorioso será atribuído a somatória da pontuação máxima das pistas restantes (5 pontos por pista)
 
-**Observação B:** Havendo necessidade a administração poderá intervir no sistema de saldo/pontos para que os o W.O.’s não prejudique o torneio.
-# **Disposições Finais**
-Situações inéditas podem ocorrer e as regras podem ser modificadas durante o campeonato caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes
+  - Toda e qualquer decisão da administração quanto à aplicação de W.O. será baseada exclusivamente pelas comunicações feitas pelo meio comunicação oficial do campeonato (WhatsApp).
 
-A Administração da TGC deseja a todos os participantes um excelente campeonato!!!
+  - **Observação B:** Havendo necessidade a administração poderá intervir no sistema de saldo/pontos para que os o W.O.’s não prejudique o torneio.
+
+# **12. Situações inéditas** #
+
+12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.
+
+12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
+
+# **A administração da Leomarx Games e da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**

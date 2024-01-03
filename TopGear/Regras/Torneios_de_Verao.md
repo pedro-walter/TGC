@@ -52,7 +52,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/torneiodeverao2024_groupstage](https://challonge.com/pt_BR/torneiodeverao2024_groupstage).
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [ttps://challonge.com/pt_BR/torneiodeverao2024](https://challonge.com/pt_BR/TorneiodeVerao2024)
 
 5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados se avançam para uma fase final de jogo único.
 

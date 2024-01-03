@@ -161,49 +161,49 @@ Exemplo de postagem de resultado:
 
 8.11 - **Mensagens sem Relevância**: O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
+# **9 - Regras de Conduta** #
 
+9.1 - É passível de eliminação do campeonato, mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
 
+- Racial ou étnica;
+- Gênero ou Religião;
+- Status social;
+- De idade;
+- Deficiência;
+- Difamação ou calúnia;
+- Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-# **Regras de Conduta**
-Sobre o teor das mensagens trocadas entre os participantes: Mensagens de zoeira e gozação são permitidas, desde que não sejam ofensivas segundo as regras. É passível de desclassificação do campeonato mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
+9.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
 
-Racial ou étnica;
+9.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-Gênero ou Religião;
+9.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
 
-Status social;
+9.5 - **Modelo de protocolo:**
 
-De idade;
+    PROTOCOLO DE JULGAMENTO DE CONDUTA NOME DO CAMPEONATO:
+    - NOME DO CAMPEONATO:
+    - NOME DO SOLICITANTE:
+    - NOME DO OPONENTE:
+    *SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
+    *ACUSAÇÃO: descrever a alegação de forma sucinta.*
+    *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
-Deficiência;
+**10 - Premiação de Troféus do Campeonato** 
 
-Difamação ou calúnia;
+10.1 - A inscrição e a participação no campeonato é gratuita.
 
-Nacionalidade, Naturalidade ou Lugar onde mora ou nasceu.
+10.2 - A confecção de troféus de acrílicos tem o custo de r$ 100 e após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos. A enquete será proposta com a divisão de 50/50, sendo que a Leomarx Games poderá arcar com 50% se os demais participantes aceitarem arcar com a outra metade do custo.
 
-OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, Youtube, Twitch, Instagram e outros) ou chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva à punição única de exclusão do campeonato e proibição de inscrição no campeonato seguinte. 
+10.3 - O 1°, 2° e 3° lugar poderão então receber troféus de acrílico com o reconhecimento. (modelo em elaboração). E como uma contrapartida aos custos de 50% da Leomarx Games o participante deve:
 
-Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. Os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato e deverá ser respondido pela administração em um prazo máximo de 48h.
-
-**Modelo de protocolo:** PROTOCOLO DE JULGAMENTO DE CONDUTA NOME DO CAMPEONATO: 
-
-NOME DO SOLICITANTE: 
-
-NOME DO OPONENTE: 
-
-SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de REGRAS DE CONDUTA e seus subitens. ACUSAÇÃO: <Descrever a alegação de forma sucinta> ANEXOS: <Encaminhar as imagens, vídeos e áudios que julgar relevante>
-
-**Organização e Patrocínio dos Troféus do Campeonato** 
-
-Leomarx Games (Leonardo Marques de Andrade)
-
-Premiação = 1°, 2° e 3° lugar receberão troféus de acrílico com o reconhecimento. (modelo em elaboração). Como uma contrapartida aos custos de preparação do troféu e ser elegível ao recebimento do troféu o participante deve:
-
-A - Seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e mencionar a página nas postagem de lives das partidas:
+A - Seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e mencionar o canal e todas as redes abaixo nas suas postagens de lives das partidas:
 
 Link das Redes:
 
-<https://youtube.com/channel/UC0Bf2Sfe52cNzhkN05REKxw>
+<https://www.facebook.com/groups/mestresdotopgear2>
+
+<https://youtube.com/@LeomarxGames>
 
 <https://www.facebook.com/LeomarxGames>
 
@@ -215,11 +215,9 @@ Link das Redes:
 
 <https://www.tiktok.com/@leomarxgames>
 
-<https://www.facebook.com/groups/mestresdotopgear2>
+**10.4 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV.
 
-**Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp +55-11-9-9349-9981
-
-# **Regras das Corridas: \*IMPORTANTE\* Leia com bastante atenção**
+# **11 - Regras das Corridas: \*IMPORTANTE\* Leia com bastante atenção**
 \*As regras a seguir servirão como base, mas caso de divergência caberá ao ADM a decisão final:
 
 **Fechadas:** 

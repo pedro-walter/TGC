@@ -14,9 +14,9 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Retroarch e Null DC Bear + Radmin e/ou Hamachi)
-    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
+    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-1.2 - Logo de seguida deverá solicitar ingresso no grupo de WhatsApp. Link do grupo a ser divulgado posteriormente.
+1.2. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/G7aiq33OEPzIfCy8BZ27e6) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -67,7 +67,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/torneiodeverao2024_groupstage](https://challonge.com/pt_BR/torneiodeverao2024_groupstage).
+5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/4_MestresDoTopGear2_2024](https://challonge.com/pt_BR/4_MestresDoTopGear2_2024)
 
 5.2 - O nível do jogo será o CHAMPIONSHIP.
 
@@ -109,7 +109,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 - No desempate os pilotos devem utilizar normalmente a regra de dinheiro e upgrades.
 - Vencerá aquele que ao final do país tiver mais pontos que o oponente;
-- Permanecendo o empate no primeiro país, reinicia-se a ROM e joga-se e o país seguinte ao anterior deverá ser jogado e assim sucessivamente, até haver um vencedor;
+- Permanecendo o empate no primeiro país, *reinicia-se a ROM e joga-se o país seguinte ao anterior* e assim sucessivamente, até haver um vencedor;
 - Se durante o desempate houver Race Over para ambos, vencerá o piloto que **terminar na frente, em qualquer posição, mesmo com Race Over** (ver mais detalhes nesta seção).
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
 
@@ -195,7 +195,7 @@ Exemplo de postagem de resultado:
 
 10.2 - A confecção de troféus de acrílicos tem o custo de r$ 100 e após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos. A enquete será proposta com a divisão de 50/50, sendo que a Leomarx Games poderá arcar com 50% se os demais participantes aceitarem arcar com a outra metade do custo.
 
-10.3 - O 1°, 2° e 3° lugar poderão então receber troféus de acrílico com o reconhecimento. (modelo em elaboração). E como uma contrapartida aos custos de 50% da Leomarx Games o participante deve:
+10.3 - Aprovando a divisão de custos, o 1°, 2° e 3° lugar receverão ao final do torneio troféus de acrílico com o reconhecimento. (modelo em elaboração). E como uma contrapartida aos custos de 50% da Leomarx Games o participante deve:
 
 A - Seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e mencionar o canal e todas as redes abaixo nas suas postagens de lives das partidas:
 
@@ -215,7 +215,7 @@ Link das Redes:
 
 <https://www.tiktok.com/@leomarxgames>
 
-**10.4 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV.
+**10.4 - Entrega da Premiação:** Após o campeonato, os vencedores devem indicar um nome/nick com até 15 caracteres para a confecção do troféu personalizado com seu nome, e quando estiver pronto o participante ganhador **deve arcar com os custos de frete do troféu** saindo de São Paulo, Brasil para o seu endereço. (Simular frete saindo do CEP 03510-000). Dúvidas entre em contato pelo WhatsApp no PV ou no grupo do campeonato.
 
 # **11 - Regras das Corridas: Leia com bastante atenção**
 

@@ -1,0 +1,43 @@
+Emulador: Zsnes 1.42, 1.36 & 1.337 ROM: Top Gear TGC Rom (E) [!].smc & Top Gear (E) [!].smc
+
+*As regras a seguir serão adotadas oficialmente para partidas de campeonatos promovidos pela TGC, e servirão de base para análise e caberá à administração a decisão final.
+
+Regras Gerais:
+
+a) A escolha entre quem será o player 1 e player 2 é de consenso entre os jogadores. b) A escolha entre quem primeiro selecionará o carro, também é de consenso entre os jogadores. Excetua-se a esta regra quando no campeonato em questão houver a regra do comissário. c) As partidas sempre ocorrerão na modalidade “pontos corridos”. Vence aquele que ao final da partida somar mais pontos, tendo como base a tabela de pontuação do próprio jogo. d) Recomenda-se que sempre que possível, as partidas sejam gravadas para que a administração possa tomar as devidas decisões quando da divergência entre os jogadores. Caso não haja meios para análise comprobatória dos fatos pela administração, recomenda-se: 1. A decisão consensual entre os jogadores. Caso não haja consenso, recomenda-se: 2. O reinício de uma nova partida a partir do zero. e) Recomenda-se que pelo menos um dos jogadores salve o jogo (pressionando a tecla F2) ao final de cada pista, para que o load state (pressionando a tecla F4) esteja habilitado quando necessário.
+
+Das chamadas para partidas oficiais:
+
+a) Independentemente do tempo disponível registrado no ato de inscrição, cada participante terá um prazo de 72 horas a contar do início do campeonato para realizar ao menos uma partida. Caso não realize dentro do prazo, será substituído por um suplente (se houver). Se não houver suplente, então será desclassificado do campeonato. b) Cada participante tem direito a fazer até três chamadas em intervalos de 48 horas entre cada chamada. Caso o adversário marcado em post não responda a nenhum dos chamados, estará sujeito a W.O se a partida não for realizada. c) A vitória por W.O dará ao vitorioso a pontuação máxima do total de pistas da partida. d) A derrota por W.O dará ao derrotado zero pontuação em todas as pistas da partida. e) Se um dos jogadores desistir em meio a disputa, será atribuído a ele zero pontuação das pistas restantes. E ao vitorioso será atribuído a somatória da pontuação máxima das pistas restantes. f) Toda e qualquer decisão da administração quanto à aplicação de W.O será baseada exclusivamente pelas postagens no tópico oficial.
+
+Dos Critérios de Desempate:
+
+Nas fases de grupo de partidas oficias de campeonatos realizados pela TGC, os critérios de desempate serão na seguinte ordem: 1. Pontuação Geral (Vitória = 3 pontos, Empate = 1 ponto, Derrota = zero ponto); 2. Quantidade de vitórias (1V, 2V, 3V, etc.); 3. Confronto direto; 4. Pontos conquistados (somatória dos pontos conquistados pelo jogador); 5. Saldo de pontos (somatória dos pontos conquistados sobre cada adversário menos a somatória dos pontos conquistados pelos adversários); 6. Sorteio.
+
+Dos Lags:
+
+a) Caso haja a constatação de lag, recomenda-se que os jogadores interrompam imediatamente a partida e testem uma nova conexão. Caso o lag persista, recomenda-se que os jogadores combinem um novo dia e horário para a realização da partida. b) Se os jogadores decidirem continuar a partida mesmo com lag, estão cientes que serão submetidos à decisão da administração, caso haja qualquer divergência entre os jogadores. c) Os jogadores terão até 02 (duas) pistas para teste de conexão, tendo ambos o direito ao reinício da pontuação e do jogo em caso de constatação de lag. d) Se os jogadores permanecerem jogando, mesmo após 02 (duas) pistas, a pontuação das pistas jogadas será computada. e) Caso haja constatação de lag em algum momento no decorrer da partida, recomenda-se tomar como solução o item “a” para finalização do restante da partida, permanecendo a pontuação como está até aquele momento.
+
+Dos Bugs:
+
+a) Caso ocorra durante a partida o bug em que um dos jogadores fica em vigésimo (20th) a uma volta atrás, aquela pista em específico deverá ser jogada inteira novamente independentemente de quanto ela já foi percorrida. b) Caso haja o bug que ambos os jogadores cruzam a linha de chegada com diferença mínima, sendo que o player 2 visivelmente cruza primeiro, porém a máquina computa a vitória para o player 1, a vitória será dada ao player 2. Inevitavelmente o player 1 largará atrás na pista seguinte. c) Caso haja o bug da latência para ambos ou um dos jogadores, os jogadores deverão fazer novos testes de conexão. Caso o bug persista, a administração intervirá na proposta para a solução do problema (inverter e/ou alternar os controles, propor conexão via outros modos de VPN, IP direto, etc).
+
+Das proibições:
+
+a) É proibido bater no poste de chegada para ganhar duas posições consecutivas. A punição para tal infração será a desclassificação. b) É proibido utilizar de derrapagem nas curvas (apertar freio e acelerador ao mesmo tempo), porque este é um bug que beneficia apenas o player 1. A punição para tal infração será a desclassificação. c) É proibido frear/parar o carro intencionalmente em qualquer ponto da pista, para se beneficiar de empurrões de bots e/ou do adversário. A exceção a esta regra será em caso de “out of fuel”, em que o jogador pode optar por parar o carro para posicioná-lo em algum ponto da pista. A punição para tal infração será a desclassificação. d) É proibido fazer uso de carro diferente daquele enviado ao comissário (quando houver). A punição para tal infração será a desclassificação.
+
+Race over:
+
+a) Se a ROM jogada for a original “Top Gear (E) [!].smc”, todo o país deverá ser jogado novamente, invalidando a pontuação obtida até então em suas pistas. Exceção será se um dos jogadores informar que realizou o save state na corrida anterior. b) Se a ROM jogada for a versão TGC “Top Gear TGC Rom (E) [!].smc”, segue-se a disputa normalmente.
+
+UK e Stonehenge:
+
+a) Independentemente da ordem de sorteio do conjunto de países/pistas, o país UK (se em caso de sorteio de países) e a pista Stonehenge (se em caso de sorteio de pistas) sempre serão os últimos a serem jogados na partida, sendo obrigatório que a seleção dos mesmos seja lançada ao final da lista. b) Em Stonehenge, se ao menos um dos jogadores conseguir terminar a pista, a pontuação seguirá normalmente conforme as regras do jogo. c) Em Stonehenge, se ambos os jogadores não terminarem a pista, a pontuação será da posição que ambos terminarem após a tela ficar preta.
+
+Situações Inéditas:
+
+a) Os jogadores deverão estar cientes que toda e qualquer nova situação, ainda não prevista nestes termos, será analisada e a decisão final caberá à administração.
+
+Regras Específicas:
+
+a) Regras adicionais específicas a um campeonato, e não previstas nestes termos, deverão estar descritas de forma clara na postagem do tópico referente ao campeonato.

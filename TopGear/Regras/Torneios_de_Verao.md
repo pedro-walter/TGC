@@ -1,6 +1,6 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **TORNEIO DE VERÃO** #
+# **Torneio de Verão 2024** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -10,9 +10,11 @@
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
-    Número do telefone com WhatsApp: +55-11-99999-8888
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
+    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
+
+1.2. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/HgN3WQQ4v4N0Hx1BmIjF1Y) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -35,16 +37,17 @@
 
 3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2319752584959355?_rdc=1&_rdr)
+3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
 
 3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
-3.5.    **Hamachi** = Link para download **COLOCAR O LINK**
+
+3.5.    **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 03/01/2024 até às 23h00 do dia 09/01/2024;
+4.1. As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 09/01/2024;
 
-4.2. Sorteio dos países e 1ª Rodada será realizado no dia 10/01/2024, após confirmação das inscrições.
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 10/01/2024;
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 4 dias, finalizando até às 23h do último dia de prazo.
 
@@ -62,7 +65,7 @@
 - Empate = 1 ponto;
 - Derrota = 0 pontos.
 
-5.4. **É obrigatório o uso do carro VERMELHO.**
+5.4. **É obrigatório o uso do carro VERMELHO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
@@ -90,15 +93,17 @@
 
 # **6. Validação das partidas** #
 
-6.1. É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+6.1. É obrigatório gravar as partidas, seja pelo OBS Studio ou Emulador. Se for possível para um dos participantes, o ideal será transmiti-las ao vivo.
 
-6.2. Ainda que um dos pilotos faça a transmissão online, ambos os pilotos devem gravar a partida, para evitar problemas técnicos e, então, depois um dos pilotos depois encaminhar o resultado. 
+6.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
 
-6.3. Resolução ideal é em **HD 1280x720 (720p)**, porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será **(SD) 854 x 480 (480p)**.
+6.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
-6.4. O arquivo de gravação deve ser disponibilizado na nuvem ou no grupo do WhatsApp, através do arquivo de gravação gerado no OBS Studio ou a gravação direto do emulador (Se necessário, solicitar o manual de instruções de gravação).
+6.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-6.5. Não serão aceitos resultados enviados sem o cumprimento das regras previstas nos subitens anteriores do item 6.
+6.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+
+6.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
 
 # **7. Comunicação:** #
 
@@ -179,7 +184,7 @@ Exemplo de postagem de resultado:
 
 10.1. Será utilizado o emulador ZSNES 1.42;
 
-10.2. A ROM poderá ser a Top Gear TGC Rom (E) [!] ou a ROM TGC Rom (E) [!];
+10.2. A ROM deverá ser a Top Gear TGC Rom (E) [!];
 
 10.3. Nível/Level: **Championship**;
 

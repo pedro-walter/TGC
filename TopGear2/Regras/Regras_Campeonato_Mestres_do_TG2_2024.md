@@ -37,9 +37,9 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 3.1 - **Emulador Null DC 1.96c =** Link para download [aqui](https://github.com/RossenX/NullDC-BEAR/releases/tag/1.96c)
 
-3.2 - **Emulador Retroarch =** Link para download [aqui](https://www.retroarch.com/index.php?page=platforms)
+3.2 - **Emulador FightCade 2 =** Link para download [aqui](https://www.fightcade.com/)
 
-3.3 - **ROM Top Gear 2 (Européia) =** Link para download [aqui](https://wowroms.com/en/roms/super-nintendo/top-gear-2-europe/29934.html)
+3.3 - **ROM Top Gear 2 (USA) =** Link para download [aqui](https://wowroms.com/pt/roms/super-nintendo/top-gear-2-usa/29935.html)
 
 3.4. - **Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
@@ -49,7 +49,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 4.1 - As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 09/01/2024;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 10/01/2024;
+4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 11/01/2024;
 
 4.3 - Prazos previstos ( Todos em Horário de Brasília):
 
@@ -61,7 +61,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
 
-4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 16/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
+4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 17/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
 
 4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
 

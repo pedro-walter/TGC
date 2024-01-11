@@ -47,7 +47,7 @@
 
 4.1. As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 10/01/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 10/01/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 11/01/2024;
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 4 dias, finalizando até às 23h do último dia de prazo.
 
@@ -72,13 +72,13 @@
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
 
-5.5. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
+5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.6. Nas fases finais, serão sorteadas 12 pistas para a oitavas, quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteadas 12 pistas (Rom Top Gear TGC (E) [!]) e 3 países (Rom Top Gear (E) [!]) para a oitavas, quartas e semifinal e um país para o desempate.
 
-5.6. Na final e disputa de 3º, serão sorteadas 16 pistas para a disputa normal e um país para desempate.
+5.8. Na final e disputa de 3º, serão sorteadas 16 pistas (Rom Top Gear TGC (E) [!]) e 4 países (Rom Top Gear (E) [!]) para a disputa normal e um país para desempate.
 
-5.7. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
@@ -87,13 +87,15 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.8. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.9. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+
+5.12. A fase de grupos será realizada com um total de 5 rodadas.
 
 # **6. Validação das partidas** #
 
-6.1. É obrigatório gravar as partidas, seja pelo OBS Studio ou Emulador. Se for possível para um dos participantes, o ideal será transmiti-las ao vivo.
+6.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
 
 6.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
 
@@ -180,11 +182,15 @@ Exemplo de postagem de resultado:
 
 9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
 
+9.10. Caso o jogador perca por w.o. e não apresente justificativas até 24h após o término da rodada ou fase mata-mata, este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
+
+9.11. As justificativas apresentadas conforme o item anterior, serão analisadas pela adm da TGC.
+
 # **10. Regras Específicas:** #
 
 10.1. Será utilizado o emulador ZSNES 1.42;
 
-10.2. A ROM deverá ser a Top Gear TGC Rom (E) [!];
+10.2. A ROM deverá ser a Top Gear TGC (E) [!] ou Top Gear (E) [!];
 
 10.3. Nível/Level: **Championship**;
 

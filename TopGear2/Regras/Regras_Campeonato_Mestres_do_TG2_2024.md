@@ -47,7 +47,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 09/01/2024;
+4.1 - As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 10/01/2024;
 
 4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 11/01/2024;
 

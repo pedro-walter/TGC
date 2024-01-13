@@ -65,6 +65,13 @@
 - Empate = 1 ponto;
 - Derrota = 0 pontos.
 
+5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
+
+- Confronto direto;
+- Pontos conquistados;
+- Saldo de pontos;
+- Sorteio;
+
 5.4. **É obrigatório o uso do carro VERMELHO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:

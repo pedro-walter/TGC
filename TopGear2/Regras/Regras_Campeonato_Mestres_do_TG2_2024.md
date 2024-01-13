@@ -53,15 +53,15 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 4.3 - Prazos previstos ( Todos em Horário de Brasília):
 
-- Fase de grupos terá prazo de 12 dias. Previsão de término 22/01/2024 23h00
-- Oitavas de final terá prazo de 5 dias: Previsão de 23 a 27/01/2024 23h00
-- Quartas de final terá prazo de 5 dias: Previsão de 28 a 01/02/2024 23h00
-- Semifinal terá prazo de 5 dias: Previsão de 02 a 06/02/2024 23h00
-- Final e terceiro terá prazo de 5 dias: Previsão de 07 a 11/02/2024 23h59
+- Fase de grupos terá prazo de 14 dias. Previsão de término 24/01/2024 23h00
+- Oitavas de final terá prazo de 5 dias: Previsão de 24 a 28/01/2024 23h00
+- Quartas de final terá prazo de 5 dias: Previsão de 29 a 02/02/2024 23h00
+- Semifinal terá prazo de 5 dias: Previsão de 03 a 07/02/2024 23h00
+- Final e terceiro terá prazo de 5 dias: Previsão de 08 a 12/02/2024 23h59
 
 4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
 
-4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 17/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
+4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 18/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
 
 4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
 
@@ -223,71 +223,73 @@ Link das Redes:
 
 11.2 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para eventuais dúvidas.
 
+11.3 - Feita a votação em 10/01/2024 o resultado final, a maioria dos pilotos votaram pelo campeonato no modelo **VALE TUDO (Dirty Edition)* então as regras a seguir com relação a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão utilizadas neste campeonato. Conforme texto superscrito abaixo.
+
 # **Desbloqueio de todos os países, seleção de país sorteado:** #
 
 ![](Desbloqueio.jpeg)
 
-# **Dinheiro e Equipamentos:** #
+~~# **Dinheiro e Equipamentos:** #~~
  
-Usando o desbloqueio acima, cada país virá com uma quantidade de dinheiro inicial e segue abaixo uma tabela com quantidade de dinheiro e a **sugestão de compra de equipamentos**, conforme print e a tabela a seguir: 
+~~Usando o desbloqueio acima, cada país virá com uma quantidade de dinheiro inicial e segue abaixo uma tabela com quantidade de dinheiro e a **sugestão de compra de equipamentos**, conforme print e a tabela a seguir:~~
 
-A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido comprar, pois conforme a dificuldade do jogo aumenta, maior fica a dificuldade, onde:
+~~A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido comprar, pois conforme a dificuldade do jogo aumenta, maior fica a dificuldade, onde:~~
 
 ![](Equipamentos.jpeg)
 
-0 representa o equipamento "padrão" equipamento que já vem no carro,
+~~0 representa o equipamento "padrão" equipamento que já vem no carro,~~
 
-1 o equipamento de nível 1, 
+~~1 o equipamento de nível 1,~~ 
 
-2 o equipamento de nível 2 e 
+~~2 o equipamento de nível 2 e~~ 
 
-3 o equipamento de nível 3.
+~~3 o equipamento de nível 3.~~
 
-# **Países e Upgrades - Top Gear 2 - USA** #
+~~# **Países e Upgrades - Top Gear 2 - USA** #~~
 
 ![](Upgrades.jpeg)
 
-# **Upgrades:** #
-De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.
+~~# **Upgrades:** #~~
+~~De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.~~
 
-**Exceção A**: Itens de dinheiro no chão das pistas poderão/serão coletados normalmente, **mas em nenhuma hipótese poderão ser usados para compra de upgrade**. Caso a infração seja percebida por um dos jogadores, o mesmo deve pausar a emulação entrar em contato com o oponente via chat do emulador ou WhatsApp e comunicar a infração solicitando que seja feito o “load state” informando o uso indevido do dinheiro.
+~~**Exceção A**: Itens de dinheiro no chão das pistas poderão/serão coletados normalmente, **mas em nenhuma hipótese poderão ser usados para compra de upgrade**. Caso a infração seja percebida por um dos jogadores, o mesmo deve pausar a emulação entrar em contato com o oponente via chat do emulador ou WhatsApp e comunicar a infração solicitando que seja feito o “load state” informando o uso indevido do dinheiro.~~
 
-**Exceção B**: A regra acima de impedir o uso do dinheiro coletado no chão, tem como objetivo diminuir erros de “bug de fechada”, pois um pode argumentar que para pegar o dinheiro da pista mudou de faixa e fechou sem querer o carro mais rápido. Então, ambos competindo pelo dinheiro podem acabar cometendo uma fechada acidentalmente e nessa disputa ambos podem sair prejudicados pelo bug. 
+~~**Exceção B**: A regra acima de impedir o uso do dinheiro coletado no chão, tem como objetivo diminuir erros de “bug de fechada”, pois um pode argumentar que para pegar o dinheiro da pista mudou de faixa e fechou sem querer o carro mais rápido. Então, ambos competindo pelo dinheiro podem acabar cometendo uma fechada acidentalmente e nessa disputa ambos podem sair prejudicados pelo bug.~~
 
-# **Nitro N²O:** #
-**Itens de Nitro** (N) nas pistas poderão/serão coletados normalmente, **mas não podem em nenhuma hipótese serem usados**. São 6 nitros iniciais em todas as pistas, tenha ATENÇÃO para usar somente os 6! Se houver o uso indevido o jogador será penalizado com o rebaixamento de duas posições abaixo da posição em que chegar no final da corrida e o oponente receberá uma posição acima.  
+~~# **Nitro N²O:** #~~
+~~**Itens de Nitro** (N) nas pistas poderão/serão coletados normalmente, **mas não podem em nenhuma hipótese serem usados**. São 6 nitros iniciais em todas as pistas, tenha ATENÇÃO para usar somente os 6! Se houver o uso indevido o jogador será penalizado com o rebaixamento de duas posições abaixo da posição em que chegar no final da corrida e o oponente receberá uma posição acima.~~  
 
-**Exceção A**: Caso seja uma pista como a França/Mônaco onde existem dois nitros e se ambos os pilotos concordarem **antes da partida** de cada um pegar um e usarem fica liberado o uso.
+~~**Exceção A**: Caso seja uma pista como a França/Mônaco onde existem dois nitros e se ambos os pilotos concordarem **antes da partida** de cada um pegar um e usarem fica liberado o uso.~~
 
-  - **Exemplo Punição pelo uso indevido de Nitro A:** P1 chegou em 1st e usou o um nitro a mais coletado na rua, então sua colocação considerada será 3rd e se o oponente chegar em 2nd, neste no caso ele ganhará uma posição acima e sua posição no final da pista será 1st.
+  ~~- **Exemplo Punição pelo uso indevido de Nitro A:** P1 chegou em 1st e usou o um nitro a mais coletado na rua, então sua colocação considerada será 3rd e se o oponente chegar em 2nd, neste no caso ele ganhará uma posição acima e sua posição no final da pista será 1st.~~
 
-  - **Exemplo Punição pelo uso indevido de Nitro B**: P1 chegou em 2nd e usou o nitro a mais, então sua colocação final será 4th e se o oponente chegar em 5th, neste no caso ele ganhará uma posição acima e sua posição no final da pista também será 4th.
+  ~~- **Exemplo Punição pelo uso indevido de Nitro B**: P1 chegou em 2nd e usou o nitro a mais, então sua colocação final será 4th e se o oponente chegar em 5th, neste no caso ele ganhará uma posição acima e sua posição no final da pista também será 4th.~~
 
-A punição de nitro também se estende com relação ao dinheiro... Se a infração for percebida ainda durante a partida o oponente deve notificar para o outro piloto que não faça uso do dinheiro.
+~~A punição de nitro também se estende com relação ao dinheiro... Se a infração for percebida ainda durante a partida o oponente deve notificar para o outro piloto que não faça uso do dinheiro.~~
 
-Se a análise for percebida após a partida por análise de (VAR), então, somente os pontos serão descontados após revisão, pois não há o que se fazer com relação ao dinheiro, que no caso já foi gasto.
+~~Se a análise for percebida após a partida por análise de (VAR), então, somente os pontos serão descontados após revisão, pois não há o que se fazer com relação ao dinheiro, que no caso já foi gasto.~~
 
-**Pontuações de referência para aplicação da regra acima:**
+~~**Pontuações de referência para aplicação da regra acima:**~~
 
-•	1st = 10pts, 10mil
+~~•	1st = 10pts, 10mil
 
-•	2nd = 6pts, 6mil
+~~•	2nd = 6pts, 6mil~~
 
-•	3rd = 4pts, 4mil
+~~•	3rd = 4pts, 4mil~~
 
-•	4th = 3pts, 3mil
+~~•	4th = 3pts, 3mil~~
 
-•	5th = 2pts, 2mil
+~~•	5th = 2pts, 2mil~~
 
-•	6th = 1pts, 1mil
+~~•	6th = 1pts, 1mil~~
 
-•	7th = 0pts
+~~•	7th = 0pts~~
 
-•	8th = 0pts
+~~•	8th = 0pts~~
 
-•	9th = 0pts
+~~•	9th = 0pts~~
 
-•	10th = 0pts
+~~•	10th = 0pts~~
 
 # **Itens de Super:**
 Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.

@@ -67,9 +67,9 @@
 
 5.3.1. A classificação se dará pelo maior número de pontos. Em caso de empate os critérios de desempate serão:
 
-- Confronto direto;
 - Pontos conquistados;
-- Saldo de pontos;
+- Saldo de pontos
+- Confronto direto;
 - Sorteio;
 
 5.4. **É obrigatório o uso do carro VERMELHO** e o nível do jogo será o CHAMPIONSHIP.

@@ -49,7 +49,7 @@
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 11/01/2024;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 4 dias, finalizando até às 23h do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 

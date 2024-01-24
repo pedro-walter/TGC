@@ -4,59 +4,89 @@
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-- *INSCRIÇÕES LaLiga X / fev 2023:*
-  - 1° Divisão (D1) Apenas os jogadores que participaram do La Liga IX e que devem manifestar o interesse em participar do La Liga X:
-    - Rafael Lopes (Diablo)
-    - Alexis Sánchez (ChitaMX)
-    - Jurandir Filho (Sr Filho)
-    - Felipe Costa (dark_fpc)
-    - Lenno Coelho (Lenn Miner)
-    - Marlon Fernandes (Camus KSHRC)
+# **1. Incrições:** #
+
+    1.1 - As inscrições estarão abertas do dia XX/02/2024 até XX/02/2024.
+      
+    1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
+
+    1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
+    
+  - 1° Divisão D1 (Série Ouro) Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+    - LeNN Miner (Lenno Coelho)
+    - ChitaMX (Aléxis Sánchez)
+    - Rafael Diablo (Rafael Lopes)
+    - Max Verstappen (Tomyo Sato)
+    - Sr. Filho (Jurandir Filho)
     - Allan Live (Allan Live)
-    - Robson Meirelles (RobJax)
-    - Carlos Rubens (BinhoRu CRX)
-    - Roberto Vasquez (The Mister)
-  - 2° Divisão (D2) Apenas os jogadores que participaram do La Liga IX e que devem manifestar o interesse em participar do La Liga X:
-    - Ari Jr (Arijunino)
-    - Leonardo Andrade (LeomarxGames)
-    - Albert Matos (Suprem Peruvian)
-    - Vinícius Gustavo (Vinny)
-    - Lucas Souza (Killua)
-    - Tomyo Sato(Max Verstappen)
-    - Paulo Muniz (Paulo Fox)
-    - Edwin Huaylla (Ediwn HD)
-    - Luciano Alves (Luciano)
-    - Amélio Belchior (Amelio Belchior)
-  - 3ª e 4ª Divisões (D3/D4) - competidores que participaram do La Liga IX e novos membros que desejarem se inscrever: Sendo na ordem:
-    - Martins Swantaiger
-    - Gokú
-    - Br's Brisantt
-    - Macau
-    - Wederson Oliveira
-    - Rony
-    - Ryce
-    - Laom
-    - Anderson
-    - André Matos
+    - Yoshimitsu (Kevin Schimidt)
+    - Dark FPC (Felipe Costa)
+    - CRX (Carlos Rubens)
+    - AriJunino (Ari Júnior)
+  - 2° Divisão D2 (Série Prata) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+    - Gokú (Oscar Cardenhas)
+    - Luciano (Luciano Alves)
+    - Cecilmonk (Pedro Walter)
+    - Leomarx Games (Leonardo Marques)
+    - Edwin HD (Edwin Hyrula)
+    - Pegasus (Edimar Caetano)
+    - Rob Jax (RObson Meireles)
+    - Vinny (Vinícius Gustavo)
+    - Amélio (Amélio Belchior)	
+    - Killua Zorldic (Lucas Souza)
+    - Br's Brisantt (Brisantt)
+  - 3ª Divisão D3 (Série Bronze) - Competidores que participaram do La Liga IX e novos membros que desejarem se inscrever: Sendo na ordem:
+    - The Mister (Roberto Vasquez)
+    - LAOM (Luís Cardenas)
+    - Paulo Fox (Paulo Muniz)
+    - JackPocker40 (Peter Bruno)
+    - Schumacher (Martins Swantaiger)
+    - Ryce (Esdras Rycelle)
+    - JavierVZL (Javier Dixon)
+    - Paomarc (Paolo)
+    - Krunosfive (Marcos)
+    - Casio (Casio Aquino)
+    - Senninkage (Edison SIlva)
+    - MMM (Marcel Santana)
+    - Alison (Alison Paulo)
+    - CJX (Carlos José)
+    - Clei Play (Cleimar Fuckner)
+    - Fanático (Fabrício Pedroso)
+    - Léo de Brasília (Léo de Brasília)
+    - Samuel Dantas (Samuel Dantas)
+    - Bruno Menezes (Bruno Menezes)
+    - Marlon Reis (Marlon Reis)
     - Novo competidor
     - Novo competidor
     - Novo competidor
     - Novo competidor
-  - OBSERVAÇÕES:
-    Caso haja mais de 14 inscritos para a 3ª e 4ª Divisões, a D3 será composta por 10 participantes, assim como a D1 e D2 e os demais serão inseridos na D4.
-    Caso algum dos 10 participantes da D3 não se inscreva, as vagas serão preenchidas pelo competidor melhor classificado nos últimos campeonatos oficiais da TGC realizados após o La Liga IX. Se não houver participação nos referidos campeonatos, a preferência se dará por ordem de inscrição.
-    As Divisões D1 e D2 serão disputadas na primeira fase no modelo todos contra todos. As Divisões D3 e D4(caso houver), serão disputadas no modelo mata-mata, sendo os primeiros confrontos definidos por sorteio.
-  - Punição do La Liga IX:
-    Em razão do número de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
-      Jaiser Palmer
-      Paolo Paredes
-  - Desistências Confirmadas:
-      Cleiton (CleiPlay) --> Substituído por Amélio Belchior.
-===========================================
-CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
-Apelido/Nickname: LeomarxGames
-Número de telefone com WhatsApp: +55-11-9-9349-9981
-Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: (   ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM).
+    
+    1.4 - Observações
+    
+    - As Divisões D1 (Série Ouro), D2 (Série Prata) e D3 (Série Bronze) serão disputadas na primeira fase no modelo todos contra todos.
+    - Caso haja mais de 10 inscritos para a 3ª Divisão (Série Bronze), ela será composta pelo total participantes incritos, porém divididos em 2 ou mais grupos
+      - Inscritos: até 12. Classificados: 8;
+      - Inscritos: entre 13 e 16. Classificados: 10;
+      - Inscritos: entre 17 e 20. Classificados: 12;
+      - Inscritos: entre 21 e 24. Classificados: 14;
+      - Inscritos: entre 25 e 28. Classificados: 16;
+      - Inscritos: entre 29 e 32. Classificados: 16;
+    
+    1.5 - Punição do La Liga IX
+
+    - Em razão do número de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
+      - Marllon RJ (4 W.O.'s no LLXI)
+      - Amélio Belchior (4 W.O.'s no LLXI)
+    - Desistências Confirmadas:
+      - XXXXX --> Substituído por XXXXXXX.
+
+1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+
+    Exemplo:
+    Apelido/Nickname: LeomarxGames
+    Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
+    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
+    Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
 Obs²: Queixas e reclamações por ofensas e xingamentos somente serão consideradas a julgamento se ocorrerem nos canais oficiais da TGC (grupo da TGC no facebook, grupo oficial da TGC no whatsapp, grupo oficial da TGC no discord e/ou no chat do emulador em partida oficial, chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados.
 Aos participantes “manjados” por recorrências constantes, seus casos serão analisados 2x, 3x com mais rigor.

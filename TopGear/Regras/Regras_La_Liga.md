@@ -6,79 +6,80 @@
 
 # **1. Incrições:** #
 
-    1.1 - As inscrições estarão abertas do dia XX/02/2024 até XX/02/2024.
-      
-    1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
 
-    1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
+  1.1 - As inscrições estarão abertas do dia XX/02/2024 até XX/02/2024.
     
-  - 1° Divisão D1 (Série Ouro) Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
-    - LeNN Miner (Lenno Coelho)
-    - ChitaMX (Aléxis Sánchez)
-    - Rafael Diablo (Rafael Lopes)
-    - Max Verstappen (Tomyo Sato)
-    - Sr. Filho (Jurandir Filho)
-    - Allan Live (Allan Live)
-    - Yoshimitsu (Kevin Schimidt)
-    - Dark FPC (Felipe Costa)
-    - CRX (Carlos Rubens)
-    - AriJunino (Ari Júnior)
-  - 2° Divisão D2 (Série Prata) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
-    - Gokú (Oscar Cardenhas)
-    - Luciano (Luciano Alves)
-    - Cecilmonk (Pedro Walter)
-    - Leomarx Games (Leonardo Marques)
-    - Edwin HD (Edwin Hyrula)
-    - Pegasus (Edimar Caetano)
-    - Rob Jax (RObson Meireles)
-    - Vinny (Vinícius Gustavo)
-    - Amélio (Amélio Belchior)	
-    - Killua Zorldic (Lucas Souza)
-    - Br's Brisantt (Brisantt)
-  - 3ª Divisão D3 (Série Bronze) - Competidores que participaram do La Liga IX e novos membros que desejarem se inscrever: Sendo na ordem:
-    - The Mister (Roberto Vasquez)
-    - LAOM (Luís Cardenas)
-    - Paulo Fox (Paulo Muniz)
-    - JackPocker40 (Peter Bruno)
-    - Schumacher (Martins Swantaiger)
-    - Ryce (Esdras Rycelle)
-    - JavierVZL (Javier Dixon)
-    - Paomarc (Paolo)
-    - Krunosfive (Marcos)
-    - Casio (Casio Aquino)
-    - Senninkage (Edison SIlva)
-    - MMM (Marcel Santana)
-    - Alison (Alison Paulo)
-    - CJX (Carlos José)
-    - Clei Play (Cleimar Fuckner)
-    - Fanático (Fabrício Pedroso)
-    - Léo de Brasília (Léo de Brasília)
-    - Samuel Dantas (Samuel Dantas)
-    - Bruno Menezes (Bruno Menezes)
-    - Marlon Reis (Marlon Reis)
-    - Novo competidor
-    - Novo competidor
-    - Novo competidor
-    - Novo competidor
-    
-    1.4 - Observações
-    
-    - As Divisões D1 (Série Ouro), D2 (Série Prata) e D3 (Série Bronze) serão disputadas na primeira fase no modelo todos contra todos.
-    - Caso haja mais de 10 inscritos para a 3ª Divisão (Série Bronze), ela será composta pelo total participantes incritos, porém divididos em 2 ou mais grupos
-      - Inscritos: até 12. Classificados: 8;
-      - Inscritos: entre 13 e 16. Classificados: 10;
-      - Inscritos: entre 17 e 20. Classificados: 12;
-      - Inscritos: entre 21 e 24. Classificados: 14;
-      - Inscritos: entre 25 e 28. Classificados: 16;
-      - Inscritos: entre 29 e 32. Classificados: 16;
-    
-    1.5 - Punição do La Liga IX
+  1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
 
-    - Em razão do número de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
-      - Marllon RJ (4 W.O.'s no LLXI)
-      - Amélio Belchior (4 W.O.'s no LLXI)
-    - Desistências Confirmadas:
-      - XXXXX --> Substituído por XXXXXXX.
+  1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
+  
+- 1° Divisão D1 (Série Ouro) Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+  - LeNN Miner (Lenno Coelho)
+  - ChitaMX (Aléxis Sánchez)
+  - Rafael Diablo (Rafael Lopes)
+  - Max Verstappen (Tomyo Sato)
+  - Sr. Filho (Jurandir Filho)
+  - Allan Live (Allan Live)
+  - Yoshimitsu (Kevin Schimidt)
+  - Dark FPC (Felipe Costa)
+  - CRX (Carlos Rubens)
+  - AriJunino (Ari Júnior)
+- 2° Divisão D2 (Série Prata) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+  - Gokú (Oscar Cardenhas)
+  - Luciano (Luciano Alves)
+  - Cecilmonk (Pedro Walter)
+  - Leomarx Games (Leonardo Marques)
+  - Edwin HD (Edwin Hyrula)
+  - Pegasus (Edimar Caetano)
+  - Rob Jax (RObson Meireles)
+  - Vinny (Vinícius Gustavo)
+  - Amélio (Amélio Belchior)	
+  - Killua Zorldic (Lucas Souza)
+  - Br's Brisantt (Brisantt)
+- 3ª Divisão D3 (Série Bronze) - Competidores que participaram do La Liga IX e novos membros que desejarem se inscrever: Sendo na ordem:
+  - The Mister (Roberto Vasquez)
+  - LAOM (Luís Cardenas)
+  - Paulo Fox (Paulo Muniz)
+  - JackPocker40 (Peter Bruno)
+  - Schumacher (Martins Swantaiger)
+  - Ryce (Esdras Rycelle)
+  - JavierVZL (Javier Dixon)
+  - Paomarc (Paolo)
+  - Krunosfive (Marcos)
+  - Casio (Casio Aquino)
+  - Senninkage (Edison SIlva)
+  - MMM (Marcel Santana)
+  - Alison (Alison Paulo)
+  - CJX (Carlos José)
+  - Clei Play (Cleimar Fuckner)
+  - Fanático (Fabrício Pedroso)
+  - Léo de Brasília (Léo de Brasília)
+  - Samuel Dantas (Samuel Dantas)
+  - Bruno Menezes (Bruno Menezes)
+  - Marlon Reis (Marlon Reis)
+  - Novo competidor
+  - Novo competidor
+  - Novo competidor
+  - Novo competidor
+  
+  1.4 - Observações
+  
+  - As Divisões D1 (Série Ouro), D2 (Série Prata) e D3 (Série Bronze) serão disputadas na primeira fase no modelo todos contra todos.
+  - Caso haja mais de 10 inscritos para a 3ª Divisão (Série Bronze), ela será composta pelo total participantes incritos, porém divididos em 2 ou mais grupos
+    - Inscritos: até 12. Classificados: 8;
+    - Inscritos: entre 13 e 16. Classificados: 10;
+    - Inscritos: entre 17 e 20. Classificados: 12;
+    - Inscritos: entre 21 e 24. Classificados: 14;
+    - Inscritos: entre 25 e 28. Classificados: 16;
+    - Inscritos: entre 29 e 32. Classificados: 16;
+  
+  1.5 - Punição do La Liga IX
+
+  - Em razão do número de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
+    - Marllon RJ (4 W.O.'s no LLXI)
+    - Amélio Belchior (4 W.O.'s no LLXI)
+  - Desistências Confirmadas:
+    - XXXXX --> Substituído por XXXXXXX.
 
 1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 

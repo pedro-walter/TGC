@@ -225,6 +225,20 @@ Link das Redes:
 
 11.3 - Feita a votação em 10/01/2024 o resultado final, a maioria dos pilotos votaram pelo campeonato no modelo **VALE TUDO (Dirty Edition)* então as regras a seguir com relação a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão utilizadas neste campeonato. Conforme texto superscrito abaixo.
 
+11.4 - Feita a votação em 24/01/2024 o resultado final, a maioria dos pilotos votaram pela não punição de mudança de trajeto durante as ultrapassagens.
+
+# **Medidas Anti-Jogo:** #
+
+- Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
+
+- Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
+
+- Se o carro quebrar por qualquer motivo que não exija fazer o load state, é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
+
+- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é necessário dar Ré para evitar bater no muro ou situações similares;
+
+- As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
+
 # **Desbloqueio de todos os países, seleção de país sorteado:** #
 
 ![](Desbloqueio.jpeg)

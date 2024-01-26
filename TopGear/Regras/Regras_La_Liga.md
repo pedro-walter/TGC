@@ -30,7 +30,7 @@
     - Leomarx Games (Leonardo Marques)
     - Edwin HD (Edwin Hyrula)
     - Pegasus (Edimar Caetano)
-    - Rob Jax (RObson Meireles)
+    - Rob Jax (Robson Meireles)
     - Vinny (Vinícius Gustavo)
     - The Mister (Roberto Vasquez)
     - Killua Zorldic (Lucas Souza)

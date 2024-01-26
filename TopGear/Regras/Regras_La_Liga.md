@@ -35,6 +35,7 @@
     - The Mister (Roberto Vasquez)
     - Killua Zorldic (Lucas Souza)
 - Série Bronze (3ª Divisão) - Competidores que participaram do La Liga XI e novos membros que desejarem se inscrever: Sendo na ordem:
+    - Amélio (Amélio Belchior)
     - Br's Brisantt (Brisantt)
     - LAOM (Luís Cardenas)
     - Paulo Fox (Paulo Muniz)
@@ -68,15 +69,13 @@
       - Inscritos: entre 13 e 16. Classificados: 10;
       - Inscritos: entre 17 e 20. Classificados: 12;
       - Inscritos: entre 21 e 24. Classificados: 14;
-      - Inscritos: entre 25 e 28. Classificados: 16;
-      - Inscritos: entre 29 e 32. Classificados: 16;
+      - Inscritos: entre 25 e 32. Classificados: 16;
     
-    1.5 - Punição do La Liga IX
+    1.5 - Punição do La Liga XI
 
   - Em razão do número excessivo de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
-      - Marllon RJ (4 W.O.'s no LLXI)
-      - Amélio Belchior (4 W.O.'s no LLXI)
-    - Desistências Confirmadas:
+    - Nenhum Piloto
+  - Desistências Confirmadas:
     - XXXXX --> Substituído por XXXXXXX.
 
     1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.

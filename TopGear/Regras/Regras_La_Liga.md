@@ -6,19 +6,19 @@
 
 # **1. Incrições:** #
 
-  1.1 - As inscrições estarão abertas do dia XX/02/2024 até XX/02/2024.
+  1.1 - As inscrições estarão abertas do dia 26/01/2024 até 02/02/2024.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
 
   1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
   
   - Série Ouro (1ª Divisão) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
-    - LeNN Miner (Lenno Coelho)
+    - Max Verstappen (Tomyo Sato)
     - ChitaMX (Aléxis Sánchez)
     - Rafael Diablo (Rafael Lopes)
-    - Max Verstappen (Tomyo Sato)
-    - Sr. Filho (Jurandir Filho)
+    - LeNN Miner (Lenno Coelho)
     - Allan Live (Allan Live)
+    - Sr. Filho (Jurandir Filho)
     - Yoshimitsu (Kevin Schimidt)
     - Dark FPC (Felipe Costa)
     - CRX (Carlos Rubens)

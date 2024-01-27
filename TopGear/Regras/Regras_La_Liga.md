@@ -10,7 +10,7 @@
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
 
-  1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
+  1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI):
   
   - Série Ouro (1ª Divisão) - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
    1 - Max Verstappen (Tomyo Sato)
@@ -65,21 +65,27 @@
     
   1.4 - Observações
     
-  - A Série Ouro (1ª Divisão), Série Prata (2ª Divisão) serão disputadas na primeira fase no modelo todos contra todos.
-  - A Série Bronze (3ª Divisão) será disputada no mesmo modelo das Séries Ouro e Prata, caso o número de inscritos seja menor ou igual a 10. Caso haja mais de 10 inscritos para a Série Bronze, estes serão dividos em grupos e o chaveamento será definido após encerramento das inscrições.
+  1.4.1 - A Série Ouro (1ª Divisão), Série Prata (2ª Divisão) serão disputadas na primeira fase no modelo todos contra todos.
+  1.4.2 - A Série Bronze (3ª Divisão) será disputada no mesmo modelo das Séries Ouro e Prata, caso o número de inscritos seja menor ou igual a 10. Caso haja mais de 10 inscritos para a Série Bronze, estes serão dividos em grupos e o chaveamento será definido após encerramento das inscrições.
       - Inscritos: até 12. Classificados: 8;
       - Inscritos: entre 13 e 16. Classificados: 10;
       - Inscritos: entre 17 e 20. Classificados: 12;
       - Inscritos: entre 21 e 24. Classificados: 14;
       - Inscritos: entre 25 e 32. Classificados: 16;
   
-  - Substituições: Caso aja algum piloto desistente
-  1.5 - Punição do La Liga XI
+  1.4.3 - Substituições: Caso aja algum piloto desistente ou punido na edição anterior nas Ligas Ouro ou Prata:
+      - 1ª desistência/punição, sobe o 4º colocado da Liga imediatamente abaixo (Prata ou Bronze).
+      - 2ª dsistência/punição, sobe o 1º melhor rebaixado da Liga que o desistênte (Ouro ou Prata).
+      - 3ª desistência/punição, sobe o 5º colocado da Liga imediatamente abaixo (Prata ou Bronze).
+      - 4ª desistência/punição, sobe o 2º melhor rebaixado da Liga que o desistênte (Ouro ou Prata)
+      - 5ª desistência/punição, sobe o 6º colocado da Liga imediatamente abaixo (Prata ou Bronze).
+      - 6ª desistência/punição, sobe o 3º melhor rebaixado da Liga que o desistênte (Ouro ou Prata).
+      - A partir da 7ª desistência/punição, sobem os demais pilotos das Ligas imediatamente abaixo pela ordem de classificação (Prata ou Bronze). 
+  
+  1.5 - Punição do La Liga XI:
 
-  - O Piloto Albert da Série Ouro ficou proibido de participar do La Liga XII em razão de punição e proibição de participar dos campeonatos da TGC nas temporadas 2023/24. Desta forma foi substituído pelo 4º Colocado da Série Prata, conforme previsto no item 1.4.
-  - Desistências Confirmadas:
-    - XXXXX --> Substituído por XXXXXXX.
-
+  1.5.1 - O Piloto Albert da Série Ouro ficou proibido de participar do La Liga XII em razão de punição e proibição de participar dos campeonatos da TGC nas temporadas 2023/24. Desta forma foi substituído pelo 4º Colocado da Série Prata, conforme previsto no item 1.4.3
+  
   1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
         Exemplo:
@@ -87,43 +93,39 @@
         WhatsApp: +55-11-99999-8888
         Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
         Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
-        Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
+  1.7 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato, ou exlusão da Comunidade.
 
+  1.8 - *CRONOGRAMA* D1/D2 (Horários de Brasília/BRASIL):
+      - Prazo para confirmações e novas inscrições: 05/02/2023 às 11h59
+      - Após revisão das incrições será feito o sorteio das pistas/países e aberto o prazo do comissário
+      - Prazo Comissário: 07/02/2023 17h59
+      - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos
+      - Se após advertência dos admins o jogador não corrigir o envio dos carros até as 23h59 de 07/02/2023. 
+      - Caso a solicitação não seja atendida, os carros do piloto serão escolhidos por meio de sorteio.
+      - Fase de Grupos terá prazo de 12 dias. Previsão de término – 19/02/2023 23h59
+      - Quartas de Final: 20/02 à 24/02 às 23h59.
+      - Semifinal: 25 à 29/02 23h59.
+      - Final e Disputa de Terceiro: 01/03 à 05/03/2023 23h59
+  
+  1.8.1 - OBSERVAÇÕES:
+    - As rodadas podem ter um prazo estendido caso a administração julgue necessário.
+    - Durante a fase de grupos, na primeira metade do prazo (até dia 13/02/2023), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
+    - O competidor que não cumprir o item anterior, será desclassificado e receberá W.O na diferença das partidas não realizadas (sorteio).
+    - Caso o piloto não realize ao menos 2 (duas partidas) durante a primeira metade do prazo, será eliminado do torneio e estará automaticamente rebaixado para a edição seguinte.
+    - Iniciado o campeonato, não haverá mais substituição de jogadores. Sendo aplicado W.O para os jogos faltantes do jogador que desistir do campeonato.
+    - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
 
-======================================
-Obs²: Queixas e reclamações por ofensas e xingamentos somente serão consideradas a julgamento se ocorrerem nos canais oficiais da TGC (grupo da TGC no facebook, grupo oficial da TGC no whatsapp, grupo oficial da TGC no discord e/ou no chat do emulador em partida oficial, chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados.
-Aos participantes “manjados” por recorrências constantes, seus casos serão analisados 2x, 3x com mais rigor.
-Concordou e Assinou, ja era! Se reclamar, o choro é livre.
-===========================================
-- *CRONOGRAMA* D1/D2 (Horários de Brasília/BRASIL):
-  Prazo para confirmações e novas inscrições: 05/02/2023 às 11h59
-  Após revisão das incrições será feito o sorteio das pistas/países e aberto o prazo do comissário
-  Prazo Comissário: 07/02/2023 17h59
-  Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos
-  Se após advertência dos admins o jogador não corrigir o envio dos carros até as 23h59 de 07/02/2023. 
-  Caso a solicitação não seja atendida, ss carros do piloto serão escolhidos por meio de sorteio.
-  Fase de Grupos terá prazo de 12 dias. Previsão de término – 19/02/2023 23h59
-  Semifinal: 20 a 24/02 23h59
-  Final e terceiro: 25 a 03/03/2023 23h59
-  - OBSERVAÇÕES:
-    As rodadas podem ter um prazo estendido caso a administração julgue necessário.
-    Durante a fase de grupos, na primeira metade do prazo (até dia 13/02/2023), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
-    O competidor que não cumprir o item anterior, será desclassificado e receberá W.O na diferença das partidas não realizadas (sorteio).
-    Iniciado o campeonato, não haverá mais substituição de jogadores. Sendo aplicado W.O para os jogos faltantes do jogador que desistir do campeonato.
-    O cronograma e as fases da D3 e D4(se houver), serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
-===========================================
-- *ORGANIZAÇÃO E CHAVEAMENTO*
-  Será utilizado o CHALLONGE para chaveamento das partidas do campeonato
-  Fase de grupos: 2 países em cada rodada.
-  Semifinal e terceiro: 4 países
-  Final: 4 países 
-  Na D1 e D2 o campeonato será modelo tradicional, todos contra todos na fase grupos
-  Depois os 6 melhores colocados farão as fases finais 
-  Quartas de final com 3° vs 6° e 4° vc 5°
-  O 1° e o 2° colocados irão para semifinais diretamente
-  Por último a grande final e disputa do terceiro lugar.
-  Para D3 e D4 poderão ser aplicados modos diferentes de rodadas e fases finais devido a quantidade de participantes.
+  1.9 - *ORGANIZAÇÃO E CHAVEAMENTO*
+    - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato
+    - Fase de grupos: 2 países em cada rodada.
+    - Quartas de Final e Semifinal: 3 países.
+    - Final e Disputa de Terceiro: 4 países.
+    - Nas Séries Ouro e Prata, o campeonato será no modelo tradicional, todos contra todos na fase grupos.
+    - Os 6 melhores colocados da fase de grupos serão classificados para as fases finais.
+    - O 1° e o 2° colocados serão classificados diretamente para as Semifianais.
+    - Do 3º ao 6 º colocados, farão as Quartas de final conforme chaveamento do challonge.
+    - Para a Série Bronze poderá ser aplicados modos diferentes de rodadas e fases finais conforme a quantidade de participantes.
 ===========================================
 - *COMISSÁRIO ELETRÔNICO*
   Obrigatório para todas as fases do campeonato para D1 e D2.

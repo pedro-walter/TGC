@@ -12,73 +12,75 @@
 
   1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI)
   
-  - Série Ouro (1ª Divisão) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
-    - Max Verstappen (Tomyo Sato)
-    - ChitaMX (Aléxis Sánchez)
-    - Rafael Diablo (Rafael Lopes)
-    - LeNN Miner (Lenno Coelho)
-    - Allan Live (Allan Live)
-    - Sr. Filho (Jurandir Filho)
-    - Yoshimitsu (Kevin Schimidt)
-    - Dark FPC (Felipe Costa)
-    - CRX (Carlos Rubens)
-    - AriJunino (Ari Júnior)
-- Série Prata (2ª Divisão) - Apenas os jogadores que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
-    - Gokú (Oscar Cardenhas)
-    - Luciano (Luciano Alves)
-    - Cecilmonk (Pedro Walter)
-    - Leomarx Games (Leonardo Marques)
-    - Edwin HD (Edwin Hyrula)
-    - Pegasus (Edimar Caetano)
-    - Rob Jax (Robson Meireles)
-    - Vinny (Vinícius Gustavo)
-    - The Mister (Roberto Vasquez)
-    - Killua Zorldic (Lucas Souza)
-- Série Bronze (3ª Divisão) - Competidores que participaram do La Liga XI e novos membros que desejarem se inscrever: Sendo na ordem:
-    - Amélio (Amélio Belchior)
-    - Br's Brisantt (Brisantt)
-    - LAOM (Luís Cardenas)
-    - Paulo Fox (Paulo Muniz)
-    - JackPocker40 (Peter Bruno)
-    - Schumacher (Martins Swantaiger)
-    - Ryce (Esdras Rycelle)
-    - JavierVZL (Javier Dixon)
-    - Paomarc (Paolo Paredes)
-    - Krunosfive (Marcos)
-    - Casio (Casio Aquino)
-    - Senninkage (Edison SIlva)
-    - MMM (Marcel Santana)
-    - Alison (Alison Paulo)
-    - CJX (Carlos José)
-    - Clei Play (Cleimar Fuckner)
-    - Fanático (Fabrício Pedroso)
-    - Léo de Brasília (Léo de Brasília)
-    - Samuel Dantas (Samuel Dantas)
-    - Bruno Menezes (Bruno Menezes)
-    - Marlon Reis (Marlon Reis)
-    - Novo competidor
-    - Novo competidor
-    - Novo competidor
-    - Novo competidor
+  - Série Ouro (1ª Divisão) - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+   1 - Max Verstappen (Tomyo Sato)
+   2 - ChitaMX (Aléxis Sánchez)
+   3 - Rafael Diablo (Rafael Lopes)
+   4 - LeNN Miner (Lenno Coelho)
+   5 - Allan Live (Allan Live)
+   6 - Sr. Filho (Jurandir Filho)
+   7 - Yoshimitsu (Kevin Schimidt)
+   8 - Dark FPC (Felipe Costa)
+   9 - CRX (Carlos Rubens)
+   10 - AriJunino (Ari Júnior)
+      
+  - Série Prata (2ª Divisão) - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+   1 - Rob Jax (Robson Meireles)
+   2 - Vinny (Vinícius Gustavo)
+   3 - Amélio (Amélio Belchior)
+   4 - Luciano (Luciano Alves)
+   5 - Gokú (Oscar Cardenhas)
+   6 - Cecilmonk (Pedro Walter)
+   7 - Leomarx Games (Leonardo Marques)
+   8 - Edwin HD (Edwin Hyrula)
+   9 - Pegasus (Edimar Caetano)
+   10 - Killua Zorldic (Lucas Souza)
     
-    1.4 - Observações
+  - Série Bronze (3ª Divisão) - Competidores que participaram do La Liga XI e novos membros que desejarem se inscrever: Sendo na ordem:
+   1 - The Mister (Roberto Vasquez)
+   2 - LAOM (Luís Cardenas)
+   3 - Paulo Fox (Paulo Muniz)
+   4 - Br's Brisantt (Brisantt)
+   5 - Schumacher (Martins Swantaiger)
+   6 - JackPocker40 (Peter Bruno)
+   7 - Marlon Reis (Marlon Reis)
+   8 - Ryce (Esdras Rycelle)
+   9 - JavierVZL (Javier Dixon)
+   10 - Paomarc (Paolo Paredes)
+   11 - Krunosfive (Marcos)
+   12 - Casio (Casio Aquino)
+   13 - Senninkage (Edison Silva)
+   14 - MMM (Marcel Santana)
+   15 - Alison (Alison Paulo)
+   16 - CJX (Carlos José)
+   17 - Clei Play (Cleimar Fuckner)
+   18 - Fanático (Fabrício Pedroso)
+   19 - Léo de Brasília (Léo de Brasília)
+   20 - Samuel Dantas (Samuel Dantas)
+   21 - Bruno Menezes (Bruno Menezes)
+   22 - Novo competidor
+   23 - Novo competidor
+   24 - Novo competidor
+   25 - Novo competidor
     
-  - A Série Ouro (1ª Divisão), Série Prata (2ª Divisão) e Série Bronze (3ª Divisão) serão disputadas na primeira fase no modelo todos contra todos.
-  - Caso haja mais de 10 inscritos para a 3ª Divisão (Série Bronze), ela será composta pelo total participantes incritos, porém divididos em 2 ou mais grupos
+  1.4 - Observações
+    
+  - A Série Ouro (1ª Divisão), Série Prata (2ª Divisão) serão disputadas na primeira fase no modelo todos contra todos.
+  - A Série Bronze (3ª Divisão) será disputada no mesmo modelo das Séries Ouro e Prata, caso o número de inscritos seja menor ou igual a 10. Caso haja mais de 10 inscritos para a Série Bronze, estes serão dividos em grupos e o chaveamento será definido após encerramento das inscrições.
       - Inscritos: até 12. Classificados: 8;
       - Inscritos: entre 13 e 16. Classificados: 10;
       - Inscritos: entre 17 e 20. Classificados: 12;
       - Inscritos: entre 21 e 24. Classificados: 14;
       - Inscritos: entre 25 e 32. Classificados: 16;
-    
-    1.5 - Punição do La Liga XI
+  
+  - Substituições: Caso aja algum piloto desistente
+  1.5 - Punição do La Liga XI
 
-  - Em razão do número excessivo de W.O’s da última edição, estão proibidos de se inscreverem nesta edição os seguintes competidores:
-    - Nenhum Piloto
+  - O Piloto Albert da Série Ouro ficou proibido de participar do La Liga XII em razão de punição e proibição de participar dos campeonatos da TGC nas temporadas 2023/24. Desta forma foi substituído pelo 4º Colocado da Série Prata, conforme previsto no item 1.4.
   - Desistências Confirmadas:
     - XXXXX --> Substituído por XXXXXXX.
 
-    1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+  1.6 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
         Exemplo:
         Apelido/Nickname: LeomarxGames

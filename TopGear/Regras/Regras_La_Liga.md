@@ -50,14 +50,14 @@
    - 8 - Ryce (Esdras Rycelle)
    - 9 - JavierVZL (Javier Dixon)
    - 10 - Paomarc (Paolo Paredes)
-   - 11 - Krunosfive (Marcos)
+   ~~- 11 - Krunosfive (Marcos)~~
    - 12 - Casio (Casio Aquino)
    - 13 - Senninkage (Edison Silva)
    - 14 - MMM (Marcel Santana)
    - 15 - Alison (Alison Paulo)
-   - 16 - CJX (Carlos José)
-   - 17 - Clei Play (Cleimar Fuckner)
-   - 18 - Fanático (Fabrício Pedroso)
+   ~~- 16 - CJX (Carlos José)~~
+   ~~- 17 - Clei Play (Cleimar Fuckner)~~
+   ~~- 18 - Fanático (Fabrício Pedroso)~~
    - 19 - Léo de Brasília (Léo de Brasília)
    - 20 - Samuel Dantas (Samuel Dantas)
    - 21 - Bruno Menezes (Bruno Menezes)

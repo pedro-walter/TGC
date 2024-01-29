@@ -14,57 +14,57 @@
   
   1.4 Série Ouro (1ª Divisão) - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
 
-    - 1 - Max Verstappen (Tomyo Sato)
-    - 2 - ChitaMX (Aléxis Sánchez)
-    - 3 - Rafael Diablo (Rafael Lopes)
-    - 4 - LeNN Miner (Lenno Coelho)
-    - 5 - Allan Live (Allan Live)
-    - 6 - Sr. Filho (Jurandir Filho)
-    - 7 - Yoshimitsu (Kevin Schimidt)
-    - 8 - Dark FPC (Felipe Costa)
-    - 9 - CRX (Carlos Rubens)
-    - 10 - AriJunino (Ari Júnior)
+  - 1 - Max Verstappen (Tomyo Sato)
+  - 2 - ChitaMX (Aléxis Sánchez)
+  - 3 - Rafael Diablo (Rafael Lopes)
+  - 4 - LeNN Miner (Lenno Coelho)
+  - 5 - Allan Live (Allan Live)
+  - 6 - Sr. Filho (Jurandir Filho)
+  - 7 - Yoshimitsu (Kevin Schimidt)
+  - 8 - Dark FPC (Felipe Costa)
+  - 9 - CRX (Carlos Rubens)
+  - 10 - AriJunino (Ari Júnior)
 
   1.5 Série Prata (2ª Divisão) - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
 
-    - 1 - Rob Jax (Robson Meireles)
-    - 2 - Vinny (Vinícius Gustavo)
-    - 3 - Amélio (Amélio Belchior)
-    - 4 - Luciano (Luciano Alves)
-    - 5 - Gokú (Oscar Cardenhas)
-    - 6 - Cecilmonk (Pedro Walter)
-    - 7 - Leomarx Games (Leonardo Marques)
-    - 8 - Edwin HD (Edwin Hyrula)
-    - 9 - Pegasus (Edimar Caetano)
-    - 10 - Killua Zorldic (Lucas Souza)
+   - 1 - Rob Jax (Robson Meireles)
+   - 2 - Vinny (Vinícius Gustavo)
+   - 3 - Amélio (Amélio Belchior)
+   - 4 - Luciano (Luciano Alves)
+   - 5 - Gokú (Oscar Cardenhas)
+   - 6 - Cecilmonk (Pedro Walter)
+   - 7 - Leomarx Games (Leonardo Marques)
+   - 8 - Edwin HD (Edwin Hyrula)
+   - 9 - Pegasus (Edimar Caetano)
+   - 10 - Killua Zorldic (Lucas Souza)
 
   1.6 Série Bronze (3ª Divisão) - Competidores que participaram do La Liga XI e novos membros que desejarem se inscrever: Sendo na ordem:
 
-    - 1 - The Mister (Roberto Vasquez)
-    - 2 - LAOM (Luís Cardenas)
-    - 3 - Paulo Fox (Paulo Muniz)
-    - 4 - Br's Brisantt (Brisantt)
-    - 5 - Schumacher (Martins Swantaiger)
-    - 6 - JackPocker40 (Peter Bruno)
-    - 7 - Marlon Reis (Marlon Reis)
-    - 8 - Ryce (Esdras Rycelle)
-    - 9 - JavierVZL (Javier Dixon)
-    - 10 - Paomarc (Paolo Paredes)
-    - 11 - Krunosfive (Marcos)
-    - 12 - Casio (Casio Aquino)
-    - 13 - Senninkage (Edison Silva)
-    - 14 - MMM (Marcel Santana)
-    - 15 - Alison (Alison Paulo)
-    - 16 - CJX (Carlos José)
-    - 17 - Clei Play (Cleimar Fuckner)
-    - 18 - Fanático (Fabrício Pedroso)
-    - 19 - Léo de Brasília (Léo de Brasília)
-    - 20 - Samuel Dantas (Samuel Dantas)
-    - 21 - Bruno Menezes (Bruno Menezes)
-    - 22 - Novo competidor
-    - 23 - Novo competidor
-    - 24 - Novo competidor
-    - 25 - Novo competidor
+   - 1 - The Mister (Roberto Vasquez)
+   - 2 - LAOM (Luís Cardenas)
+   - 3 - Paulo Fox (Paulo Muniz)
+   - 4 - Br's Brisantt (Brisantt)
+   - 5 - Schumacher (Martins Swantaiger)
+   - 6 - JackPocker40 (Peter Bruno)
+   - 7 - Marlon Reis (Marlon Reis)
+   - 8 - Ryce (Esdras Rycelle)
+   - 9 - JavierVZL (Javier Dixon)
+   - 10 - Paomarc (Paolo Paredes)
+   - 11 - Krunosfive (Marcos)
+   - 12 - Casio (Casio Aquino)
+   - 13 - Senninkage (Edison Silva)
+   - 14 - MMM (Marcel Santana)
+   - 15 - Alison (Alison Paulo)
+   - 16 - CJX (Carlos José)
+   - 17 - Clei Play (Cleimar Fuckner)
+   - 18 - Fanático (Fabrício Pedroso)
+   - 19 - Léo de Brasília (Léo de Brasília)
+   - 20 - Samuel Dantas (Samuel Dantas)
+   - 21 - Bruno Menezes (Bruno Menezes)
+   - 22 - Novo competidor
+   - 23 - Novo competidor
+   - 24 - Novo competidor
+   - 25 - Novo competidor
   
   1.7 - Observações
     
@@ -353,10 +353,10 @@
 
 12.3. As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
-    Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
-    Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
-    Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
-    Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+  - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+  - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+  - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+  - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
 12.4. O jogador inscrito tem o direito de não fornecer as informações solicitadas, assim como a TGC, também se reservam ao direito de cancelar a inscrição ou remover um participante durante um campeonato, que não concorde em providenciar as informações que lhe forem solicitadas.
 
@@ -376,7 +376,7 @@
 
 # **14. Situações inéditas** #
 
-14.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
+14.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.
 
 14.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 

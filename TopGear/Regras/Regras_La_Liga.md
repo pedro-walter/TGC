@@ -329,16 +329,55 @@
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
 - O Password para abrir todos os países na Rom Original é KELLSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 
-# **11. Links Importantes** #
+# **11. Itens e Links Importantes** #
 
-  - [ENVIO CARRO](https://www.topgearchampionships.com/comissario/comissario.html)
+11.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+
+11.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
+
+11.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
+
+11.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+
+11.5. **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+
+11.6 [ENVIO CARRO] = (https://www.topgearchampionships.com/comissario/comissario.html)
   
-  - [LOGS COMISSARIO] (https://www.topgearchampionships.com/comissario/logsPublicosComissario.html)
+11.7 [LOGS COMISSARIO] = (https://www.topgearchampionships.com/comissario/logsPublicosComissario.html)
 
-# **12. Situações inéditas** #
+# **12. Validação e Verificação de Perfil dos Inscritos:** #
 
-12.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
+12.1. A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-12.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
+12.2. Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
+
+12.3. As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
+
+    Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+    Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+    Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+    Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+
+12.4. O jogador inscrito tem o direito de não fornecer as informações solicitadas, assim como a TGC, também se reservam ao direito de cancelar a inscrição ou remover um participante durante um campeonato, que não concorde em providenciar as informações que lhe forem solicitadas.
+
+# **13. Validação das partidas:** #
+
+13.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
+
+13.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada.
+
+13.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+
+13.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
+
+13.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+
+13.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
+
+# **14. Situações inéditas** #
+
+14.1. Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.**
+
+14.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
 # **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #

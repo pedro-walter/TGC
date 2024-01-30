@@ -62,7 +62,7 @@
    - 24 - Novo competidor
    - 25 - Novo competidor
   
-  1.7 - Observações
+  1.7 - Observações:
     
   1.7.1 - A Série Ouro e Série Prata serão disputadas na primeira fase no modelo todos contra todos.
 
@@ -74,14 +74,14 @@
    - Inscritos: entre 21 e 24. Classificados: 14;
    - Inscritos: entre 25 e 32. Classificados: 16;
   
-  1.7.3 - Substituições: Caso aja algum piloto desistente ou punido na edição anterior nas Ligas Ouro ou Prata:
+  1.7.3 - Substituições: Caso haja algum piloto desistente ou punido na edição anterior nas Ligas Ouro ou Prata:
     
    - 1ª desistência/punição, sobe o 4º colocado da Série imediatamente abaixo (Prata ou Bronze).
-   - 2ª dsistência/punição, sobe o 1º melhor rebaixado da Série do desistênte (Ouro ou Prata).
+   - 2ª desistência/punição, sobe o 1º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - 3ª desistência/punição, sobe o 5º colocado da Série imediatamente abaixo (Prata ou Bronze).
-   - 4ª desistência/punição, sobe o 2º melhor rebaixado da Série do desistênte (Ouro ou Prata)
+   - 4ª desistência/punição, sobe o 2º melhor rebaixado da Série do desistente (Ouro ou Prata)
    - 5ª desistência/punição, sobe o 6º colocado da Série imediatamente abaixo (Prata ou Bronze).
-   - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistênte (Ouro ou Prata).
+   - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - A partir da 7ª desistência/punição, sobem os demais pilotos das Séries imediatamente abaixo, pela ordem de classificação (Prata ou Bronze). 
   
   1.8 - Punição do La Liga XI:
@@ -102,13 +102,13 @@
    
   2.1 - Prazo para confirmações e novas inscrições: 05/02/2023 às 11h59.
   
-  2.2 - Após revisão das incrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
+  2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
   2.3 - Prazo Comissário: 07/02/2023 17h59.
   
   2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
   
-  2.5 - Se após advertência dos admins o jogador não corrigir o envio dos carros até as 23h59 de 07/02/2023, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 07/02/2023, os carros do piloto serão escolhidos por meio de sorteio.
   
   2.6 - Fase de Grupos terá prazo de 12 dias. Previsão de término – 19/02/2023 23h59
   
@@ -116,7 +116,7 @@
   
   2.8 - Semifinal: 25 à 29/02 23h59.
   
-  2.9 - Final e Disputa de Terceiro: 01/03 à 05/03/2023 23h59
+  2.9 - Final e Disputa de 3º: 01/03 à 05/03/2023 23h59
   
   2.10 - OBSERVAÇÕES:
        
@@ -132,7 +132,7 @@
        
   - 2.10.6 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
 
-# **3. Orgranização e Chaveamento:** #
+# **3. Organização e Chaveamento:** #
   
   3.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
   
@@ -140,13 +140,13 @@
   
   3.3 - Quartas de Final e Semifinal: 3 países.
   
-  3.4 - Final e Disputa de Terceiro: 4 países.
+  3.4 - Final e Disputa de 3º: 4 países.
   
   3.5 - Nas Séries Ouro e Prata, o campeonato será no modelo tradicional, todos contra todos na fase grupos.
   
   3.6 - Os 6 melhores colocados da fase de grupos serão classificados para as fases finais.
   
-  3.7 - O 1° e o 2° colocados serão classificados diretamente para as Semifianais.
+  3.7 - O 1° e o 2° colocados serão classificados diretamente para as Semifinais.
   
   3.8 - Do 3º ao 6 º colocados, farão as Quartas de final conforme chaveamento do challonge.
   
@@ -166,7 +166,7 @@
 
   4.6 - Exemplo para 9 partidas... 4x carros vermelhos, 3x carros brancos, 1x carros Roxo e 1x carro Azul
 
-  4.7 - Para as Quartas de Finais e SemiFinais, 3 Carros diferentes, 1 para cada país.
+  4.7 - Para as Quartas de Finais e Semifinais, 3 Carros diferentes, 1 para cada país.
 
   4.8 - Para a grande Final e Disputa de 3º, deverão se utilizados os 4 Carros, sendo 1 para cada país.
 
@@ -214,7 +214,7 @@
 
 # **7. Comunicação:** #
 
-  7.1 - Serão criados grupos no whatsapp para cada uma das Séries, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Serão criados grupos no WhatsApp para cada uma das Séries, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
 
   7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 

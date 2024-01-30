@@ -369,3 +369,5 @@
 14.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
 # **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
+
+https://github.com/pedro-walter/TGC/blob/master/TopGear/Regras/Regras_La_Liga.md

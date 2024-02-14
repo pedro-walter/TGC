@@ -100,29 +100,29 @@
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: 05/02/2023 às 11h59.
+  2.1 - Prazo para confirmações e novas inscrições: 05/02/2023 às 23h.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: 07/02/2023 17h59.
+  2.3 - Prazo Comissário: 08/02/2023 23h.
   
   2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
   
-  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 07/02/2023, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 08/02/2023, os carros do piloto serão escolhidos por meio de sorteio.
   
-  2.6 - Fase de Grupos terá prazo de 12 dias. Previsão de término – 19/02/2023 23h59
+  2.6 - Fase de Grupos terá prazo de 20 dias. Previsão de término – 28/02/2023 23h.
   
-  2.7 - Quartas de Final: 20/02 à 24/02 às 23h59.
+  2.7 - Quartas de Final: 29/02 à 05/03 às 23h.
   
-  2.8 - Semifinal: 25 à 29/02 23h59.
+  2.8 - Semifinal: 26 à 11/03 23h.
   
-  2.9 - Final e Disputa de 3º: 01/03 à 05/03/2023 23h59
+  2.9 - Final e Disputa de 3º: 12/03 à 17/03/2023 23h
   
   2.10 - OBSERVAÇÕES:
        
   - 2.10.1 - As rodadas podem ter um prazo estendido caso a administração julgue necessário.
        
-  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 13/02/2023), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
+  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 18/02/2023), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
 
   - 2.10.3 - O competidor que não cumprir o item anterior, receberá W.O na diferença das partidas não realizadas ou agendadas, através de sorteio aleatório.
        

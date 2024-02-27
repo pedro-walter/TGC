@@ -6,13 +6,13 @@
 
 # **1. Inscrições:** #
 
-Lista dos participantes com os respectivos Apelidos e/ou nomes do Facebook.
+1.1 - Lista dos participantes com os respectivos Apelidos e/ou nomes do Facebook.
 
-As inscrições para o torneio podem ser encerradas antecipadamente, caso seja atingido o número par de participantes para que o chaveamento seja feito de forma correta com um número par de jogadores 8/10/12/14... 16.
+1.2 - As inscrições para o torneio podem ser encerradas antecipadamente, caso seja atingido o número par de participantes para que o chaveamento seja feito de forma correta com um número par de jogadores 8/10/12/14... 16.
 
-Poderá ser feito cadastro reserva de jogadores a fim de preencher possíveis desistência de jogadores.
+1.3 - Poderá ser feito cadastro reserva de jogadores a fim de preencher possíveis desistência de jogadores.
 
-CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
+1.4 - CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
     Apelido/Nickname: LeomarxGames
     Número de telefone com WhatsApp: +55 11 99999-8888
@@ -20,57 +20,45 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
     Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
-A TGC se reserva ao direito do uso de imagem dos participantes inscritos neste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
+1.5 - A TGC se reserva ao direito do uso de imagem dos participantes inscritos neste torneio, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
 
-1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
+1.6 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
 
-# **Validação e Verificação de perfil dos Inscritos:** #
+# **2. Cronograma (Previsão):**
 
-A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento  durante a inscrição e/ou durante o campeonato informações adicionais a qualquer um dos inscritos em seus campeonatos.
-Tais medidas vem com o intuito de impedir a inscrição ou participação de jogadores fakes.
+2.1 - Prazo para confirmações do participantes anteriores e novas inscrições: 07/03/2023 às 17h59
 
-As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
-- Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
-- Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
-- Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
-- Tipo de computador, Fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
 
-O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a TGC, também se reserva o **direito de não confirmar a inscrição ou remover um participante durante um campeonato**, que não concorde em providênciar as informações que lhe forem solicitadas.
+2.3 - Fase de grupos terá prazo de 17 dias. Previsão de término – 24/03/2023 23h
 
-# **Cronograma (Previsão):**
-Prazo para confirmações e novas inscrições: 14/05/2023 às 11h59
+2.4 - Oitavas de final terá prazo de 6 dias: Previsão de término – 31/03/2023 23h
 
-Após revisão das inscrições será feito o sorteio das pistas/países e inicia-se a Fase de Grupos
+2.5 - Quartas de final terá prazo de 6 dias: Previsão de término – 07/04/2023 23h
 
-Fase de grupos terá prazo de 14 dias. Previsão de término – 28/05/2023 23h59
-
-Oitavas de final terá prazo de 6 dias: 29 a 03/06/2023 23h59
-
-Quartas de final terá prazo de 6 dias: 04 a 10/06/03 23h59
-
-Semifinal, Final e terceiro terá prazo de 7 dias: 11 a 17/06/2023 23h59
+2.6 - Semifinal, Final e terceiro terá prazo de 6 dias: Previsão de término – 14/04/2023 23h
 
 **Observação:** As rodadas podem ter um prazo estendido caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com W.O's*
 
-# **Organização e Chaveamento:**
+# **3. Organização e Chaveamento:**
 
-Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
+3.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato.
 
-Modelo a ser definido após a confirmação da quantidade de inscritos (Provável modelo padrão de copa ou Suíço com 10 a 12 fases )
+3.2 - Modelo a ser definido após a confirmação da quantidade de inscritos (Provável modelo padrão de copa ou Suíço com 10 a 12 fases )
 
-O nível do jogo será o CHAMPIONSHIP.
+3.3 - O nível do jogo será o CHAMPIONSHIP.
 
-Fase de grupos: Todos os 5 cenários pelo menos 1x
+3.4 - Fase de grupos: Todos os cenários pelo menos 1x
 
-Oitavas e Quartas de Final: 3 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
+3.5 - Oitavas e Quartas de Final: 3 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
 
-Semifinal: 4 cenários (2 ida e 2 volta), vence aquele que tiver a maior soma de pontos no final de todos os cenários
+3.6 - Semifinal: 4 cenários (2 ida e 2 volta), vence aquele que tiver a maior soma de pontos no final de todos os cenários
 
-Final e terceiro: Todos os 5 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
+3.7 - Final e terceiro: 5 cenários, vence aquele que tiver a maior soma de pontos no final de todos os cenários
 
-Alguns cenários terão o seu carro previamente sorteado.
+**Observação:** Alguns cenários terão o seu carro previamente sorteado
 
-# **Cenários e ROMs Hack:**
+# **4. Cenários e ROMs Hack:**
 
 Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
 
@@ -79,7 +67,7 @@ Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs cri
 - Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
 - Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
 
-## **Cenário 1 - Novas Estratégias:**
+## **5. Cenário 1 - Novas Estratégias:**
 **ROM Hack1 Requerida**
 
 E se tivesse mais voltas do que o normal em algumas pistas? 
@@ -88,7 +76,7 @@ Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outr
 
 Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
 
-## **Cenário 2 - Reis da Arrancada:**
+## **5. Cenário 2 - Reis da Arrancada:**
 **ROM Hack2 Requerida**
 
 Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
@@ -97,7 +85,7 @@ Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal 
 
 Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
 
-## **Cenário 3 - Promoção Tanque Cheio Grátis:**
+## **5. Cenário 3 - Promoção Tanque Cheio Grátis:**
 **ROM Hack3 Requerida**
 
 Objetivo: <span style="color:red">**Pilotos devem obrigatoriamente entrar nos boxes em todas as voltas**</span> e abastecer o quanto quiser e achar necessário, o combustível é **grátis**
@@ -110,7 +98,7 @@ Modificação: Toma aí 6 nitros para tentar recuperar as posições que serão 
 
 Objetivo: Jogar normalmente as pistas sorteadas e ver se o atraso do pit stop impedirá de chegar em 1st e 2nd.
 
-## **Cenário 4 - Velozes e Furiosos 2092:**
+## **5. Cenário 4 - Velozes e Furiosos 2092:**
 **ROM Hack4 Requerida**
 
 E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
@@ -123,7 +111,7 @@ Modificações: Nitros e Gasolina Infinita.
 
 Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.
 
-## **Cenário 5 - Efeito Borboleta:**
+## **5. Cenário 5 - Efeito Borboleta:**
 **ROM Hack1 Requerida**
 
 "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
@@ -152,21 +140,21 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 
 ![](Info_ROMs_Cenarios_WhatIf.png)
 
-# **Classificação Desempate:**
+# **6. Classificação Desempate:**
 
-A classificação da fase de grupos se dará pela Pontuação Geral.
+6.1 - A classificação da fase de grupos se dará pela Pontuação Geral.
 
-Na fase de grupos o desempate se aplicará apenas na Pontuação geral, seguindo as regras:
+6.2 - Na fase de grupos o desempate se aplicará apenas na Pontuação geral, seguindo as regras:
 
 - Pontuação Geral, Confronto Direto, Jogos Vencidos, Pontos Conquistados.
 
-Nas fases finais o desempate será a soma dos cenários jogados, conforme o exemplo abaixo:
+6.3 - Nas fases finais o desempate será a soma dos cenários jogados, conforme o exemplo abaixo:
         
 - 1º Cenário 100 x 80
 - 2º Cenário 80 x 110
 - Total 180 x 190
 
-Para desempate na fase final será jogando o cenário de Full Game de 2 voltas, iniciando do país sorteado:
+6.4 - Para desempate na fase final será jogando o cenário de Full Game de 2 voltas, iniciando do país sorteado:
     - Após 4 corridas mínimas, vence o desempate, o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
     - Permanecendo o empate, o cenário deverá ser jogado sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
 

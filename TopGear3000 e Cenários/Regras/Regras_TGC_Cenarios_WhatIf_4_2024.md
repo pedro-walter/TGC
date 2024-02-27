@@ -58,7 +58,7 @@
 
 **Observação:** Alguns cenários terão o seu carro previamente sorteado
 
-# **4. Cenários e ROMs Hack:**
+# **4. Cenários e ROMs Hack**
 
 Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
 
@@ -67,38 +67,34 @@ Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs cri
 - Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
 - Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
 
-## **5. Cenário 1 - Novas Estratégias:**
+## **5. Cenário 1 - Novas Estratégias**
 **ROM Hack1 Requerida**
 
-E se tivesse mais voltas do que o normal em algumas pistas? 
+Descrição: E se tivesse mais voltas do que o normal em algumas pistas? 
 
 Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
 
 Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
 
-## **5. Cenário 2 - Reis da Arrancada:**
+## **5. Cenário 2 - Full Game 2 voltas! :**
 **ROM Hack2 Requerida**
 
-Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
+Descrição: Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
 
 Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal um full game?)
 
 Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
 
-## **5. Cenário 3 - Promoção Tanque Cheio Grátis:**
+## **5. Cenário 3 - QuByte que velocidade é essa!??**
 **ROM Hack3 Requerida**
 
-Objetivo: <span style="color:red">**Pilotos devem obrigatoriamente entrar nos boxes em todas as voltas**</span> e abastecer o quanto quiser e achar necessário, o combustível é **grátis**
+Descrição: No mundo onde todos querem assistir o Youtube em 2x, Que tal vc jogar o jogo na velocidade 2x. Assim ninguém irá avançar o seu vídeo Hahaha!
 
-Atenção: <span style="color:red">**Se errar a entrada do Pit stop é como se desse pane seca!!!**</span> 
-O jogador que errar deve imediatamente parar de acelerar e poderá apenas posicionar o seu carro na pista para tentar ganhar empurrões de bots ou desistir até a próxima pista.
-Se ambos errarem durante uma partida e ninguém se recuperar com empurrões, os pilotos deverão aguardar o jogo dar race over e então jogar normalmente a próxima pista.
+Modificação: Toma aí 6 nitros para tentar recuperar as posições das batidas constantes de bots.
 
-Modificação: Toma aí 6 nitros para tentar recuperar as posições que serão perdidas.
+Objetivo: Jogar normalmente as pistas sorteadas, configurando o Frame Rate no jogo em 2x e disputar as pistas normalmente.
 
-Objetivo: Jogar normalmente as pistas sorteadas e ver se o atraso do pit stop impedirá de chegar em 1st e 2nd.
-
-## **5. Cenário 4 - Velozes e Furiosos 2092:**
+## **5. Cenário 4 - Velozes e Furiosos 2092**
 **ROM Hack4 Requerida**
 
 E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
@@ -109,9 +105,9 @@ Sua chance de dar uma ou duas voltas em cima do Ritchie.
 
 Modificações: Nitros e Gasolina Infinita.
 
-Objetivo: Jogar normalmente as pistas sorteadas e Objetivo: Jogar normalmente as pistas sorteadas e emendando um nitro atrás do outro.
+Objetivo: Jogar normalmente as pistas sorteadas, emendando um nitro atrás do outro.
 
-## **5. Cenário 5 - Efeito Borboleta:**
+## **5. Cenário 5 - Efeito Borboleta**
 **ROM Hack1 Requerida**
 
 "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?

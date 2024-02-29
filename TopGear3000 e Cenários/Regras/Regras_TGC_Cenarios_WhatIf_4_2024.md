@@ -85,7 +85,7 @@ Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal 
 
 Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
 
-## **5. Cenário 3 - QuByte que velocidade é essa!??**
+## **5. Cenário 3 - Que velocidade é essa!?? 2x uai**
 **ROM Hack3 Requerida**
 
 Descrição: No mundo onde todos querem assistir o Youtube em 2x, Que tal vc jogar o jogo na velocidade 2x. Assim ninguém irá avançar o seu vídeo Hahaha!

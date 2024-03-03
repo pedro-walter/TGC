@@ -60,14 +60,16 @@
 
 # **4. Cenários e ROMs Hack**
 
-Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
+4.1 - Para jogar o campeonato todos os pilotos devem baixar e configurar as 4 ROMs criadas e modificadas. Os links para baixar são:
 
 - Hack1 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack1%20-%20LeomarxGames.smc)
 - Hack2 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack2%20-%20LeomarxGames.smc)
 - Hack3 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack3%20-%20LeomarxGames.smc)
 - Hack4 (https://topgearchampionships.com/tg1/Top%20Gear%20TGC%20Hack4%20-%20LeomarxGames.smc)
 
-## **5. Cenário 1 - Novas Estratégias**
+## **5. Cenários**
+
+## **5.1 - Cenário 1 - Novas Estratégias**
 **ROM Hack1 Requerida**
 
 Descrição: E se tivesse mais voltas do que o normal em algumas pistas? 
@@ -76,7 +78,7 @@ Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outr
 
 Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
 
-## **5. Cenário 2 - Full Game 2 voltas! :**
+## **5.2 - Cenário 2 - Full Game 2 voltas! :**
 **ROM Hack2 Requerida**
 
 Descrição: Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.
@@ -85,7 +87,7 @@ Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal 
 
 Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
 
-## **5. Cenário 3 - Que velocidade é essa!?? 2x uai**
+## **5.3 - Cenário 3 - Que velocidade é essa!?? 2x uai**
 **ROM Hack3 Requerida**
 
 Descrição: No mundo onde todos querem assistir o Youtube em 2x, Que tal vc jogar o jogo na velocidade 2x. Assim ninguém irá avançar o seu vídeo Hahaha!
@@ -94,10 +96,10 @@ Modificação: Toma aí 6 nitros para tentar recuperar as posições das batidas
 
 Objetivo: Jogar normalmente as pistas sorteadas, configurando o Frame Rate no jogo em 2x e disputar as pistas normalmente.
 
-## **5. Cenário 4 - Velozes e Furiosos 2092**
+## **5.4 - Cenário 4 - Velozes e Furiosos 2092**
 **ROM Hack4 Requerida**
 
-E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
+Descrição: E se tivesse Nitros e Gasolina Infinita? Seu desejo virou uma ordem!!! Corridas eletrizantes e adrenalina a mil com super velocidades acima de 300km/h.
 
 Bata todos os records de tempo do Guinness Book se os bots deixarem é claro. Quero ver tangências de curvas sem tirar o pé do acelerador hahaha! 
 
@@ -107,10 +109,10 @@ Modificações: Nitros e Gasolina Infinita.
 
 Objetivo: Jogar normalmente as pistas sorteadas, emendando um nitro atrás do outro.
 
-## **5. Cenário 5 - Efeito Borboleta**
+## **5.5 - Cenário 5 - Efeito Borboleta**
 **ROM Hack1 Requerida**
 
-"Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
+Descrição: "Dormammu, Eu vim Barganhar", "Dormammu, Eu vim Barganhar". Entrou no loop temporal do Dr. Estranho?
 
 Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outras pistas tem um número reduzido.
 

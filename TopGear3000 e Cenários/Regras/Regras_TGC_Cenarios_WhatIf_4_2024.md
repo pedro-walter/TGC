@@ -158,7 +158,7 @@ Apesar de parecer um alto volume... As partidas não irão passar de mais 30 min
 
 # **7. Comunicação:** #
 
-  7.1 - Serão criados grupos no WhatsApp para o campeonato, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Será criado um grupo no WhatsApp para o campeonato, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
 
   7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 

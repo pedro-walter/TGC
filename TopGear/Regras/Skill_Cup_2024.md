@@ -1,38 +1,42 @@
-SKILL CUP 2023
 
-1 - INSCRIÇÕES
+# **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-   1.1 -  Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear, considerando até a Série Prata do La Liga.
+# **Skill Cup International 2024** #
 
-   1.2 -  Serão aceitas inscrições realizadas até o dia 08/03/2024 às 23h00;
+# **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
-   1.3 -  O participante deverá se inscrever através de postagem realizada diretamente nos comentários desta postagem;
+# **1. Inscrições:** #
 
-   1.4 -  A inscrição deverá ser feita com postagem no seguinte modelo:
+1.1 - Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear, considerando até a Série Prata do La Liga.
 
-   Apelido/Nickname: LeomarxGames
-   Disponibilidade para jogar: Disponibilidade das 19 às 23h30 durante a semana e finais de semana a combinar com antecedência.
-   Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
-   Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM ( ) NÃO.
-   (a inscrição só será efetivada caso o participante marque a opção SIM)
+1.2 - Serão aceitas inscrições realizadas até o dia 08/03/2024 às 23h00;
 
-    Não há limite para a quantidade de participantes.
+1.3 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários desta postagem;
 
-2 -  VALIDAÇÃO E VERIFICAÇÃO DE PERFIL DOS INSCRITOS:
+1.4 - A inscrição deverá ser feita com postagem no seguinte modelo:
 
-    2.1 - A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato informações adicionais a qualquer um dos inscritos em seus campeonatos. Tais medidas vem com o intuito de impedir a inscrição ou participação de jogadores fakes.
+    Apelido/Nickname: LeomarxGames
+    Número de telefone com WhatsApp: +55 11 99999-8888
+    Disponibilidade para jogar: à noite durante a semana e finais de semana a combinar com antecedência.
+    Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
+    Declaração: Declaro que estou ciente das regras aqui estabelecidas e serei automaticamente desclassificado em caso de descumprimento: ( X ) SIM ( ) NÃO. A inscrição só será efetivada caso o participante marque a opção SIM.
 
-    2.2 - As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
+1.5 - Não há limite para a quantidade de participantes.
 
-    2.3 - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+# **2. VALIDAÇÃO E VERIFICAÇÃO DE PERFIL DOS INSCRITOS:**
 
-    2.4 - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+2.1. A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
-    2.5 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+2.2. Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
-    2.6 - Tipo de computador, Fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+2.3. As informações solicitadas servem para um processo de verificação/confirmação de identidade, tais como:
 
-    2.7 - O jogador inscrito tem o direito de não fornecer as informações solicitadas, assim como a TGC, também se reserva o direito de não confirmar a inscrição ou remover um participante durante um campeonato, que não concorde em providênciar as informações que lhe forem solicitadas.
+  - Perfil de rede social com foto (Facebook/Instagram/WhatsApp/Discord/Telegram/Twitter/TikTok/Outras).
+  - Vídeo chamadas por qualquer uma das redes sociais mencionadas que o participante tenha conta.
+  - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
+  - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
+
+2.4. O jogador inscrito tem o direito de não fornecer as informações solicitadas, assim como a TGC, também se reserva ao direito de cancelar a inscrição ou remover um participante durante um campeonato, que não concorde em providenciar as informações que lhe forem solicitadas.
 
 3 - REGRAS GERAIS:
 

@@ -87,14 +87,14 @@ Modificação: Todas as pistas do jogo estão com 3 Nitros e 2 Voltas! (Que tal 
 
 Objetivo: Fazer aquelas largadas perfeitas e mandar seu oponente comer poeira. Tabela abaixo serve de guia.
 
-## **5.3 - Cenário 3 - Que velocidade é essa!?? 2x uai**
+## **5.3 - Cenário 3 - Sou Retardatário Sim e não nego!**
 **ROM Hack3 Requerida**
 
-Descrição: No mundo onde todos querem assistir o Youtube em 2x, Que tal vc jogar o jogo na velocidade 2x. Assim ninguém irá avançar o seu vídeo Hahaha!
+Descrição: Você tem raiva quando você vai passar o vigésimo BOT e ele tá dando ré? Então que tal você sentir na pele e se tornar esse cara Hahaha!
 
-Modificação: Toma aí 6 nitros para tentar recuperar as posições das batidas constantes de bots.
+Objetivo: Só vale acelerar depois que o Ritchie completar 1 volta em cima de você! Jogar normalmente as pistas sorteadas e recuperar o máximo de posições possíveis.
 
-Objetivo: Jogar normalmente as pistas sorteadas, configurando o Frame Rate no jogo em 2x e disputar as pistas normalmente.
+Modificação: Toma aí 6 nitros para tentar recuperar as posições depois de virar retardatário.
 
 ## **5.4 - Cenário 4 - Velozes e Furiosos 2092**
 **ROM Hack4 Requerida**

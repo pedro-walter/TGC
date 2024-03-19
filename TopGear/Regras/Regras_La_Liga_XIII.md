@@ -1,62 +1,74 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Campeonato La Liga XII** #
+# **Campeonato La Liga XIII** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas do dia 29/01/2024 até 05/02/2024.
+  1.1 - As inscrições estarão abertas do dia XX/XX/2024 até XX/XX/2024.
     
   1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
 
-  1.3 - Pré-inscritos, conforme resultados e punições da edição anterior (La Liga XI):
-  
-  1.4 Série Ouro - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+  1.3 - Punições da edição anterior (La Liga XII):
 
-  - 1 - Max Verstappen (Tomyo Sato)
+  - Amélio Belchior (Amélio) infelizmente não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
+  - Aquino (Alexandre Aquino) infelizmente não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
+
+  1.3.1 - Poderão participar do La Liga XIII, se assim manifestarem o interesse, porém como não participaram da edição XII, o(s) mesmo(s) foram rebaixados podendo voltar no La Liga XIV na Divisão Bronze.
+    
+  - Max Verstappen (Tomyo Sato)
+  - Yoshimitsu (Kevin Schimidt)
+  - Dark FPC (Felipe Costa)
+  - Cecilmonk (Pedro Walter)
+
+  **Pré-inscritos, conforme resultados da edição anterior e as punições mencionadas acima:**
+  
+  1.4.1 Série Ouro - Pilotos que participaram do La Liga XII e que devem manifestar o interesse em participar do La Liga XIII:
+
+  - 1 - Rob Jax (Robson Meireles)
   - 2 - ChitaMX (Aléxis Sánchez)
   - 3 - Rafael Diablo (Rafael Lopes)
   - 4 - LeNN Miner (Lenno Coelho)
-  - 5 - Allan Live (Allan Live)
+  - 5 - AriJunino (Ari Júnior)
   - 6 - Sr. Filho (Jurandir Filho)
-  - 7 - Yoshimitsu (Kevin Schimidt)
-  - 8 - Dark FPC (Felipe Costa)
-  - 9 - CRX (Carlos Rubens)
-  - 10 - AriJunino (Ari Júnior)
+  - 7 - CRX (Carlos Rubens)
+  - 8 - Gokú (Oscar Cardenhas)
+  - 9 - LAOM (Luís Cardenas)
+  - 10 - Killua Zorldic (Lucas Souza)
 
-  1.5 Série Prata - Pilotos que participaram do La Liga XI e que devem manifestar o interesse em participar do La Liga XII:
+  1.5 Série Prata - Pilotos que participaram do La Liga XII e que devem manifestar o interesse em participar do La Liga XIII:
 
-   - 1 - Rob Jax (Robson Meireles)
+   - 1 - Allan Live (Allan Live)
    - 2 - Vinny (Vinícius Gustavo)
-   - 3 - Amélio (Amélio Belchior)
-   - 4 - Luciano (Luciano Alves)
-   - 5 - Gokú (Oscar Cardenhas)
-   - 6 - Cecilmonk (Pedro Walter)
-   - 7 - Leomarx Games (Leonardo Marques)
-   - 8 - Edwin HD (Edwin Hyrula)
-   - 9 - Pegasus (Edimar Caetano)
-   - 10 - Killua Zorldic (Lucas Souza)
+   - 3 - Luciano (Luciano Alves)
+   - 4 - Leomarx Games (Leonardo Marques)
+   - 5 - Edwin HD (Edwin Hyrula)
+   - 6 - Pegasus (Edimar Caetano)
+   - 7 - The Mister (Roberto Vasquez)
+   - 8 - MMM (Marcel Santana)
+   - 9 - JavierVZL (Javier Dixon)
+   - 10 - Paulo Fox (Paulo Muniz)
 
-  1.6 Série Bronze - Competidores que participaram do La Liga XI e novos membros que desejarem se inscrever, conforme a sequência:
+  1.6 Série Bronze - Competidores que participaram do La Liga XII e novos membros que desejarem se inscrever no La Liga XIII, conforme a sequência:
 
-   - 1 - The Mister (Roberto Vasquez)
-   - 2 - LAOM (Luís Cardenas)
-   - 3 - Paulo Fox (Paulo Muniz)
+   - 1 - Paomarc (Paolo Paredes)
+   - 2 - Casio (Casio Aquino)
+   - 3 - Senninkage (Edison Silva)
    - 4 - Br's Brisantt (Brisantt)
    - 5 - Schumacher (Martins Swantaiger)
    - 6 - JackPocker40 (Peter Bruno)
    - 7 - Marlon Reis (Marlon Reis)
-   - 8 - Ryce (Esdras Rycelle)
-   - 9 - JavierVZL (Javier Dixon)
-   - 10 - Paomarc (Paolo Paredes)
-   - 11 - Casio (Casio Aquino)
-   - 12 - Senninkage (Edison Silva)
-   - 13 - MMM (Marcel Santana)
-   - 14 - Alison (Alison Paulo)
-   - 15 - Léo de Brasília (Léo de Brasília)
+   - 8 - Brener Gameplays (Brener Matos Ferreira)
+   - 9 - Jack Maloi (Alison Paulo) 
+   - 10 - Lonsoldier (Marlon Reis) 
+   - 11 - Dudu (Eduardo Oliveira) 
+   - 12 - Bruno Menezes (Bruno Menezes)
+   - 13 - Igor Luiz (Igor)
+   - 14 - Diego (Diego)
+   - 15 - Rannid (Fabrício Golçalves)
    - 16 - Samuel Dantas (Samuel Dantas)
-   - 17 - Bruno Menezes (Bruno Menezes)
+   - 17 - Geovani (Geovani Araujo)
    - 22 - Novo competidor
    - 23 - Novo competidor
    - 24 - Novo competidor
@@ -83,12 +95,8 @@
    - 5ª desistência/punição, sobe o 6º colocado da Série imediatamente abaixo (Prata ou Bronze).
    - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - A partir da 7ª desistência/punição, sobem os demais pilotos das Séries imediatamente abaixo, pela ordem de classificação (Prata ou Bronze). 
-  
-  1.8 - Punição do La Liga XI:
-
-  1.8.1 - O Piloto Albert da Série Ouro ficou proibido de participar do La Liga XII em razão de punição e proibição de participar dos campeonatos da TGC nas temporadas 2023/24. Desta forma foi substituído pelo 4º Colocado da Série Prata, conforme previsto no item 1.7.3
-  
-  1.9 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+    
+  1.8 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
         Exemplo:
         Apelido/Nickname: LeomarxGames
@@ -96,41 +104,43 @@
         Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
         Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
+  1.9 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: 05/02/2023 às 23h.
+  2.1 - Prazo para confirmações e novas inscrições: XX/XX/2024 às 23h.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: 08/02/2023 23h.
+  2.3 - Prazo Comissário: XX/XX/2024 23h.
   
   2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
   
-  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 08/02/2023, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de XX/XX/2024, os carros do piloto serão escolhidos por meio de sorteio.
   
-  2.6 - Fase de Grupos terá prazo de 20 dias. Previsão de término – 28/02/2023 23h.
+  2.6 - Fase de Grupos terá prazo de 20 dias. Previsão de término – XX/XX/2024 23h.
   
-  2.7 - Quartas de Final: 29/02 à 05/03 às 23h.
+  2.7 - Quartas de Final: XX/XX/2024 às 23h.
   
-  2.8 - Semifinal: 26 à 11/03 23h.
+  2.8 - Semifinal: XX/XX/2024 23h.
   
-  2.9 - Final e Disputa de 3º: 12/03 à 17/03/2023 23h
+  2.9 - Final e Disputa de 3º: XX/XX/2024 23h
   
   2.10 - OBSERVAÇÕES:
        
   - 2.10.1 - As rodadas podem ter um prazo estendido caso a administração julgue necessário.
        
-  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 18/02/2023), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
+  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 1XX/XX/2024), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
 
   - 2.10.3 - O competidor que não cumprir o item anterior, receberá W.O na diferença das partidas não realizadas ou agendadas, através de sorteio aleatório.
        
   - 2.10.4 - Caso o piloto não realize ao menos 2 (duas partidas) durante a primeira metade do prazo, será eliminado do torneio e estará automaticamente rebaixado para a edição seguinte.
+  
+  - 2.10.5 - Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. no La Liga seguinte como punição ficará uma edição sem poder participar.
        
-  - 2.10.5 - Iniciado o campeonato, não haverá mais substituição de jogadores. Sendo aplicado W.O para os jogos faltantes do jogador que desistir do campeonato.
+  - 2.10.6 - Iniciado o campeonato, não haverá mais substituição de jogadores. Sendo aplicado W.O para os jogos faltantes do jogador que desistir do campeonato.
        
-  - 2.10.6 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
+  - 2.10.7 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
 
 # **3. Organização e Chaveamento:** #
   
@@ -319,7 +329,7 @@
 
 # **11. Itens e Links Importantes** #
 
-11.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+11.1. **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
 11.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
@@ -369,5 +379,3 @@
 14.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
 # **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
-
-https://github.com/pedro-walter/TGC/blob/master/TopGear/Regras/Regras_La_Liga.md

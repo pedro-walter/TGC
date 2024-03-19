@@ -69,10 +69,9 @@
    - 15 - Rannid (Fabrício Golçalves)
    - 16 - Samuel Dantas (Samuel Dantas)
    - 17 - Geovani (Geovani Araujo)
-   - 22 - Novo competidor
-   - 23 - Novo competidor
-   - 24 - Novo competidor
-   - 25 - Novo competidor
+   - 18 - Novo competidor
+   - 19 - Novo competidor
+   - 20 - Novo competidor
   
   1.7 - Observações:
     

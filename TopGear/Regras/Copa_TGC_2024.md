@@ -1,93 +1,91 @@
-# **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
+# **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-# **COPA TGC 2024** #
+# **Copa TGC 2024** #
 
-# **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
+# **Leia todas as regras com bastante atenção!!!** #
 
-# **1 - PARTICIPANTES PRÉ-INSCRITOS:** #
+# **1 - Participantes Pré-inscritos:** #
 
-    I - Classificados direto para as Oitavas de Final:
-    01 - Jurandir Filho (Sr Filho) - Campeão Torneio de Verão 2023
-    02 - Alexis Sánchez (ChitaMX) - Campeão La Liga X 2023
-    03 - Tomyo Sato (Max Verstappen) - Campeão Torneio de Outono 2023
-    04 - Rafael Lopes (Diablo) - Campeão Copa TGC 2023
-    05 - Carlos Rubens (CRX) - 3º TGC XIV
-    06 - Robson Meireles (Rob Jax) - Campeão Torneio de Inverno 2023
-    07 - Lenno Coelho (Lenn Miner) - 4º colocado no La Liga XI
-    08 - Luciano Alves (Luciano) - 5º colocado no Torneio de Primavera 2023
-    
+  1.1 - Classificados direto para as Oitavas de Final:
+  - 01 - Jurandir Filho (Sr Filho) - Campeão Torneio de Verão 2023
+  - 02 - Alexis Sánchez (ChitaMX) - Campeão La Liga X 2023
+  - 03 - Tomyo Sato (Max Verstappen) - Campeão Torneio de Outono 2023
+  - 04 - Rafael Lopes (Diablo) - Campeão Copa TGC 2023
+  - 05 - Carlos Rubens (CRX) - 3º TGC XIV
+  - 06 - Robson Meireles (Rob Jax) - Campeão Torneio de Inverno 2023
+  - 07 - Lenno Coelho (Lenn Miner) - 4º colocado no La Liga XI
+  - 08 - Luciano Alves (Luciano) - 5º colocado no Torneio de Primavera 2023
 
-    II - Fase de grupos:
-    09 - Allan Live (Allan Live)
-    10 - Ari Jr (Arijunino)
-    11 - Leonardo Andrade (LeomarxGames)
-    12 - Brisantt (BR’s)
-    13 - Paolo (Paomarc)
-    14 - Paulo Muniz (Paulo Fox)
-    15 - Marlon (Marlon RJ)
-    16 - Samuel (Samuel)
-    17 - Marcel Santana (MMM)
-    18 - Edimar Caetano (Pegasus)
-    19 - Oscar (Goku)
-    20 - Edwin Huaylla (Ediwn HD)
-    21 - Petter (JackPoker40)
-    22 - Javier Portillo (Javier)
-    23 - Vinícius Gustavo (Vinny)
-    24 - Lucas Souza (Killua)
-    25 - Martin (Schumacher)
-    26 - Roberto Vasquez (The Mister)
-    27 - Alexandre Aquino (Aquino)
-    28 - Alisson Paulo (Jack Maloi)
-    29 - Brenner Matos (Brenner Gameplays)
-    30 - Bruno Menezes (Bruno Menezes)
-    31 - Casio Aquino (CFDA)
-    32 - Edson Silva (Senninkage)
-    33 - Eduardo Oliveira (Dudu)
-    34 - Marlon Reis (Lonsoldier)
-    35 - Jhony (Jhony)
-    36 - 
-    37 - 
-    38 - 
-    39 - 
-    40 - 
+  1.2 - Fase de grupos:
+  - 09 - Allan Live (Allan Live)
+  - 10 - Ari Jr (Arijunino)
+  - 11 - Leonardo Andrade (LeomarxGames)
+  - 12 - Brisantt (BR’s)
+  - 13 - Paolo (Paomarc)
+  - 14 - Paulo Muniz (Paulo Fox)
+  - 15 - Marlon (Marlon RJ)
+  - 16 - Samuel (Samuel)
+  - 17 - Marcel Santana (MMM)
+  - 18 - Edimar Caetano (Pegasus)
+  - 19 - Oscar (Goku)
+  - 20 - Edwin Huaylla (Ediwn HD)
+  - 21 - Petter (JackPoker40)
+  - 22 - Javier Portillo (Javier)
+  - 23 - Vinícius Gustavo (Vinny)
+  - 24 - Lucas Souza (Killua)
+  - 25 - Martin (Schumacher)
+  - 26 - Roberto Vasquez (The Mister)
+  - 27 - Alexandre Aquino (Aquino)
+  - 28 - Alisson Paulo (Jack Maloi)
+  - 29 - Brenner Matos (Brenner Gameplays)
+  - 30 - Bruno Menezes (Bruno Menezes)
+  - 31 - Casio Aquino (CFDA)
+  - 32 - Edson Silva (Senninkage)
+  - 33 - Eduardo Oliveira (Dudu)
+  - 34 - Marlon Reis (Lonsoldier)
+  - 35 - Jhony (Jhony)
+  - 36 - 
+  - 37 - 
+  - 38 - 
+  - 39 - 
+  - 40 - 
 
-# **2 - FORMATO** #
+# **2 - Formato** #
 
-    2.1 - A COPA TGC 2024 será disputada no estilo mata-mata em todas as suas fases, sendo realizadas em jogos de ida e volta.
+  2.1 - A COPA TGC 2024 será disputada no estilo mata-mata em todas as suas fases, sendo realizadas em jogos de ida e volta.
 
-    2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2023: Torneio de Verão, La Liga X, Torneio de Outono, Copa TGC 2023, TGC 14, Torneio de Inverno, La Liga XI e Torneio de Primavera.
+  2.2 - Estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2023: Torneio de Verão, La Liga X, Torneio de Outono, Copa TGC 2023, TGC 14, Torneio de Inverno, La Liga XI e Torneio de Primavera.
 
-    2.3 - Caso algum dos participantes do item 2.2 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
+  2.3 - Caso algum dos participantes do item 2.2 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
-    2.4 - Os demais participantes inscritos, irão se enfrentar em jogos de ida e volta contra adversários definidos por sorteio após finalizado o período de inscrições.
+  2.4 - Os demais participantes inscritos, irão se enfrentar em jogos de ida e volta contra adversários definidos por sorteio após finalizado o período de inscrições.
 
-    2,5 - Após a conclusão da primeira fase de mata-mata, serão classificados mais 8 (oito) participantes para a fase das oitavas de final e estes enfrentarão os participantes já classificados conforme os itens 2.2 e 2.3.
+  2,5 - Após a conclusão da primeira fase de mata-mata, serão classificados mais 8 (oito) participantes para a fase das oitavas de final e estes enfrentarão os participantes já classificados conforme os itens 2.2 e 2.3.
 
-    2.5 - Oitavas de final, quartas de final, seminais, disputa de terceiro e final, também serão disputadas em jogos de ida e volta.
+  2.5 - Oitavas de final, quartas de final, seminais, disputa de terceiro e final, também serão disputadas em jogos de ida e volta.
 
-    2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga XIII, Torneio de Outono, Copa TGC, TGC 15, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
+  2.6 - Para a COPA TGC do próximo ano, estarão classificados diretamente para as oitavas de final, os campeões dos campeonatos de calendário da TGC 2024: Torneio de Verão, La Liga XIII, Torneio de Outono, Copa TGC, TGC 15, Torneio de Inverno, La Liga XIV e Torneio de Primavera.
 
-    2.7 - Caso se repita o campeão em algum dos torneios do item anterior, estará classificado diretamente o vice-campeão daquele torneio. Se o vice já tiver sido campeão em algum outro torneio, a vaga será do próximo mais bem classificado e assim sucessivamente.
+  2.7 - Caso se repita o campeão em algum dos torneios do item anterior, estará classificado diretamente o vice-campeão daquele torneio. Se o vice já tiver sido campeão em algum outro torneio, a vaga será do próximo mais bem classificado e assim sucessivamente.
 
 # **3 - CONFIRMAÇÃO DE INSCRIÇÃO:** #
 
-    3.1 - Só poderão participar da COPA TGC 2024, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
+  3.1 - Só poderão participar da COPA TGC 2024, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
-    3.2 - Os participantes listados no item 1, já estão pré-inscritos na COPA TGC 2024, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
+  3.2 - Os participantes listados no item 1, já estão pré-inscritos na COPA TGC 2024, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
 
-    COFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2024.
+  *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2024.*
 
-    3.3 - Para os novos participantes, a inscrição deverá seguir o modelo a seguir:
+  3.3 - Para os novos participantes, a inscrição deverá seguir o modelo a seguir:
 
     Apelido/Nickname: LeomarxGames
-    Número de telefone com WhatsApp: +55 11 99349-9981
+    Número de telefone com WhatsApp: +55 11 99999-8888
     Disponibilidade para jogar: à noite durante a semana e dia todo nos finais de semana.
     Método que utiliza: Radmin e Hamachi.
 
-    3.4 - Todos os participantes pré-inscritos que confirmarem suas inscrições ou aqueles que realizarem novas inscrições, concordam com todas as regras aqui dispostas, podendo questioná-las com os administradores antes da confirmação de sua inscrição.
+  3.4 - Todos os participantes pré-inscritos que confirmarem suas inscrições ou aqueles que realizarem novas inscrições, concordam com todas as regras aqui dispostas, podendo questioná-las com os administradores antes da confirmação de sua inscrição.
 
-    3.4 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2024, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
-
+  3.5 - A TGC se reserva ao direito do uso de imagem dos participantes da COPA TGC 2024, seja para retransmissões de partidas realizadas, bem como na divulgação de vídeos promocionais em suas redes sociais.
 
 # **4 - CRONOGRAMA PREVISTO:** #
 

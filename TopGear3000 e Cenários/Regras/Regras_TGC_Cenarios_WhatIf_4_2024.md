@@ -78,7 +78,7 @@ Modificação: Algumas pistas do jogo agora tem um número maior de voltas, outr
 
 Objetivo: Jogar normalmente as pistas sorteadas e tentar o seu melhor com o novo número de voltas. Tabela abaixo serve de guia.
 
-## **5.2 - Cenário 2 - Full Game 2 voltas! :**
+## **5.2 - Cenário 2 - Full Game 2 voltas!**
 **ROM Hack2 Requerida**
 
 Descrição: Copiando o estilo arrancada do need for speed essa é para aqueles que gostam de decidir tudo logo de cara. Um erro de largada pode ser fatal.

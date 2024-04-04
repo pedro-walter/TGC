@@ -58,7 +58,7 @@
 
   2.3 - Caso algum dos participantes do item 2.2 não possa participar da Copa TGC, será substituído pelo participante melhor colocado do referido campeonato.
 
-  2.4 - Os demais participantes inscritos, irão se enfrentar em jogos de ida e volta contra adversários definidos por sorteio após finalizado o período de inscrições.
+  2.4 - Os demais participantes inscritos irão se enfrentar em jogos de ida e volta contra adversários definidos por sorteio após finalizado o período de inscrições.
 
   2,5 - Após a conclusão da primeira fase de mata-mata, serão classificados mais 8 (oito) participantes para a fase das oitavas de final e estes enfrentarão os participantes já classificados conforme os itens 2.2 e 2.3.
 
@@ -72,7 +72,7 @@
 
   3.1 - Só poderão participar da COPA TGC 2024, aqueles jogadores que forem inscritos na Comunidade TGC e não estiverem cumprindo punição vigente que impeça a participação em campeonatos.
 
-  3.2 - Os participantes listados no item 1, já estão pré-inscritos na COPA TGC 2024, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
+  3.2 - Os participantes listados no item 1 já estão pré-inscritos na COPA TGC 2024, sendo necessário apenas deixar nos comentários sua confirmação conforme o modelo a seguir:
 
   *CONFIRMO MINHA PARTICIPAÇÃO NA COPA TGC 2024.*
 
@@ -89,31 +89,31 @@
 
 # **4 - Cronograma Previsto:** #
 
-  4.1 - Prazo para confirmações e novas inscrições: 03/04 à 06/04/2024 às 18h;
+  4.1 - Prazo para confirmações e novas inscrições: 03/04 a 06/04/2024 às 18h;
 
   4.2 - 06/04/2024, definição dos confrontos da primeira fase e sorteio de países e carros;
 
-  4.3 - 06/04 à 16/04/2024 às 23h, realização dos jogos de ida e volta da primeira fase eliminatória;
+  4.3 - 06/04 a 16/04/2024 às 23h, realização dos jogos de ida e volta da primeira fase eliminatória;
 
   4.4 - 17/04/2024 sorteio dos países e carros da segunda fase eliminatória;
 
-  4.5 - 17/04 à 26/04/2023 às 23h, realização dos jogos de ida e volta da segunda fase eliminatória;
+  4.5 - 17/04 a 26/04/2023 às 23h, realização dos jogos de ida e volta da segunda fase eliminatória;
 
   4.6 - 27/04/2023 sorteio dos países e carros das oitavas de final;
 
-  4.7 - 27/04 à 06/05/2024 às 23h, realização dos jogos de ida e volta das oitavas de final;
+  4.7 - 27/04 a 06/05/2024 às 23h, realização dos jogos de ida e volta das oitavas de final;
 
   4.8 - 07/05/2024, sorteio dos países e carros das quartas de final;
 
-  4.9 - 07/05 à 16/05/2024 às 23h, realização dos jogos de ida e volta das quartas de final;
+  4.9 - 07/05 a 16/05/2024 às 23h, realização dos jogos de ida e volta das quartas de final;
 
   4.10 - 17/05/2024, sorteio dos países e carros das semifinais;
 
-  4.11 - 17/05 à 26/05/2023 às 23h, realização dos jogos de ida e volta das semifinais;
+  4.11 - 17/05 a 26/05/2023 às 23h, realização dos jogos de ida e volta das semifinais;
 
   4.12 - 27/05/2023, sorteio dos países e carros da final e disputa de terceiro;
 
-  4.13 - 27/05 à 05/06/2023 às 23h, realização dos jogos de ida e volta da final e disputa de terceiro;
+  4.13 - 27/05 a 05/06/2023 às 23h, realização dos jogos de ida e volta da final e disputa de terceiro;
 
   4.14 - As datas poderão sofrer alteração, dependendo do número de inscritos e conclusão dos jogos de cada fase.
 
@@ -137,23 +137,23 @@
 
   - 6.1.2 - A classificação geral inicial seguirá a lista dos pré-inscritos do item 1 e na sequência os demais participantes por ordem de inscrição.
 
-  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme classificação da edição da Copa TGC 2023, aqueles que não tiverem participado serão classificados conforme a tabela do Mundial TG1 - 2024. Aqueles que não tiverem participado da Copa TGC 2023 e não tiverem classificação da na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
+  - 6.1.3 - A classificação inicial a partir do 9º (nono) colocado será estabelecida conforme a classificação da edição da Copa TGC 2023, aqueles que não tiverem participado serão classificados conforme a tabela do Mundial TG1 - 2024. Aqueles que não tiverem participado da Copa TGC 2023 e não tiverem classificação na Tabela do Mundial, serão classificados aleatoriamente ou conforme a inscrição cronológica.
 
-  - 6.1.3 - Chamaremos de grupo A aquele formado pelos participantes melhores classificados na lista e Grupo B aquele formado pelos demais participantes.
+  - 6.1.4 - Chamaremos de grupo A aquele formado pelos participantes mais bem classificados na lista e Grupo B aquele formado pelos demais participantes.
 
-  - 6.1.4 - Os participantes do Grupo B serão os mandantes de campo na primeira fase eliminatória e os participantes do Grupo A serão os visitantes.
+  - 6.1.5 - Os participantes do Grupo B serão os mandantes de campo na primeira fase eliminatória e os participantes do Grupo A serão os visitantes.
 
-  - 6.1.5 - Na partida de ida, o mandante irá escolher tanto o seu carro, como o carro do adversário, informando sua escolha apenas no mento da realização da partida.
+  - 6.1.6 - Na partida de ida, o mandante irá escolher tanto o seu carro, como o carro do adversário, informando sua escolha apenas no momento da realização da partida.
 
-  - 6.1.6 - Se o mandante perder a partida por uma diferença mínima de 25 (vinte e cinco) pontos, será eliminado sem a necessidade de jogo de volta.
+  - 6.1.7 - Se o mandante perder a partida por uma diferença mínima de 25 (vinte e cinco) pontos, será eliminado sem a necessidade de jogo de volta.
 
-  - 6.1.7 - Se o visitante vencer por diferença menor que 25 pontos, empatar ou perder o jogo de ida, será realizado o jogo de volta.
+  - 6.1.8 - Se o visitante vencer por diferença menor que 25 pontos, empatar ou perder o jogo de ida, será realizado o jogo de volta.
 
-  - 6.1.8 - No jogo de volta, inverte-se o mando de campo e o novo mandante irá escolher o mesmo carro para ambos jogarem e quem vencer a partida avança para a próxima fase.
+  - 6.1.9 - No jogo de volta, inverte-se o mando de campo e o novo mandante irá escolher o mesmo carro para ambos jogarem e quem vencer a partida avança para a próxima fase.
 
-  - 6.1.9 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
+  - 6.1.10 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
 
-  6.1.9 Exemplo:
+  6.1.10 Exemplo:
   
     1º país sorteado: Alemanha
     2º país sorteado: França
@@ -161,21 +161,21 @@
     País desempate: Itália
     Carro desempate: Branco
 
-  - 6.1.10 - Vence o desempate, o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
+  - 6.1.11 - Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
  
-  - 6.1.11 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
+  - 6.1.12 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
   
-  - 6.1.12 - Importante esclarecer que NÃO haverá soma das pontuações das partidas de ida e volta nessa fase. A partida de ida servirá para definir se haverá realização do jogo de volta conforme o item 6.7.
+  - 6.1.13 - Importante esclarecer que NÃO haverá soma das pontuações das partidas de ida e volta nessa fase. A partida de ida servirá para definir se haverá realização do jogo de volta conforme o item 6.7.
 
-**6.2 - Oitavas, Quartas, Semifinal, Final E Disputa De Terceiro**
+**6.2 - Oitavas, Quartas-de-Final, Semifinais, Final E Disputa De Terceiro**
 
   - 6.2.1 - O mandante escolherá o seu carro e o carro do visitante dentre os carros disponíveis no jogo de ida.
   
   - 6.2.2 - No jogo de volta, inverte-se o mando de campo e repete-se o mesmo procedimento do item 6.2.1.
   
-  - 6.2.2 - Avançará para a próxima fase, o jogador que tiver a maior soma de pontos nos jogos de ida e volta.
+  - 6.2.2 - Avançará para a próxima fase o jogador que tiver a maior soma de pontos nos jogos de ida e volta.
   
-  - 6.2.3 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
+  - 6.2.3 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
 
   6.2.3 Exemplo:  
 
@@ -185,7 +185,7 @@
     País desempate: Itália
     Carro desempate: Roxo
 
-  - 6.2.4 - Vence o desempate, o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
+  - 6.2.4 - Vence o desempate o jogador que abrir mais de 5 (cinco) pontos em qualquer momento da disputa.
   
   - 6.2.5 - Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até que um jogador abra mais de 5 pontos de vantagem.
 
@@ -193,7 +193,7 @@
 
   6.4 - Usando a Rom original, os países podem ser jogados na sequência, até que um jogador abra mais de 5 pontos.
 
-  6.5 - Usando a Rom TGC, deverão ser selecionadas no mínimo as 4 pistas do país do país desempate. A administração sugere que sejam selecionadas as 8 primeiras da sequência e vence aquele que abrir mais de 5 pontos em qualquer momento da disputa.
+  6.5 - Usando a Rom TGC, deverão ser selecionadas no mínimo as 4 pistas do país desempate. A administração sugere que sejam selecionadas as 8 primeiras da sequência e vence aquele que abrir mais de 5 pontos em qualquer momento da disputa.
 
 # **7 - Comunicação** #
 

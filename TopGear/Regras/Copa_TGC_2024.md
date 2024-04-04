@@ -197,11 +197,11 @@
 
 # **7 - Comunicação** #
 
-  7.1 - Será criado grupo no WhatsApp para que todos os participantes acompanhem todas as fases da Copa TGC 2024. O grupo será o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
+  7.1 - Será criado um grupo no WhatsApp para que todos os participantes acompanhem todas as fases da Copa TGC 2024. O grupo será o canal oficial para as marcações das partidas e divulgação de resultados. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato.
 
   7.2 - O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção deverá acontecer no máximo a cada 24horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+  7.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção deverá acontecer no máximo a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
   7.4 - Os jogadores devem anunciar o resultado de suas partidas no grupo.
 
@@ -212,7 +212,7 @@
   - 7.6.1 - O jogador que enviar mensagens no grupo, sem relevância para o campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo.
   - 7.6.2 - Mesmo com a punição o jogador tem o dever de cumprir os seus jogos previamente agendados.
   - 7.6.3 - Após 12h, o jogador removido será adicionado ao grupo novamente.
-  - 7.6.4 - O jogador readmitido no grupo que após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
+  - 7.6.4 - O jogador readmitido no grupo que, após a segunda advertência, tiver que receber a segunda punição, estará eliminado do campeonato.
 # **8. Regras de Conduta** #
 
 8.1. É passível de eliminação do campeonato, mensagens ofensivas que se enquadrem em pelo menos um dos tipos de discriminação abaixo, dirigidos ao jogador ou à sua família:
@@ -247,11 +247,11 @@
 
 9.2. Proibido o bug de bater no poste para ganhar duas posições;
 
-9.3. Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusiva para o P1;
+9.3. Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusivo para o P1;
 
 9.4. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
-9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
+9.5. Proibido o uso do freio ou desaceleração total para parar o carro na pista antes do combustível acabar;
 
 9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
 - Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
@@ -285,12 +285,12 @@
 10.9. Procedimento para início da partida:
 
 - Selecione 2 Jogadores;
-- Digitem seus nomes se desejado;
+- Digitem seus nomes se desejarem;
 - Selecione o Cambio, Controle e Carro;
 - Selecione a Dificuldade: Championships;
 - Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da TGC ROM:
 - Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
-- Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
+- Para selecionar a pista, Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
 - Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
 - O Password para abrir todos os países na Rom Original é KELLSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
 

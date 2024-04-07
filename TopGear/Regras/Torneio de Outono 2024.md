@@ -97,7 +97,7 @@
 
 5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.12. A fase de grupos será realizada com um total de 4 rodadas.
+5.12. A fase de grupos será realizada com um total de 5 rodadas.
 
 # **6. Validação das partidas** #
 

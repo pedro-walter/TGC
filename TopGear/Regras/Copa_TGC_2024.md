@@ -9,7 +9,7 @@
   1.1 - Classificados direto para as Oitavas de Final:
   - 01 - Jurandir Filho (Sr Filho) - Campeão Torneio de Verão 2023
   - 02 - Alexis Sánchez (ChitaMX) - Campeão La Liga X 2023
-  - 03 - Tomyo Sato (Max Verstappen) - Campeão Torneio de Outono 2023
+  - 03 - ~~Tomyo Sato (Max Verstappen)~~ Allan Live (Allan Live) - Campeão Torneio de Outono 2023
   - 04 - Rafael Lopes (Diablo) - Campeão Copa TGC 2023
   - 05 - Carlos Rubens (CRX) - 3º TGC XIV
   - 06 - Robson Meireles (Rob Jax) - Campeão Torneio de Inverno 2023

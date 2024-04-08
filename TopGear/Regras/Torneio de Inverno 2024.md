@@ -77,9 +77,9 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 03/04/2024 até às 18h do dia 06/04/2024;
+4.1. As inscrições serão aceitas de 01/07/2024 até às 18h do dia 03/07/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 07/04/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 04/07/2024;
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
@@ -87,7 +87,7 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato xxxxxxxxxxxxxx
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDeInverno2024](https://challonge.com/pt_BR/TorneioDeInverno2024)
 
 5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados se avançam para uma fase final de jogo único.
 
@@ -104,7 +104,7 @@
 - Confronto direto;
 - Sorteio;
 
-5.4. **É obrigatório o uso do carro AZUL** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 

@@ -117,7 +117,7 @@
 
 5.9 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-5.10 - Semifinal: serão jogadas 18 pistas (com 12 pistas de Pit e 7 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminados 2 carros por sorteio.
+5.10 - Semifinal: serão jogadas 18 pistas (com 11 pistas de Pit e 7 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminados 2 carros por sorteio.
 
 5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 14 pistas de Pit e 10 sem pit) com uso de carros diferentes a cada 6 pistas.
 

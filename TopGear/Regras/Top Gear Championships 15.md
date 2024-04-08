@@ -65,21 +65,19 @@
 
 # **3. Itens Obrigatórios:** #
 
-3.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1.  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
 3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
+3.3.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
-
-3.5.    **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 01/07/2024 até às 18h do dia 03/07/2024;
+4.1. As inscrições serão aceitas de 01/06/2024 até às 18h do dia 03/06/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 04/07/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 04/06/2024;
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
@@ -87,9 +85,9 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDeInverno2024](https://challonge.com/pt_BR/TorneioDeInverno2024)
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc15](https://challonge.com/pt_BR/tgc15/participants)
 
-5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados se avançam para uma fase final de jogo único.
+5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
@@ -104,20 +102,26 @@
 - Confronto direto;
 - Sorteio;
 
-5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **O uso de Carros é Livre** e o nível do jogo será o CHAMPIONSHIP.
 
-5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
+5.5. Não há limite para a quantidade de participantes e a tabela será montada da melhor maneira dependendo da quantidade de inscritos:
 
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
+  
+5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a escolha de carros será livre.
 
-5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
+5.7. Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas.
 
-5.7. Nas fases mata-mata, serão sorteadas 12 pistas (Rom Top Gear TGC (E) [!]) e 3 países (Rom Top Gear (E) [!]) para a oitavas, quartas e semifinal e um país para o desempate.
+5.8 - Comissário eletrônico obrigatório nas Oitavas e Quartas de Final e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
-5.8. Na final e disputa de 3º, serão sorteadas 16 pistas (Rom Top Gear TGC (E) [!]) e 4 países (Rom Top Gear (E) [!]) para a disputa normal e um país para desempate.
+5.9 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+5.10 - Semifinal: serão jogadas 18 pistas (com 12 pistas de Pit e 7 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminados 2 carros por sorteio.
+
+5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 14 pistas de Pit e 10 sem pit) com uso de carros diferentes a cada 6 pistas.
+
+5.12 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
@@ -126,11 +130,9 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.13 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
-
-5.12. A fase de grupos será realizada com um total de 5 rodadas.
+5.14 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
 # **6. Validação das partidas** #
 

@@ -13,7 +13,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.2. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](xxxxxxx) e se apresentar com o seu Nome Real + Apelido/NickName
+1.2. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/BYePapOvnni08ZWViv6twE) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -38,7 +38,7 @@
 
 3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
 
-3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
 3.5.    **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 

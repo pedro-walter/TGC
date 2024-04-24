@@ -197,7 +197,7 @@ Exemplo de postagem de resultado:
 
 # **11 - Regras das Corridas: Leia com bastante atenção**
 
-# **11.1 - Medidas Anti-Jogo:** #
+# **Medidas Anti-Jogo:** #
 
 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
@@ -221,8 +221,6 @@ Exemplo de postagem de resultado:
 Usando o desbloqueio por password acima, cada país virá com uma quantidade de dinheiro inicial, conforme a tabela de a seguir:
 
 ![](Passwords_MegaDrive.jpeg)
-
-# **Nitros e Upgrades** #
 
 # **Upgrades:** #
 De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres.

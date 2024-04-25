@@ -133,6 +133,8 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 7.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
 
+7.7 - Se a partida ocorrer pela plataforma do FightCade 2 (FC2). Ela gera um link após a partida que pode ser usado como registro de gravação da partida.
+
 # **8 - Comunicação:**
 
 8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.

@@ -10,7 +10,7 @@
 
 1.2	- Novos participantes deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook ou solicitar a entrar no grupo de WhatsApp diretamente.
 
-1.3. O grupo de WhatsApp do campeonato pode ser acessado pelo [Link](https://chat.whatsapp.com/G7aiq33OEPzIfCy8BZ27e6) e logo após a entrada o novo participante deverá se apresentar com o seu Nome Real + Apelido/NickName e confirmar sua inscrição com o modelo a seguir:
+1.3. O grupo de WhatsApp do campeonato pode ser acessado pelo [Link](https://chat.whatsapp.com/EzDNgyBwroO1JcGZA3QfHp) e logo após a entrada o novo participante deverá se apresentar com o seu Nome Real + Apelido/NickName e confirmar sua inscrição com o modelo a seguir:
 
 CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 

@@ -175,7 +175,7 @@
   
   - 6.2.2 - Avançará para a próxima fase o jogador que tiver a maior soma de pontos nos jogos de ida e volta.
   
-  - 6.2.3 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao segundo país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
+  - 6.2.3 - Em caso de empate no jogo de volta, o desempate será realizado com o carro proibido para os jogos de ida e volta. No desempate, será disputado o país seguinte ao último país sorteado para a fase. Caso o país desempate seja igual a um dos países sorteados, deverá ser iniciado o desempate no país seguinte.
 
   6.2.3 Exemplo:  
 

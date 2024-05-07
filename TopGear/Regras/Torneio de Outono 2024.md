@@ -80,9 +80,9 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteadas 12 pistas (Rom Top Gear TGC (E) [!]) e 3 países (Rom Top Gear (E) [!]) para a oitavas, quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteadas 12 pistas (Rom Top Gear TGC (E) [!]) e 3 países (Rom Top Gear (E) [!]) para a oitavas, quartas e semifinal e um país para o desempate. Os jogadores deverão entrar em acordo e jogar às 12 pistas ou os 3 países. Caso não haja consenso, deverão se jogados os 3 países na Rom Top Gear (E) [!].
 
-5.8. Na final e disputa de 3º, serão sorteadas 16 pistas (Rom Top Gear TGC (E) [!]) e 4 países (Rom Top Gear (E) [!]) para a disputa normal e um país para desempate.
+5.8. Na final e disputa de 3º, serão sorteadas 16 pistas (Rom Top Gear TGC (E) [!]) e 4 países (Rom Top Gear (E) [!]) para a disputa normal e um país para desempate. Os jogadores deverão entrar em acordo e jogar às 16 pistas ou os 4 países. Caso não haja consenso, deverão se jogados os 4 países na Rom Top Gear (E) [!].
 
 5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 

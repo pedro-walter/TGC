@@ -15,7 +15,7 @@
 CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
     Exemplo:
-    Apelido/Nickname: LeomarxGames
+    Apelido/Nickname: XxxxXxXxXXXX
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (KEGA FUSION / FIGTHCADE 2 + Radmin e/ou Hamachi) + Radmin e/ou Hamachi)
     Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
@@ -49,11 +49,11 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas de XX/XX/2024 até às 20h00 do dia XX/XX/2024;
+4.1 - As inscrições serão aceitas de 30/04/2024 até às 20h00 do dia 05/05/2024;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia XX/XX/2024;
+4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 07/05/2024;
 
-4.3 - Prazos previstos ( Todos em Horário de Brasília ):
+4.3 - Prazos previstos ( Todos em Horário de Brasília até as 23h do ultimo dia ):
 
 - Fase de grupos terá prazo de 14 dias.
 - Oitavas de final terá prazo de 5 dias.
@@ -149,7 +149,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 8.6 - O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-8.7 - **É obrigatório gravar as partidas, seja pelo OBS ou Emulador, ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
+8.7 - **É obrigatório gravar as partidas, seja pelo OBS , Emulador , Link do FigthCade 2 ou transmiti-las ao vivo. Jogadores que não gravarem ou transmitir suas partidas, terão seu confronto invalidado e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.**
 
 8.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
@@ -206,8 +206,6 @@ Exemplo de postagem de resultado:
 - Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
 
 - Se o carro quebrar por qualquer motivo que não exija fazer o load state, é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
-
-- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é necessário dar Ré para evitar bater no muro ou situações similares;
 
 - As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
 

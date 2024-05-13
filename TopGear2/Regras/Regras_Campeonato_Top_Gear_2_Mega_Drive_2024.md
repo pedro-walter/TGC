@@ -137,11 +137,11 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **8 - Comunicação:**
 
-8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
+8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados(ou grupo único), sendo este o canal oficial para as marcações das partidas e divulgação de resultados.A Administração Enviará como mensagens fixadas a lista com os nomes e contatos dos participantes em cada grupo ( ou grupo único ) para facilitar o contato entre os pilotos 
  
 8.2 - A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e dúvidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-8.3 - Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+8.3 - Os jogadores devem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
 8.4 - Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., podendo ser substituído por jogador que estiver em cadastro de reserva ou atribuída derrota pelo placar de pontuação máxima para o adversário e mínima para quem for aplicado o W.O.
 
@@ -153,7 +153,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 8.8 - Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
-8.9 - Os participantes poderão agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
+8.9 - Os participantes poderão [deverão] agendar o início de suas partidas para no máximo até 2h (duas horas) antes do encerramento do prazo estabelecido.
 
 8.10 - O lançamento dos resultados deverá ser realizado até às 23h do último dia do prazo, sendo a tolerância para o lançamento de até 15 min (quinze minutos).
 

@@ -1,22 +1,26 @@
 # **O canal Leomarx Games e a Comunidade Top Gear Championships (TGC) Apresentam:** #
 
-# **4° Campeonato Mestres do Top Gear 2 - 2024 - 1° Edição** #
+# **5° Campeonato Mestres do Top Gear 2 - 2024** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1 - Incrições:** #
 
-1.1	- O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
+
+1.2 - Aqueles pré-inscritos que não tiverem a disponibilidade de jogar poderão sair do grupo do WhatsApp criado a qualquer momento durante o período de inscrições.
+
+1.3	- Novos participantes deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
 CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
     Exemplo:
     Apelido/Nickname: LeomarxGames
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
-    Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Retroarch e Null DC Bear + Radmin e/ou Hamachi)
+    Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Null DC Bear + Radmin e/ou Hamachi e Fightcade 2)
     Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-1.2. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/G7aiq33OEPzIfCy8BZ27e6) e se apresentar com o seu Nome Real + Apelido/NickName
+1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/BFBflL6e0fMF2nSm1EYnkT) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -47,27 +51,27 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 # **4 - Cronograma (Previsão):** #
 
-4.1 - As inscrições serão aceitas de 03/01/2024 até às 20h00 do dia 10/01/2024;
+4.1 - As inscrições serão aceitas de 09/06/2024 até às 20h00 do dia 12/06/2024;
 
-4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 11/01/2024;
+4.2 - Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos terá prazo de até 14 dias;
 
-4.3 - Prazos previstos ( Todos em Horário de Brasília):
+4.3 - Prazos previstos ( Todos em Horário de Brasília até as 23h do último dia ):
 
-- Fase de grupos terá prazo de 14 dias. Previsão de término 24/01/2024 23h00
-- Oitavas de final terá prazo de 5 dias: Previsão de 24 a 28/01/2024 23h00
-- Quartas de final terá prazo de 5 dias: Previsão de 29 a 02/02/2024 23h00
-- Semifinal terá prazo de 5 dias: Previsão de 03 a 07/02/2024 23h00
-- Final e terceiro terá prazo de 5 dias: Previsão de 08 a 12/02/2024 23h59
+- Fase de grupos terá prazo de 14 dias. 
+- Oitavas de final terá prazo de 5 dias.
+- Quartas de final terá prazo de 5 dias.
+- Semifinal terá prazo de 5 dias.
+- Final e terceiro terá prazo de 5 dias.
 
 4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
 
-4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 18/01/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo) ou comprovar agendamento destas partidas com o DE **ACORDO** do adversário, com dia e hora marcados. 
+4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 19/06/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo). 
 
 4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/4_MestresDoTopGear2_2024](https://challonge.com/pt_BR/4_MestresDoTopGear2_2024)
+5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/4_MestresDoTopGear2_2024](https://challonge.com/pt_BR/5_MestresDoTopGear2_2024)
 
 5.2 - O nível do jogo será o CHAMPIONSHIP.
 
@@ -131,9 +135,11 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 7.6 - Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
 
+7.7 - Se a partida ocorrer pela plataforma do FightCade 2 (FC2). Ela gera um link após a partida que pode ser usado como registro de gravação da partida.
+
 # **8 - Comunicação:**
 
-8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados.
+8.1 - Serão criados grupos no WhatsApp para cada um dos grupos sorteados, sendo este o canal oficial para as marcações das partidas e divulgação de resultados. A Administração enviará como mensagens fixadas a lista com os nomes e contatos dos participantes em cada grupo ( ou grupo único ) para facilitar o contato entre os pilotos
  
 8.2 - A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e dúvidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
@@ -193,11 +199,13 @@ Exemplo de postagem de resultado:
 
 10.1 - A inscrição e a participação no campeonato é gratuita.
 
-10.2 - A confecção de troféus de acrílicos tem o custo de r$ 100 e após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos. A enquete será proposta com a divisão de 50/50, sendo que a Leomarx Games poderá arcar com 50% se os demais participantes aceitarem arcar com a outra metade do custo.
+10.2 - A confecção de troféus de acrílicos tem o custo de r$ 100 e após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes sobre a opinião de divisão de custos entre todos de forma **integral**.
 
-10.3 - Aprovando a divisão de custos, o 1°, 2° e 3° lugar receverão ao final do torneio troféus de acrílico com o reconhecimento. (modelo em elaboração). E como uma contrapartida aos custos de 50% da Leomarx Games o participante deve:
+10.3 - Para melhorar o custo de envio dos troféus que tiverem que ser enviados para o exterior (México, Peru ou Venezuela, por exemplo). Será feito um estudo se o melhor custo não seria o troféu ser confeccionado de forma local.
 
-A - Seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e mencionar o canal e todas as redes abaixo nas suas postagens de lives das partidas:
+10.3 - Aprovando a divisão de custos, o 1°, 2° e 3° lugar receverão ao final do torneio troféus de acrílico com o reconhecimento. (modelo em elaboração). 
+
+10.4 - O participante que receber o troféu ou aceitar dividir os custos devem seguir/curtir/inscrever-se em todas as redes sociais da Leomarx Games e mencionar o canal e todas as redes abaixo nas suas postagens de lives das partidas:
 
 Link das Redes:
 
@@ -223,19 +231,15 @@ Link das Redes:
 
 11.2 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para eventuais dúvidas.
 
-11.3 - Feita a votação em 10/01/2024 o resultado final, a maioria dos pilotos votaram pelo campeonato no modelo **VALE TUDO (Dirty Edition)* então as regras a seguir com relação a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão utilizadas neste campeonato. Conforme texto superscrito abaixo.
-
-11.4 - Feita a votação em 24/01/2024 o resultado final, a maioria dos pilotos votaram pela não punição de mudança de trajeto durante as ultrapassagens.
-
 # **Medidas Anti-Jogo:** #
 
 - Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
 - Proibido a desaceleração do carro ou parar totalmente o carro na pista antes do combustível acabar ou antes de aparecer Race Over na tela;
 
-- Se o carro quebrar por qualquer motivo que não exija fazer o load state, é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
+- Se o carro quebrar por qualquer motivo, **Não haverá uso de save/load state**. E mesmo após a quebra é proibido ficar batendo mais o carro propositalmente para perder posições e obter vantagem de largar na frente na pista seguinte;
 
-- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é necessário dar Ré para evitar bater no muro ou situações similares;
+- Proibido o uso da marcha Ré, exceto se, no caso de batidas na entrada de túnel na qual é necessário dar Ré para evitar bater no muro novamente ou situações similares;
 
 - As punições no caso da ocorrência de atitudes anti desportivas as citadas, podem variar de zeramento da pontuação da pista seguinte ou até mesmo eliminação do campeonato a ser julgado pela ADM do torneio.
 
@@ -243,67 +247,33 @@ Link das Redes:
 
 ![](Desbloqueio.jpeg)
 
-~~# **Dinheiro e Equipamentos:** #~~
- 
-~~Usando o desbloqueio acima, cada país virá com uma quantidade de dinheiro inicial e segue abaixo uma tabela com quantidade de dinheiro e a **sugestão de compra de equipamentos**, conforme print e a tabela a seguir:~~
-
-~~A numeração de 0 a 3 que está na tabela indica qual o equipamento é sugerido comprar, pois conforme a dificuldade do jogo aumenta, maior fica a dificuldade, onde:~~
-
-![](Equipamentos.jpeg)
-
-~~0 representa o equipamento "padrão" equipamento que já vem no carro,~~
-
-~~1 o equipamento de nível 1,~~ 
-
-~~2 o equipamento de nível 2 e~~ 
-
-~~3 o equipamento de nível 3.~~
-
-~~# **Países e Upgrades - Top Gear 2 - USA** #~~
+# **Sugestão de compra de Upgrades x Países - Top Gear 2** #
 
 ![](Upgrades.jpeg)
 
-~~# **Upgrades:** #~~
-~~De início ambos os carros tem livre upgrade com o dinheiro inicial, porém no conjunto das quatros pistas que formam o país o upgrade é livre (meritocracia), então o player que juntar um bom dinheiro com as vitórias poderá fazer outros upgrades livres. Importante **salvar o STATE antes de fazer o upgrade**.~~
+![](Equipamentos.jpeg)
 
-~~**Exceção A**: Itens de dinheiro no chão das pistas poderão/serão coletados normalmente, **mas em nenhuma hipótese poderão ser usados para compra de upgrade**. Caso a infração seja percebida por um dos jogadores, o mesmo deve pausar a emulação entrar em contato com o oponente via chat do emulador ou WhatsApp e comunicar a infração solicitando que seja feito o “load state” informando o uso indevido do dinheiro.~~
+**Pontuações de referência para:**
 
-~~**Exceção B**: A regra acima de impedir o uso do dinheiro coletado no chão, tem como objetivo diminuir erros de “bug de fechada”, pois um pode argumentar que para pegar o dinheiro da pista mudou de faixa e fechou sem querer o carro mais rápido. Então, ambos competindo pelo dinheiro podem acabar cometendo uma fechada acidentalmente e nessa disputa ambos podem sair prejudicados pelo bug.~~
+•	1st = 10pts, 10mil
 
-~~# **Nitro N²O:** #~~
-~~**Itens de Nitro** (N) nas pistas poderão/serão coletados normalmente, **mas não podem em nenhuma hipótese serem usados**. São 6 nitros iniciais em todas as pistas, tenha ATENÇÃO para usar somente os 6! Se houver o uso indevido o jogador será penalizado com o rebaixamento de duas posições abaixo da posição em que chegar no final da corrida e o oponente receberá uma posição acima.~~  
+•	2nd = 6pts, 6mil
 
-~~**Exceção A**: Caso seja uma pista como a França/Mônaco onde existem dois nitros e se ambos os pilotos concordarem **antes da partida** de cada um pegar um e usarem fica liberado o uso.~~
+•	3rd = 4pts, 4mil
 
-  ~~- **Exemplo Punição pelo uso indevido de Nitro A:** P1 chegou em 1st e usou o um nitro a mais coletado na rua, então sua colocação considerada será 3rd e se o oponente chegar em 2nd, neste no caso ele ganhará uma posição acima e sua posição no final da pista será 1st.~~
+•	4th = 3pts, 3mil
 
-  ~~- **Exemplo Punição pelo uso indevido de Nitro B**: P1 chegou em 2nd e usou o nitro a mais, então sua colocação final será 4th e se o oponente chegar em 5th, neste no caso ele ganhará uma posição acima e sua posição no final da pista também será 4th.~~
+•	5th = 2pts, 2mil
 
-~~A punição de nitro também se estende com relação ao dinheiro... Se a infração for percebida ainda durante a partida o oponente deve notificar para o outro piloto que não faça uso do dinheiro.~~
+•	6th = 1pts, 1mil
 
-~~Se a análise for percebida após a partida por análise de (VAR), então, somente os pontos serão descontados após revisão, pois não há o que se fazer com relação ao dinheiro, que no caso já foi gasto.~~
+•	7th = 0pts
 
-~~**Pontuações de referência para aplicação da regra acima:**~~
+•	8th = 0pts
 
-~~•	1st = 10pts, 10mil
+•	9th = 0pts
 
-~~•	2nd = 6pts, 6mil~~
-
-~~•	3rd = 4pts, 4mil~~
-
-~~•	4th = 3pts, 3mil~~
-
-~~•	5th = 2pts, 2mil~~
-
-~~•	6th = 1pts, 1mil~~
-
-~~•	7th = 0pts~~
-
-~~•	8th = 0pts~~
-
-~~•	9th = 0pts~~
-
-~~•	10th = 0pts~~
+•	10th = 0pts
 
 # **Itens de Super:**
 Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que ambos os jogadores terão a mesma oportunidade de obter ele.
@@ -311,9 +281,9 @@ Os itens de “Super” (S) poderão/serão coletados normalmente uma vez que am
 # **Race Over/Game Over:**
 Devido ao nível do jogo Championship ser elevado e os equipamentos “base” da tabela às vezes serem inferiores ao necessário para aquele país, poderá ocorrer fim jogo de forma inesperada durante uma das 4 pistas. Para contornar esse problema segue as observações: 
 
-  - **Observação A**: Se apenas um jogador não concluir a pista >10th, e o outro finalizar abaixo ou igual a 10th, o jogo segue normalmente.
+  - **Observação A**: Se o Race Over ocorrer logo na primeira do país, poderá ser tentado jogar a mesma novamente por mais 2x. Total de 3 tentativas.
 
-  - **Observação B:** Se ambos não concluírem a pista e der Race Over/Game Over, pode ser feito o load state por mais 2x para novas tentativas de finalizar a corrida. Se ainda assim não for possível finalizar a corrida. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
+  - **Observação B:** Se o Race Over ocorrer da segunda pista em diante não será permitido o load state. Deve-se considerar a pontuação de ambos obtidos antes da pista atual e segue-se para o país seguinte.
     
 # **Regras de W.O. e desistência:**
 

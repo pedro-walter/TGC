@@ -75,9 +75,9 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 01/06/2024 até às 18h do dia 03/06/2024;
+4.1. As inscrições serão aceitas de 12/06/2024 até às 20h;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 04/06/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos;
 
 4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
@@ -85,9 +85,11 @@
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc15](https://challonge.com/pt_BR/tgc15/participants)
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc15](https://challonge.com/pt_BR/tgc15)
 
 5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
+
+- Na fase de grupos, todos os integrantes se enfrentam. Os cabeças de chave de cada grupo, serão os participantes inscritos mais bem classificados no mundial de pilotos 2023.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
@@ -106,6 +108,7 @@
 
 5.5. Não há limite para a quantidade de participantes e a tabela será montada da melhor maneira dependendo da quantidade de inscritos:
 
+- O número de participantes classificados para a segunda fase, dependerá da quantidade de jogadores inscritos e será definido durante o sorteio da fase de grupos. Exemplo:
 - Inscritos: até 18. Classificados: 8;
 - Inscritos: 19 ou mais. Classificados: 16;
   

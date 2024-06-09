@@ -9,7 +9,7 @@
 1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
 
   - 01 - Alisson Paulo (Jack Maloi)
-  - 02 - Brenner Matos (Brenner Gameplays)
+  - ~~02 - Brenner Matos (Brenner Gameplays)~~
   - 03 - Marlon Reis (Lonsoldier)
   - 04 - Paolo (Paomarc)
   - 05 - Leonardo Andrade (LeomarxGames)
@@ -17,7 +17,7 @@
   - 07 - Edimar Caetano (Pegasus)
   - 08 - Rafael Lopes (Diablo)
   - 09 - Edwin Huaylla (Ediwn HD)
-  - 10 - Casio Aquino (CFDA)
+  - ~~10 - Casio Aquino (CFDA)~~
   - 11 - Carlos Rubens (CRX)
   - 12 - Roberto Vasquez (The Mister)
   - 13 - Bruno Menezes (Bruno Menezes)
@@ -26,8 +26,8 @@
   - 16 - Javier Portillo (Javier)
   - 17 - Paulo Muniz (Paulo Fox)
   - 18 - Marcel Santana (MMM)
-  - 19 - Marlon (Marlon RJ)
-  - 20 - Geovani Araújo (LSR GEVAS)
+  - ~~19 - Marlon (Marlon RJ)~~
+  - ~~20 - Geovani Araújo (LSR GEVAS)~~
   - 21 - Luciano Alves (Luciano)
   - 22 - Petter (JackPoker40)
   - 23 - Laom (Laom)

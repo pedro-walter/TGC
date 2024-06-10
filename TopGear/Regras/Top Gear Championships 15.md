@@ -109,8 +109,13 @@
 5.5. Não há limite para a quantidade de participantes e a tabela será montada da melhor maneira dependendo da quantidade de inscritos:
 
 - O número de participantes classificados para a segunda fase, dependerá da quantidade de jogadores inscritos e será definido durante o sorteio da fase de grupos. Exemplo:
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+- Inscritos: até 08. Classificados: 6;
+- Inscritos: entre 09 e 12. Classificados: 8;
+- Inscritos: entre 13 e 16. Classificados: 10;
+- Inscritos: entre 17 e 20. Classificados: 12;
+- Inscritos: entre 21 e 24. Classificados: 16;
+- Inscritos: entre 25 e 28. Classificados: 20;
+- Inscritos: entre 29 e 32. Classificados: 24;
   
 5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a escolha de carros será livre.
 

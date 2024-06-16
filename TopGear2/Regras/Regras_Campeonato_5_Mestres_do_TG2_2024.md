@@ -229,7 +229,23 @@ Link das Redes:
 
 11.1 - Após o encerramento das inscrições a Leomarx Games fará enquete no grupo de participantes do WhatsApp, sobre a opinião de um campeonato no modelo **VALE TUDO (Dirty Edition)** A depender do resultado da votação poderemos seguir ou ignorar alguns regras listadas abaixo. Sendo que as regras a partir deste ponto seguir servirão como base e poderão ser alteradas, mas em caso de divergência **caberá ao ADM a decisão final**.
 
-11.2 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para eventuais dúvidas.
+11.2 - Feita a votação em 12/06/2024 o resultado final, a maioria dos pilotos votaram pelo campeonato no modelo *F1* (Modelo que é proibido fechadas). Então as regras tenha atenção as regras relacionadas a este item descritas abaixo. Apesar da fechada estar proibida, a coleta e uso do dinheiro e a coleta e uso dos nitros a seguir não serão controladas neste campeonato.
+
+11.3 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
+
+#** Fechadas / Bug de Fechadas **#
+
+Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
+
+Exemplo prático 1: A preferência das curvas é sempre do carro que está na frente então recomenda-se quem for ultrapassar que faça a ultrapassagem “por fora”.
+
+Exemplo prático 2: Em um trecho de reta em que o carro mais a frente perceber que a próxima curva for a direita, por exemplo, o carro da frente deve usar as duas faixas da direita na reta para se antecipar para a curva e o carro que for ultrapassar deve usar as duas faixas da esquerda para fazer a ultrapassagem “por fora”.
+
+A maior parte das ocorrências dos "bugs de fechada" ocorrem na largada e/ou na primeira volta. Porém este "bug de fechada" não será controlado pela ADM/VAR uma vez que nesse campeonato não será permitido o uso de save state/load state.
+
+Punição: O jogador que se sentir prejudicado pela fechada, pode/deve posteriormente a partida solicitar ao ADM a análise por vídeo (VAR). Importante que para que essa solicitação seja atendida, recomenda-se que as partidas sejam transmitidas ao vivo ou gravadas por aplicativo (Ex.: OSB Studio / BANDICAM) e seja enviado o link do vídeo para o ADM. E se for verificada irregularidades com fechadas intencionais, o ADM poderá aplicar a uma contramedida para remover os pontos do piloto ofensor e de adicionar pontos ao piloto ofendido na pista analisada.
+
+Importante: Na fase final, se houver a ocorrência de fechadas de forma intencional, após análise da partida, se a ADM perceber que apenas os ajustes de pontos não sejam suficientes, a ADM poderá solicitar que a pista/País seja jogada novamente.
 
 # **Medidas Anti-Jogo:** #
 

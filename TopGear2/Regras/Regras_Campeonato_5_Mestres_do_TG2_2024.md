@@ -233,7 +233,7 @@ Link das Redes:
 
 11.3 - Considerando o campeonato no modelo normal, as regras abaixo serão adotadas e, então, se faz necessário que os jogadores novos prestem atenção à elas e, se necessário, a administração estará a disposição para realização de "VAR" das partidas e eventuais dúvidas.
 
-#** Fechadas / Bug de Fechadas **#
+# **Fechadas / Bug de Fechadas** #
 
 Proibido aos pilotos ficarem mudando o trajeto propositalmente para fechar, caso perceba que será ultrapassado. Não é permitido mudar de faixa sem motivo aparente de curva iminente ou desvio de bot. Tal regra é necessária para evitar o bug de danificar o carro do oponente. 
 

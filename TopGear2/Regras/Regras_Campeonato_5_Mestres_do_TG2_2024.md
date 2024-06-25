@@ -66,7 +66,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
 
 ~~4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 24/06/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo).~~
-4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 26/06/2024 23h59), cada piloto deverá ter realizado ao menos 4 partidas / países.
+4.5 - Durante a fase de grupos, no prazo a seguir (até dia 26/06/2024 23h59), cada piloto deverá ter realizado ao menos 4 partidas / países.
 
 4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
 

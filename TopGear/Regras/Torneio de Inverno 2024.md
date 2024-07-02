@@ -36,7 +36,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link (Criar) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -55,23 +55,23 @@
 
 # **3. Itens Obrigatórios:** #
 
-3.1.    **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
+3.1.  **Emulador ZSNES 1.42 =** Link para download [aqui](https://www.zsnes.com/index.php?page=files)
 
 3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
 3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
 
-3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
 
-3.5.    **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.5.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 01/07/2024 até às 18h do dia 03/07/2024;
+4.1. As inscrições serão aceitas de 07/07/2024 até às 21h;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 04/07/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 08/07/2024;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 

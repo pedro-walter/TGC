@@ -122,6 +122,8 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 6.5 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada um w.o e não haverão sansões.
 
+6.6 - A tolerância de W.O.'s neste campeonato será no total de 5 partidas na fase de grupos, se houver 6 ou mais partidas o piloto será impedido de participar do próximo campeonato. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+
 # **7 - Validação das partidas:** #
 
 7.1 - É obrigatório gravar as partidas, seja pelo OBS Studio ou Emulador. Se for possível para um dos participantes, o ideal será transmiti-las ao vivo.

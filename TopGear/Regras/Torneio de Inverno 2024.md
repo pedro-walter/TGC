@@ -122,6 +122,8 @@
 
 5.12. A fase de grupos será realizada com um total de 5 rodadas.
 
+5.13. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+
 # **6. Validação das partidas** #
 
 6.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.

@@ -67,11 +67,11 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas de 07/07/2024 até às 21h;
+4.1. As inscrições serão aceitas até às 21h do dia 07/07/2024;
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 08/07/2024;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo.
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
@@ -79,7 +79,7 @@
 
 5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDeInverno2024](https://challonge.com/pt_BR/TorneioDeInverno2024)
 
-5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados se avançam para uma fase final de jogo único.
+5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados avançam para as próximas fases de jogo único.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
@@ -103,9 +103,9 @@
 
 5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
 
-5.7. Nas fases mata-mata, serão sorteadas 12 pistas (Rom Top Gear TGC (E) [!]) e 3 países (Rom Top Gear (E) [!]) para a oitavas, quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 3 países para a oitavas, quartas e semifinal e um país para o desempate.
 
-5.8. Na final e disputa de 3º, serão sorteadas 16 pistas (Rom Top Gear TGC (E) [!]) e 4 países (Rom Top Gear (E) [!]) para a disputa normal e um país para desempate.
+5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
 
 5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
@@ -120,7 +120,7 @@
 
 5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.12. A fase de grupos será realizada com um total de 5 rodadas.
+5.12. A fase de grupos será realizada em 4 rodadas caso tenhamos até 18 inscritos e 5 rodadas caso haja mais de 18 inscritos.
 
 5.13. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 

@@ -83,8 +83,8 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 
 5.5 - Na Fase Final, para os confrontos ficarem mais equilibrados, voltaremos os 16 países para a lista de sorteio, separando-os em 4 grupos e então:
 
-- Oitavas e Quartas de Final: 3 países de rodada única, sendo 1 país dos quartetos 2, 3 e 4 (Vence quem tiver mais pontos na soma total)
-- Semifinal, Final e terceiro: 4 países de rodada única, sendo 1 país de cada quarteto (Vence quem tiver mais pontos na soma total)
+- Oitavas e Quartas de Final: 3 países de rodada única, sendo 1 país dos quartetos 2, 3 e 4 (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do primeiro quarteto.
+- Semifinal, Final e terceiro: 4 países de rodada única, sendo 1 país de cada quarteto (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do quarto quarteto que não foi jogado nem na semi e nem na final.
 
 5.6 - Serão classificados para a fase final uma quantidade de jogadores, dependendo da quantidade de inscritos. Exemplo:
 

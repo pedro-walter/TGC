@@ -99,75 +99,80 @@
 
 5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
 
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+- Inscritos: até 08. Classificados: 6;
+- Inscritos: entre 09 e 12. Classificados: 8;
+- Inscritos: entre 13 e 16. Classificados: 10;
+- Inscritos: entre 17 e 20. Classificados: 12;
+- Inscritos: entre 21 e 24. Classificados: 16;
+- Inscritos: entre 25 e 28. Classificados: 20;
+- Inscritos: entre 29 e 32. Classificados: 24;
 
-5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
+5.6. Serão sorteados 2 sistemas solares com 4 planetas cada para a fase de grupos e cada um dos sistemas solates é uma partida. Observando:
 
-5.7. Nas fases mata-mata, serão sorteados 3 países para a oitavas, quartas e semifinal e um país para o desempate.
+- Para sistemas solares com 3 planetas, o último planeta deverá ser jogado 2x.
+- Para sistemas solares com + de 4 planetas, deverão ser jogados os 4 primeiros.
 
-5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
+5.7. Nas fases mata-mata, serão sorteados 3 sistemas solares para a oitavas, quartas e semifinal e um país para o desempate.
 
-5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+5.8. Na final e disputa de 3º, serão sorteados 4 sistemas solares para a disputa normal e um país para desempate.
 
-- Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
-- Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
-- Vencerá aquele que abrir primeiro mais de 5 pontos de vantagem; 
-- Permanecendo o empate no primeiro país, o país seguinte deverá ser jogado e assim sucessivamente, até haver um vencedor;
-- Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
-- Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
+5.9. Em caso de empate nas fases finais, reinicia-se o Jogo e joga-se a partir do sistemas solar sorteado para desempate:
+
+- No desempate os pilotos devem utilizar normalmente os upgrades.
+- Vencerá aquele que ao final do sistemas solar sorteado tiver mais pontos que o oponente;
+- Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o país seguinte ao anterior e assim sucessivamente, até haver um vencedor;
+    Se durante o desempate houver Race Over para ambos, vencerá o piloto que terminar na frente, em qualquer posição, mesmo com Race Over.
+    Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
-5.12. A fase de grupos será realizada em 4 rodadas caso tenhamos até 18 inscritos e 5 rodadas caso haja mais de 18 inscritos.
+5.12. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato da TGC. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
-5.13. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+5.13. Pontuação:
 
-# **Pontuação:**
+- 1st = 10 pontos
+- 2nd = 8 pontos
+- 3rd = 6 pontos
+- 4th = 5 pontos
+- 5th = 4 pontos
+- 6th = 3 pontos
+- 7th = 2 pontos
+- 8th = 1 pontos
 
-1st = 10 pontos
-2nd = 6 pontos
-3rd = 3 pontos
-4th = 0 pontos
+### **5.14. Como Jogar ?** ###
 
-# **Como Jogar ?**
+5.14.1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos.
+5.14.2 - Entrarem no jogo Top Racer Collection (TRC) pela Steam e um piloto cria a sala da disputa e o outro entra na partida criada.
+5.14.3 - Para Criar a partida, no menu principal seguir:
+  - Modo Online
+  - Tipo de Sala = Pública
+  - Escolher o Jogo Top Racer 3000
+  - Modo de Jogo = Copa Personalizada
+  - Velocímetro = KPH
+  - Dificuldade = *Campeão*
+5.14.4 - Criar/Editar a Copa com os 4 planetas sorteados.
+5.14.5 - Pré configurar o carro conforme a orientação abaixo.
+5.14.6 - Vence aquele que somar a pontuação ao final da disputa.
 
-1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos;
-2 - Entrarem no jogo Top Racer Collection (TRC) pela Steam e um piloto cria a sala da disputa e o outro entra na partida criada.
-3 - Ao carregar o jogo selecionar 2 Players;
-4 - Selecionar as pistas sorteadas;
-5 - Pré configurar o carro conforme a orientação abaixo;
-6 - Vence aquele que somar a pontuação ao final da disputa.
+**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 1**
 
-**TG3K_Carro_A_Cheetah**
+![](TG3K_Tabela_de_Equipamentos_1.jpg)
 
-![](TG3K_Carro_A_The_Cheetah.png)
+**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 2**
 
-**TG3K_Carro_B_The_Demon**
+![](TG3K_Tabela_de_Equipamentos_2.jpg)
 
-![](TG3K_Carro_B_The_Demon.png)
-
-**TG3K_Carro_C_The_Phantom**
-
-![](TG3K_Carro_C_The_Phantom.png)
-
-**TG3K_Carro_D_The_Pegasus**
-
-![](TG3K_Carro_D_The_Pegasus.png)
-
-**TG3K_Sala_FIghtCade**
-
-![](TG3K_Sala_FIghtCade.png)
+### **Sugere-se ja baixar as imagens ou guardar esse link para facilitar criar a configuração do carro.** ###
 
 # **6. Validação das partidas** #
 
-6.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Emulador.
+*6.1. É obrigatório gravar ou transmitir ao vivo as partidas, seja pelo OBS Studio ou Steam ou outra forma.*
 
 6.2. Ambos os jogadores são responsáveis pela gravação. Sugere-se que se um for fazer a transmissão que o outro grave para em caso de travamento da live a partida seja validada. 
 
-6.3. Os jogadores que não gravarem ou transmitirem suas partidas, terão seus confrontos invalidados e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
+6.3. Os jogadores que não gravarem ou transmitirem suas partidas, **terão seus confrontos invalidados** e não poderão abrir PROTOCOLO de possíveis irregularidades cometidas pelo adversário.
 
 6.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 

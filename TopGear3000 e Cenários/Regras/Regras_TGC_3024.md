@@ -1,6 +1,6 @@
 # **A Comunidade Top Gear Championships (TGC) Apresenta:** #
 
-# **Campeonato Top Gear 3024 - O Futuro é Agora!!!** #
+# **Campeonato Top Racer Collection 3024 - O Futuro é Agora!!!** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
@@ -59,7 +59,7 @@
 
 - Demais plataformas, como (Playstation/Xbox) não serão utilizadas porque no momento o jogo não possui rede para Crossplay Network.
 
-3.2.	**Adesão às redes sociais da comunidade Top Gear Championships ** 
+3.2.	**Adesão às redes sociais da comunidade Top Gear Championships** 
 
 ### **[Facebook](https://www.facebook.com/groups/topgearchampionships)** ###
 ### **[Youtube](https://www.youtube.com/@topgearchampionships)** ###
@@ -68,9 +68,9 @@
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 28/07/2024;
+4.1. As inscrições serão aceitas até às 21h do dia 02/08/2024;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 29/07/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos planetas e a Fase de Grupos até o dia 03/08/2024;
 
 4.3. A depender da quantidade de inscritos a da fase de grupos terá de 7 a 14 dias.
 
@@ -112,15 +112,15 @@
 - Para sistemas solares com 3 planetas, o último planeta deverá ser jogado 2x.
 - Para sistemas solares com + de 4 planetas, deverão ser jogados os 4 primeiros.
 
-5.7. Nas fases mata-mata, serão sorteados 3 sistemas solares para a oitavas, quartas e semifinal e um país para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 3 sistemas solares para a oitavas, quartas e semifinal e um sistema solas para o desempate.
 
-5.8. Na final e disputa de 3º, serão sorteados 4 sistemas solares para a disputa normal e um país para desempate.
+5.8. Na final e disputa de 3º, serão sorteados 4 sistemas solares para a disputa normal e um sistema solas para desempate.
 
 5.9. Em caso de empate nas fases finais, reinicia-se o Jogo e joga-se a partir do sistemas solar sorteado para desempate:
 
 - No desempate os pilotos devem utilizar normalmente os upgrades.
 - Vencerá aquele que ao final do sistemas solar sorteado tiver mais pontos que o oponente;
-- Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o país seguinte ao anterior e assim sucessivamente, até haver um vencedor;
+- Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o sistema solas seguinte ao anterior e assim sucessivamente, até haver um vencedor;
     Se durante o desempate houver Race Over para ambos, vencerá o piloto que terminar na frente, em qualquer posição, mesmo com Race Over.
     Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
 
@@ -129,42 +129,6 @@
 5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
 5.12. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato da TGC. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
-
-5.13. Pontuação:
-
-- 1st = 10 pontos
-- 2nd = 8 pontos
-- 3rd = 6 pontos
-- 4th = 5 pontos
-- 5th = 4 pontos
-- 6th = 3 pontos
-- 7th = 2 pontos
-- 8th = 1 pontos
-
-### **5.14. Como Jogar ?** ###
-
-5.14.1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos.
-5.14.2 - Entrarem no jogo Top Racer Collection (TRC) pela Steam e um piloto cria a sala da disputa e o outro entra na partida criada.
-5.14.3 - Para Criar a partida, no menu principal seguir:
-  - Modo Online
-  - Tipo de Sala = Pública
-  - Escolher o Jogo Top Racer 3000
-  - Modo de Jogo = Copa Personalizada
-  - Velocímetro = KPH
-  - Dificuldade = *Campeão*
-5.14.4 - Criar/Editar a Copa com os 4 planetas sorteados.
-5.14.5 - Pré configurar o carro conforme a orientação abaixo.
-5.14.6 - Vence aquele que somar a pontuação ao final da disputa.
-
-**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 1**
-
-![](TG3K_Tabela_de_Equipamentos_1.jpg)
-
-**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 2**
-
-![](TG3K_Tabela_de_Equipamentos_2.jpg)
-
-### **Sugere-se ja baixar as imagens ou guardar esse link para facilitar criar a configuração do carro.** ###
 
 # **6. Validação das partidas** #
 
@@ -176,7 +140,7 @@
 
 6.4. A resolução ideal é em HD 1280x720 (720p), porém para aqueles que não tenham um computador que consiga nesta gravar ou transmitir nessa resolução, a resolução mínima aceita será (SD) 854 x 480 (480p).
 
-6.5. O arquivo de gravação deve ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
+6.5. O arquivo de gravação pode ser disponibilizado na nuvem e o link divulgado no grupo do WhatsApp junto com o resultado, ou também pode ser feito o envio de arquivo de gravação diretamente no WhatsApp.
 
 6.6. Não serão aceitos resultados enviados sem o cumprimento das regras de gravação mencionadas, sendo que uma nova partida deve ser realizada ou a renúncia de derrota por W.O. por um dos participantes.
 
@@ -186,7 +150,7 @@
 
 7.2. A permanência no grupo é obrigatória e o jogador que não participar estará eliminado do campeonato. O grupo deve ser usado para os anúncios da administração, agendamento de partidas e assuntos relevantes ao campeonato, tais como informações de problemas com conexão, remarcação de partidas, encaminhamentos de links das lives e postagem de resultados.
 
-7.3. Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para wo, só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
+7.3. Os jogadores podem mencionar seu oponente, marcando com @, para agendamento de sua partida. Essa menção poderá ser realizada quantas vezes o jogador quiser, mas para efeitos de regras de verificação para W.O., só será considerada uma menção a cada 24 horas. Após a terceira menção do oponente (72h), sem a devida resposta, o jogador poderá reivindicar o W.O à administração.
 
 7.4. Os participantes que não realizarem suas partidas ou agendamento delas nos prazos estabelecidos, através do grupo oficial do campeonato, receberão W.O., 
 
@@ -236,60 +200,56 @@ Exemplo de postagem de resultado:
 
 # **9. Regras Gerais:** #
 
-9.1. Clique aqui para ler a base das Regras Gerais link  (https://www.facebook.com/groups/topgearchampionships/permalink/3391700757764527);
+9.1. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
 
-9.2. Proibido o bug de bater no poste para ganhar duas posições;
+9.2. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
 
-9.3. Proibido o uso do freio em curvas para derrapagem, devido ao bug de não reduzir a velocidade, ser exclusiva para o P1;
+9.3. Caso o jogador perca por w.o. e não apresente justificativas (regra 5.12), este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
 
-9.4. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
-
-9.5. Proibido o uso do freio ou desaceleração total para parar carro na pista antes do combustível acabar;
-
-9.6. Em caso de pane seca para ambos os jogadores em pistas como Roma, Rain Forest, Bourdeaux, Monaco, Pisa entre outras, será atribuída a pontuação da posição final dos jogadores ao se escurecer completamente a tela. Para jogar a próxima pista, os jogadores deverão voltar ao menu inicial e selecionar o restante das pistas (utilizando a ROM TGC) ou jogar o país completo novamente (utilizando a ROM Original).
-- Obs.: Caso seja necessário jogar o país novamente, a contagem de pontos das pistas daquele país jogadas anteriormente será zerada.
-- Obs.: Caso um dos jogadores informe que tem o save state do início da pista onde aconteceu a pane, estes deverão correr a pista novamente através do save.
-
-9.7. Caso o país sorteado seja UK, na pista de STONEHENGE, as pontuações serão atribuídas de acordo com as posições finais dos jogadores imediatamente quando a tela escurecer após o Out Of Fuel;
-- Obs.: se um dos jogadores completar STONEHENGE, aquele que não completar não receberá nenhuma pontuação atribuída.
-
-9.8. Caso seja sorteado o país UK, este deverá ser corrido por último, mesmo utilizando a Rom TGC;
-
-9.9. Caso alguma Regra Geral esteja divergente de alguma regra estabelecida aqui neste post, vale a regra deste documento para o campeonato.
-
-9.10. Caso o jogador perca por w.o. e não apresente justificativas até 24h após o término da rodada ou fase mata-mata, este será impedido de participar dos dois próximos campeonatos realizados pela Comunidade TGC (TG1, TG2 ou TG3000);
-
-9.11. As justificativas apresentadas conforme o item anterior, serão analisadas pela adm da TGC.
+9.4. As justificativas apresentadas conforme o item 9.3, serão analisadas pela ADM da TGC para decisão da punição.
 
 # **10. Regras Específicas:** #
 
-10.1. Será utilizado o emulador ZSNES 1.42;
+### **Procedimentos para início da partida** ###
 
-10.2. A ROM deverá ser a Top Gear TGC (E) [!] ou Top Gear (E) [!];
+10.1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos.
 
-10.3. Nível/Level: **Championship**;
+10.2 - Entrarem no jogo Top Racer Collection (TRC) pela Steam e um piloto cria a sala da disputa e o outro entra na partida criada.
 
-10.4. A escolha de câmbio (automático ou manual) é livre durante todo o campeonato;
+10.3 - Para Criar a partida, no menu principal seguir:
+  - Modo Online
+  - Tipo de Sala = Pública
+  - Escolher o Jogo Top Racer 3000
+  - Modo de Jogo = Copa Personalizada
+  - Velocímetro = KPH
+  - Dificuldade = **Campeão**
 
-10.5. A conexão deverá ser estabelecida por rede VPN RADMIN ou HAMACHI;
+10.4 - Criar/Editar a Copa Personalizada com os 4 planetas sorteados.
 
-10.6. Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate e/ou jogo de volta para corrigir o grid de largada corretamente; 
+10.5 - Pré configurar o carro conforme a orientação abaixo.
 
-10.7. Não havendo consenso na escolha de quem é o Player 1 ou o Player 2, o Player 1 será aquele que vier primeiro na tabela do Challonge;
+**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 1**
 
-10.8. O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada país disputado;
+![](TG3K_Tabela_de_Equipamentos_1.jpg)
 
-10.9. Procedimento para início da partida:
+**Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 2**
 
-- Selecione 2 Jogadores;
-- Digitem seus nomes se desejado;
-- Selecione o Cambio, Controle e Carro;
-- Selecione a Dificuldade: Championships;
-- Para selecionar as pistas na Rom Top Gear TGC Rom (E) [!], o jogador que estiver com o controle P1, deverá seguir o Manual de instruções da TGC ROM:
-- Em Track, movendo para esquerda ou direita, selecione a pista (ela é apresentada pelo nome);
-- Para selecionar a pista Pressione o botão "A". Ao selecionar uma pista, um contador de seleção aparecerá: "1, 2, 3... e assim por diante";
-- Caso precise corrigir alguma seleção pressione o botão "B" para retirar a última pista selecionada;
-- O Password para abrir todos os países na Rom Original é KELLSON. Ir para o menu COUNTRY, selecionar UK, usar o password, e depois selecionar o país;
+![](TG3K_Tabela_de_Equipamentos_2.jpg)
+
+### **Sugere-se ja baixar as imagens ou guardar esse link para facilitar a configuração dos carros.** ###
+
+10.6 - Pontuação a cada pista:
+
+- 1st = 10 pontos
+- 2nd = 8 pontos
+- 3rd = 6 pontos
+- 4th = 5 pontos
+- 5th = 4 pontos
+- 6th = 3 pontos
+- 7th = 2 pontos
+- 8th = 1 pontos
+
+10.7 - O resultado da partida será a soma dos pontos obtidos pelos jogadores em cada planeta disputado;
 
 # **11. Situações inéditas** #
 

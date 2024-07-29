@@ -72,7 +72,7 @@
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos planetas e a Fase de Grupos até o dia 03/08/2024;
 
-4.3. A depender da quantidade de inscritos a da fase de grupos terá de 7 a 14 dias.
+4.3. A depender da quantidade de inscritos a duração da fase de grupos terá de 7 a 14 dias.
 
 4.4. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
 
@@ -82,7 +82,7 @@
 
 5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc3024](https://challonge.com/pt_BR/tgc3024)  
 
-5.2. O campeonato será no modelo Copa do Mundo, com uma fase de grupos e os mais bem colocados avançam para as próximas fases em disputas de jogo único.
+5.2. O campeonato será no modelo Copa do Mundo, com uma fase de grupos e os melhores colocados avançam para as próximas fases em disputas de jogo único.
 
 5.3. Na fase de grupos, os jogadores pontuarão de acordo com seu resultado em cada partida, conforme a relação a seguir:
 

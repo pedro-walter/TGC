@@ -82,9 +82,9 @@
 
 5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc3024](https://challonge.com/pt_BR/tgc3024)  
 
-5.2. O campeonato será no modelo copa do mundo, com uma fase de grupos e os melhores colocados avançam para as próximas fases em disputas de jogo único.
+5.2. O campeonato será no modelo Copa do Mundo, com uma fase de grupos e os mais bem colocados avançam para as próximas fases em disputas de jogo único.
 
-5.3. Na fase de grupos, os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
+5.3. Na fase de grupos, os jogadores pontuarão de acordo com seu resultado em cada partida, conforme a relação a seguir:
 
 - Vitória = 3 pontos;
 - Empate = 1 ponto;
@@ -107,26 +107,27 @@
 - Inscritos: entre 25 e 28. Classificados: 20;
 - Inscritos: entre 29 e 32. Classificados: 24;
 
-5.6. Serão sorteados 2 sistemas solares com 4 planetas cada para a fase de grupos e cada um dos sistemas solates é uma partida. Observando:
+5.6. Serão sorteados 2 sistemas solares com 4 planetas cada para a fase de grupos e cada um dos sistemas solares é uma partida. Observando:
 
 - Para sistemas solares com 3 planetas, o último planeta deverá ser jogado 2x.
-- Para sistemas solares com + de 4 planetas, deverão ser jogados os 4 primeiros.
+- Para sistemas solares com + de 4 planetas, deverão ser jogados os 4 primeiros e/ou sorteados.
 
-5.7. Nas fases mata-mata, serão sorteados 3 sistemas solares para a oitavas, quartas e semifinal e um sistema solas para o desempate.
+5.7. Nas fases mata-mata, serão sorteados 3 sistemas solares para a oitavas, quartas e semifinal e um sistema solar para o desempate.
 
-5.8. Na final e disputa de 3º, serão sorteados 4 sistemas solares para a disputa normal e um sistema solas para desempate.
+5.8. Na final e disputa de 3º, serão sorteados 4 sistemas solares para a disputa normal e um sistema solar para o desempate.
 
-5.9. Em caso de empate nas fases finais, reinicia-se o Jogo e joga-se a partir do sistemas solar sorteado para desempate:
+5.9. Em caso de empate nas fases finais, reinicia-se o jogo e joga-se a partir do sistema solar sorteado para o desempate:
 
 - No desempate os pilotos devem utilizar normalmente os upgrades.
-- Vencerá aquele que ao final do sistemas solar sorteado tiver mais pontos que o oponente;
-- Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o sistema solas seguinte ao anterior e assim sucessivamente, até haver um vencedor;
-    Se durante o desempate houver Race Over para ambos, vencerá o piloto que terminar na frente, em qualquer posição, mesmo com Race Over.
+- Vencerá aquele que ao final do sistema solar sorteado tiver mais pontos que o oponente;
+- Permanecendo o empate no primeiro, reinicia-se o jogo e joga-se o sistema solar seguinte ao anterior e assim sucessivamente, até haver um vencedor;
+    Se durante o desempate houver Race Over para ambos, vencerá o piloto que tiver mais pontos até pista do race over.
+    Se ocorrer race over logo na primeira pista, vencerá aquele que estiver na frente, em qualquer posição, antes da tela apagar.
     Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não haja consenso, será o player 1, aquele que tiver terminado na frente na última pista anterior ao início do desempate.
 
-5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referente à 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
+5.11. Após de 50% da partida realizada, um dos pilotos pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
 5.12. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato da TGC. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 
@@ -212,7 +213,7 @@ Exemplo de postagem de resultado:
 
 ### **Procedimentos para início da partida** ###
 
-10.1 - Para jogar o campeonato basta agendar com o seu oponente pelo grupo de whatsApp que será criado o melhor horário para ambos.
+10.1 - Para jogar o campeonato, basta agendar com o seu oponente pelo grupo de WhatsApp que será criado o melhor horário para ambos.
 
 10.2 - Entrarem no jogo Top Racer Collection (TRC) pela Steam e um piloto cria a sala da disputa e o outro entra na partida criada.
 
@@ -226,7 +227,7 @@ Exemplo de postagem de resultado:
 
 10.4 - Criar/Editar a Copa Personalizada com os 4 planetas sorteados.
 
-10.5 - Pré configurar o carro conforme a orientação abaixo.
+10.5 - Pré-configurar o carro conforme a orientação abaixo.
 
 **Tabela de Equipamentos Campeonato Top Gear 3000 - Top Gear Championships - parte 1**
 

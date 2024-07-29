@@ -1,33 +1,12 @@
 # **A COMUNIDADE TOP GEAR CHAMPIONSHIPS (TGC) APRESENTA:** #
 
-# **Torneio de Inverno 2024** #
+# **Campeonato Top Gear Championships 16** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1. Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes. Conforme Lista a seguir:
-
-  - 01 - Alisson Paulo (Jack Maloi)
-  - 02 - Roberto Vasquez (The Mister)
-  - 03 - Marlon Reis (Lonsoldier)
-  - 04 - Edwin Huaylla (Ediwn HD)
-  - 05 - Leonardo Andrade (LeomarxGames)
-  - 06 - Jurandir Filho (Sr Filho)
-  - 07 - Rafael Lopes (Diablo)
-  - 08 - Robson Meireles (Rob Jax)
-  - 09 - Ari Jr (Arijunino)
-  - 10 - Jhonny (Jhonny)
-  - 11 - Edson Silva (Senninkage)
-  - 12 - Fabrício Canisso (Rannid)
-  - 13 - Luís Cardenas (Luís L.A.O.M)
-  - 14 - RonalDan (RonalDan)
-  - 15 - Allan Live (Allan Live)
-  - 16 - Javier Portillo (Javier)
-  - 17 - Paulo Muniz (Paulo Fox)
-  - 18 - Marcel Santana (MMM)
-  - 19 - Petter Bruno (JackPoker40)
-  - 20 - Luciano Alves (Luciano)
+1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
 
 1.2 - Novos participantes poderão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
@@ -36,7 +15,7 @@
     Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
     Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo Link (Criar) e se apresentar com o seu Nome Real + Apelido/NickName
+1.3. Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2. Validação e Verificação de Perfil dos Inscritos:** #
 
@@ -59,27 +38,27 @@
 
 3.2.	**ROM Top Gear TGC (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/files/files)
 
-3.3.	**Top Gear (E) [!].smc** = Link para download [aqui](https://www.facebook.com/groups/topgearchampionships/permalink/2435336390067640)
+3.3.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
-3.4.	**Radmin para conexão entre os jogadores** = Link para download [aqui](https://www.radmin-vpn.com/)
-
-3.5.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
+3.4.  **Hamachi para conexão entre os jogadores** = Link para download [aqui](https://vpn.net/)
 
 # **4. Cronograma (Previsão):** #
 
-4.1. As inscrições serão aceitas até às 21h do dia 07/07/2024;
+4.1. As inscrições serão aceitas de 12/06/2024 até às 20h;
 
-4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos até o dia 08/07/2024;
+4.2. Após confirmação das inscrições, será realizado o sorteio dos países e a Fase de Grupos;
 
-4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo.
+4.3. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terá prazo de 5 dias, finalizando até às 23h do último dia de prazo.
 
 4.4. **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
 # **5. Organização e Chaveamento:** #
 
-5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/TorneioDeInverno2024](https://challonge.com/pt_BR/TorneioDeInverno2024)
+5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc15](https://challonge.com/pt_BR/tgc15)
 
-5.2. O campeonato terá uma fase de grupos no modelo suíço e os melhores colocados avançam para as próximas fases de jogo único.
+5.2. O campeonato terá uma fase de grupos no modelo Copa do Mundo com Fase de Grupos e Fase Eliminatórias até o final.
+
+- Na fase de grupos, todos os integrantes se enfrentam. Os cabeças de chave de cada grupo, serão os participantes inscritos mais bem classificados no mundial de pilotos 2023.
 
 5.3. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
 
@@ -94,20 +73,32 @@
 - Confronto direto;
 - Sorteio;
 
-5.4. **É obrigatório o uso do carro BRANCO** e o nível do jogo será o CHAMPIONSHIP.
+5.4. **O uso de Carros é Livre** e o nível do jogo será o CHAMPIONSHIP.
 
-5.5. Não há limite para a quantidade de participantes e serão classificados para a fase final a quantidade de jogadores a seguir, dependendo da quantidade de inscritos:
+5.5. Não há limite para a quantidade de participantes e a tabela será montada da melhor maneira dependendo da quantidade de inscritos:
 
-- Inscritos: até 18. Classificados: 8;
-- Inscritos: 19 ou mais. Classificados: 16;
+- O número de participantes classificados para a segunda fase, dependerá da quantidade de jogadores inscritos e será definido durante o sorteio da fase de grupos. Exemplo:
+- Inscritos: até 08. Classificados: 6;
+- Inscritos: entre 09 e 12. Classificados: 8;
+- Inscritos: entre 13 e 16. Classificados: 10;
+- Inscritos: entre 17 e 20. Classificados: 12;
+- Inscritos: entre 21 e 24. Classificados: 16;
+- Inscritos: entre 25 e 28. Classificados: 20;
+- Inscritos: entre 29 e 32. Classificados: 24;
+  
+5.6. Na Fase de grupos: serão jogadas 10 pistas por rodada (6 pistas de Pit e 4 sem pit) e todos jogam contra todos dentro do mesmo grupo. Na fase de grupos a escolha de carros será livre.
 
-5.6. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum país para as quatro primeiras rodadas e não se repetindo a mesma dupla de países quando houverem mais rodadas.
+5.7. Oitavas e Quartas de Final: serão jogadas 14 pistas (com 9 pistas de Pit e 5 sem pit), com eliminação de 1 carro por sorteio. Devem ser utilizados 2 (dois) carros na disputa, sendo um carro nas 7 primeiras pistas e outro nas 7 últimas pistas. 1 Grupo terá 4 pistas de Pit e outro 3 pistas de pit.
 
-5.7. Nas fases mata-mata, serão sorteados 3 países para a oitavas, quartas e semifinal e um país para o desempate.
+5.8 - Comissário eletrônico obrigatório nas Oitavas e Quartas de Final e o mesmo pode ser acessado no endereço https://www.topgearchampionships.com/comissario/comissario.html
 
-5.8. Na final e disputa de 3º, serão sorteados 4 países para a disputa normal e um país para desempate.
+5.9 - Os Resultados e Logs podem serem acessados em https://www.topgearchampionships.com/comissario/logsPublicosComissario.html
 
-5.9. Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
+5.10 - Semifinal: serão jogadas 18 pistas (com 11 pistas de Pit e 7 sem pit) em jogos de ida e volta com uso de carros diferentes na ida e na volta, sendo eliminados 2 carros por sorteio. 1 Grupo terá 6 pistas de Pit e outro 5 pistas de pit.
+
+5.11 - Final e Disputa do Terceiro Lugar: serão disputados em 24 pistas sorteadas (com 14 pistas de Pit (repetindo 1 das 13 totais) e + 10 sem pit) com uso de carros diferentes a cada 6 pistas. 2 Grupos Terão 4 pistas de Pit e 2 grupos terão 3 pistas de pit.
+
+5.12 - Em caso de empate reinicia-se a ROM e joga a partir do país sorteado para desempate:
 
 - Para facilitar, utilizando a ROM Top Gear TGC Rom (E), poderão ser selecionadas 8 pistas para o desempate, sendo as 4 primeiras referente ao país desempate e as outras 4 do país seguinte do país desempate.
 - Utilizando a ROM Top Gear (E) [!], seleciona-se o país desempate e joga-se todas as pistas na sequência até que haja um vencedor;
@@ -116,13 +107,9 @@
 - Caso se jogue UK e ao final da pista de Stonehenge a partida ainda não tiver um vencedor seguindo os critérios acima, a partida continua a partir de USA;
 - Obs.: Em comum acordo, os jogadores podem trocar de controle quanto forem iniciar o desempate para corrigir o grid de largada corretamente. Caso não aja concenso, será o player 1, aquele que tiver terminado na frente na pista anterir ao desempate.
 
-5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
+5.13 - A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referentea a 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
-
-5.12. A fase de grupos será realizada em 4 rodadas caso tenhamos até 18 inscritos e 5 rodadas caso haja mais de 18 inscritos.
-
-5.13. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato de estação. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
+5.14 - Depois de 50% da partida realizada, o piloto pode avisar ao oponenete que deseja parar e admitir a derrota. Assim, o adversário leva os 20 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverão sansões.
 
 # **6. Validação das partidas** #
 
@@ -150,11 +137,9 @@
 
 7.5. O W.O. será atribuído a favor daquele que oferecer maior tempo de disponibilidade, ou contra aquele que não comparecer no horário previamente agendado.
 
-7.6. Em casos onde houver incompatibilidade total de horários entre os participantes, na análise de W.O., será priorizado aquele que esteve mais tempo disponível após às 18h ou finais de semana.
+7.6. O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
 
-7.7. O envio de mensagens no chat do emulador estará proibido caso um dos participantes solicite no início da partida.
-
-7.8. Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
+7.7. Os resultados das partidas devem ser informados no grupo respectivo do WhatsApp que o jogador for adicionado.
 
 Exemplo de postagem de resultado:
 
@@ -162,7 +147,7 @@ Exemplo de postagem de resultado:
 - **@Player1 110 x 100 @Player2**
 - **Link da live ou link do arquivo da gravação.**
 
-7.9. O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
+7.8. O jogador que enviar mensagens sem relevância para grupo WhatsApp do campeonato, serão advertidos pela administração. Em caso de reincidência, o jogador será REMOVIDO do grupo por 12h e adicionado novamente após esse prazo. Mesmo com a punição, o jogador tem o dever de cumprir os seus jogos previamente agendados. O jogador readmitido no grupo será eliminado do campeonato caso receba mais uma punição por descumprimento do grupo de WhatsApp.
 
 # **8. Regras de Conduta** #
 
@@ -256,4 +241,3 @@ Exemplo de postagem de resultado:
 11.2. **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não forem cobertos por essas regras buscando não prejudicar os participantes.**
 
 # **A administração da TGC desejam à todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!** #
-

@@ -1,12 +1,12 @@
-# **O canal Leomarx Games e a Comunidade Top Gear Championships (TGC) Apresentam:** #
+# **O canal Leomarx Games em parceria com a Comunidade Top Gear Championships (TGC) Apresentam:** #
 
-# **5° Campeonato Mestres do Top Gear 2 - 2024** #
+# **6° Campeonato Mestres do Top Gear 2** #
 
 # **LEIA TODAS AS REGRAS COM BASTANTE ATENÇÃO!!!** #
 
 # **1 - Incrições:** #
 
-1.1 - O novo modelo de inscrições de campeonatos da TGC terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
+1.1 - O novo modelo de inscrições de campeonatos da Leomarx Games terá sempre uma pré-lista de inscritos já validados e ativos conforme os participantes dos campeonatos recentes.
 
 1.2 - Aqueles pré-inscritos que não tiverem a disponibilidade de jogar poderão sair do grupo do WhatsApp criado a qualquer momento durante o período de inscrições.
 
@@ -20,11 +20,11 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
     Confirmo que instalei os items obrigatórios listados no regra n°3 para participar (Null DC Bear + Radmin e/ou Hamachi e Fightcade 2)
     Declaração: Declaro que estou ciente das regras e dos itens obrigatórios aqui estabelecidos e poderei ser eliminado do campeonato em caso de descumprimento: ( X ) SIM (   ) NÃO. (a inscrição só será efetivada caso o participante marque a opção SIM)
 
-1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/BFBflL6e0fMF2nSm1EYnkT) e se apresentar com o seu Nome Real + Apelido/NickName
+1.4 - Logo de seguida deverá ingressar no grupo de WhatsApp do Campeonato pelo [Link](https://chat.whatsapp.com/KAZRUqbpwwSFIIUcY0MrMb) e se apresentar com o seu Nome Real + Apelido/NickName
 
 # **2 - Validação e Verificação de Perfil dos Inscritos:** #
 
-2.1 - A administração da TGC, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
+2.1 - A administração da Leomarx Games, na intenção de criar um campeonato com credibilidade, se reserva no direito de solicitar a qualquer momento durante a inscrição e/ou durante o campeonato, informações adicionais a qualquer um dos inscritos em seus campeonatos.
 
 2.2 - Tais medidas, vem com o intuito de impedir a inscrição ou participação de jogadores com contas fakes.
 
@@ -35,7 +35,7 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 - Detalhes técnicos e verificação do processo de conexão online (Hamachi/Radmin), compartilhando a tela. (TeamViewer/AnyDesk/Outros)
 - Tipo de computador, fotos do modem, Empresa de internet, IP virtual, IP do roteador, VPN, etc.
 
-2.4 - O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a Leomarx Games e/ou TGC, também se reservam ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
+2.4 - O jogador inscrito tem o **direito de não fornecer as informações solicitadas**, assim como a Leomarx Games, também se reserva ao **direito de cancelar a inscrição ou remover um participante durante um campeonato**, que não concorde em providenciar as informações que lhe forem solicitadas.
 
 # **3 - Itens Obrigatórios:** #
 
@@ -63,28 +63,30 @@ CONFIRME SUA INSCRIÇÃO UTILIZANDO O MODELO ABAIXO:
 - Semifinal terá prazo de 5 dias.
 - Final e terceiro terá prazo de 5 dias.
 
-4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário. *Queremos ver quem é o melhor na pista e não um show de regras com aplicação de W.O's*
+4.4 - **Observação:** As rodadas podem ter o prazo estendido ou reduzido, caso a administração julgue necessário.
 
-~~4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 24/06/2024 23h59), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo).~~
 4.5 - Durante a fase de grupos, na primeira metade do prazo (até dia 25/06/2024 02:00), cada piloto deverá ter realizado ao menos metade das partidas (arredondando para baixo). 
 
 4.6 - O competidor que não cumprir o item 4.5, poderá ser desclassificado e receber W.O de todas as partidas não realizadas aleatóriamente
 
 # **5 - Organização e Chaveamento:** #
 
-5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/4_MestresDoTopGear2_2024](https://challonge.com/pt_BR/5_MestresDoTopGear2_2024)
+5.1 - Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/6_MestresDoTopGear2](https://challonge.com/pt_BR/6_MestresDoTopGear2)
 
 5.2 - O nível do jogo será o CHAMPIONSHIP.
 
 5.3 - O campeonato terá modelo de copa do mundo com fase de grupos e os melhores colocados avançam para uma fase final de jogos mata-mata.
 
-5.4 - Sorteio de Países. Serão sorteados 2 paises para cada rodada na fase de grupos, não se repetindo nenhum deles nas oitavas de final e quartas de final. A partir da Semifinal serão considerados todos os países novamente, sendo a quantidade:
+5.4 - Sorteio de Países. Serão sorteados 2 paises para cada rodada na fase de grupos
 
 - Fase de grupos: 2 países, sendo 1 país para 1 rodada (Como se fosse jogos de ida e volta).
-- Oitavas e Quartas de Final: 3 países de rodada única (Vence quem tiver mais pontos na soma total)
-- Semifinal, Final e terceiro: 4 países de rodada única (Vence quem tiver mais pontos na soma total)
 
-5.5 - Serão classificados para a fase final uma quantidade de jogadores, dependendo da quantidade de inscritos. Exemplo:
+5.5 - Na Fase Final, para os confrontos ficarem mais equilibrados, voltaremos os 16 países para a lista de sorteio, separando-os em 4 grupos e então:
+
+- Oitavas e Quartas de Final: 3 países de rodada única, sendo 1 país dos quartetos 2, 3 e 4 (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do primeiro quarteto.
+- Semifinal, Final e terceiro: 4 países de rodada única, sendo 1 país de cada quarteto (Vence quem tiver mais pontos na soma total) - Desempate será 1 país do quarto quarteto que não foi jogado nem na semi e nem na final.
+
+5.6 - Serão classificados para a fase final uma quantidade de jogadores, dependendo da quantidade de inscritos. Exemplo:
 
 - Inscritos: até 08. Classificados: 6;
 - Inscritos: entre 09 e 12. Classificados: 8;
@@ -182,11 +184,11 @@ Exemplo de postagem de resultado:
 - Difamação ou calúnia;
 - Nacionalidade, Naturalidade, ou Lugar onde mora, ou nasceu.
 
-9.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem nos CANAIS OFICIAIS DA TGC (Facebook, WhatsApp, Discord, YouTube, Twitch, Instagram e outros) ou no chat da transmissão oficial de uma partida válida do campeonato. Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva exclusivamente à punição de exclusão do campeonato.
+9.2 - OBSERVAÇÕES: Mensagens trocadas em redes sociais particulares não serão consideradas. Denúncias e reclamações por ofensas somente serão consideradas e julgadas pela administração, se ocorrerem no Grupo Oficial do Mestres do Top Gear 2 (Facebook). Chats privados (PV) e quaisquer outros meios não serão considerados. Caracterizada a ofensa desrespeitosa com a dignidade da pessoa, a administração se reserva à punição que lhe for adequada.
 
 9.3 - Outras medidas referentes a processos legais, deverão ser adotadas pelo próprio requerente. 
 
-9.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (enviados no período de realização do campeonato, nas redes oficiais da TGC), devem ser encaminhados através de protocolo conforme modelo no item a seguir, pelo Facebook, no post de inscrição do campeonato com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
+9.4 - Para protocolar a reclamação, os print’s das mensagens ou áudios (poderão ser enviados para a ADM pelo whatsApp) mas devem ser mencionados no protocolo, conforme modelo no item a seguir, com a hashtag #PROTOCOLO e deverá ser respondido pela administração em um prazo máximo de 48h úteis.
 
 9.5 - **Modelo de protocolo:**
 
@@ -194,7 +196,7 @@ Exemplo de postagem de resultado:
     - NOME DO CAMPEONATO:
     - NOME DO SOLICITANTE:
     - NOME DO OPONENTE:
-    *SOLICITAÇÃO: Solicito que os administradores da TGC julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
+    *SOLICITAÇÃO: Solicito que os administradores da Leomarx Games julguem se a conduta a seguir é caracterizada como discriminação conforme previsto no item de Regras de Conduto e seus subitens.*
     *ACUSAÇÃO: descrever a alegação de forma sucinta.*
     *ANEXOS: encaminhar as imagens, vídeos e áudios que julgar relevante no tópico aberto ou no privado dos administradores*
 
@@ -316,8 +318,8 @@ Devido ao nível do jogo Championship ser elevado e os equipamentos “base” d
 
 # **12. Situações inéditas** #
 
-12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração no decorrer do campeonato.
+12.1 Situações inéditas podem ocorrer e os casos não previstos aqui serão analisados pela administração da Leomarx Games no decorrer do campeonato.
 
 12.2 **As regras podem ser aditadas durante o campeonato, caso a administração julgue necessário para cobrir casos que não eram cobertos por essas regras buscando não prejudicar os participantes. Todas as edições após início do campeonato, serão publicadas através de ADITAMENTOS.**
 
-# **A administração da Leomarx Games e da TGC desejam a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**
+# **A administração da Leomarx Games deseja a todos um excelente campeonato e principalmente muita diversão a todos os participantes e expectadores!!!**

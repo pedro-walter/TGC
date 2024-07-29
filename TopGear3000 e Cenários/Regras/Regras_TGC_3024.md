@@ -127,7 +127,7 @@
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referente à 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Após de 50% da partida realizada, um dos pilotos pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
+5.11. Após de 50% da partida realizada, um dos pilotos pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 10 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
 5.12. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato da TGC. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 

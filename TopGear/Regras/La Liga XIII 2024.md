@@ -163,11 +163,11 @@
 
   4.4 - Após o término das inscrições e sorteio dos países, todos os participantes da Série Ouro e Prata, deverão enviar a escolha de seus carros para todas as 9 partidas, até a data limite estabelecida no CRONOGRAMA
 
-  4.5 - Os pilotos das Séries Ouro e Prata, DEVERÃO UTILIZAR OS TODOS OS CARROS EM PELO MENOS 2 RODADAS, podendo escolher um deles para 3 rodadas com exceção do vermelho, que só poderá ser escolhido 2x.
+  4.5 - Os pilotos das Séries Ouro e Prata, DEVERÃO UTILIZAR OS TODOS OS CARROS EM PELO MENOS 2 RODADAS, escolhendo apenas um deles para 3 rodadas.
 
   4.6 - Exemplo para 9 partidas... 3x carro branco, 2x carro vermelho, 2x carro roxo e 2x carro azul.
 
-  4.7 - Para as Quartas de Finais e Semifinais, será utilizado apenas um carro de escolha livre, mas não poderá ser repetido nas duas fases. Para isto, realizaremos o sorteio dos países das duas fases no mesmo momento.
+  4.7 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro por país.
 
   4.8 - Para a grande Final e Disputa de 3º, deverão se utilizados os 4 Carros, sendo 1 para cada país.
 

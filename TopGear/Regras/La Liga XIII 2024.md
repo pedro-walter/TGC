@@ -52,19 +52,19 @@
 
   1.6 Série Bronze - Competidores que participaram do La Liga XII e novos membros que desejarem se inscrever no La Liga XIII, conforme a sequência:
 
-   - 1 - Paomarc (Paolo Paredes) x
-   - 2 - UaiLay (Laynara Souza) x
-   - 3 - Br's Brisantt (Brisantt) x
-   - 4 - Schumacher (Martins Swantaiger) x
-   - 5 - JackPocker40 (Peter Bruno) x
-   - 6 - RonalDan (Ronald Daniel) x
-   - 7 - Frank Gear (Frank Piero) x
-   - 8 - Jack Maloi (Alison Paulo) x
+   - 1 - Paomarc (Paolo Paredes) 
+   - 2 - UaiLay (Laynara Souza) 
+   - 3 - Br's Brisantt (Brisantt) 
+   - 4 - Schumacher (Martins Swantaiger) 
+   - 5 - JackPocker40 (Peter Bruno) 
+   - 6 - RonalDan (Ronald Daniel) 
+   - 7 - Frank Gear (Frank Piero) 
+   - 8 - Jack Maloi (Alison Paulo) 
    - 9 - Lonsoldier (Marlon Reis)
    - 10 - Alaric (Emerson Eidan Enderson)
-   - 11 - Rannid (Fabrício Golçalves) x
-   - 12 - Jhonny (Jhonny Mota) x
-   - 13 - Senninkage (Edison Silva) x
+   - 11 - Rannid (Fabrício Golçalves) 
+   - 12 - Jhonny (Jhonny Mota) 
+   - 13 - Senninkage (Edison Silva) 
    - 14 - Novo competidor
    - 15 - Novo competidor
   

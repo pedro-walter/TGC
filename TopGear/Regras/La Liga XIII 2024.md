@@ -43,35 +43,30 @@
    - 2 - Vinny (Vinícius Gustavo)
    - 3 - Luciano (Luciano Alves)
    - 4 - Leomarx Games (Leonardo Marques)
-   - 5 - Edwin HD (Edwin Hyrula)
+   - 5 - HD Gamer (Edwin Hyrula)
    - 6 - Pegasus (Edimar Caetano)
    - 7 - The Mister (Roberto Vasquez)
    - 8 - MMM (Marcel Santana)
-   - 9 - JavierVZL (Javier Dixon)
+   - 9 - JavierVZLA (Javier Dixon)
    - 10 - Paulo Fox (Paulo Muniz)
 
   1.6 Série Bronze - Competidores que participaram do La Liga XII e novos membros que desejarem se inscrever no La Liga XIII, conforme a sequência:
 
-   - 1 - Paomarc (Paolo Paredes)
-   - 2 - Casio (Casio Aquino)
-   - 3 - Senninkage (Edison Silva)
-   - 4 - Br's Brisantt (Brisantt)
-   - 5 - Schumacher (Martins Swantaiger)
-   - 6 - JackPocker40 (Peter Bruno)
-   - 7 - Marlon Reis (Marlon Reis)
-   - 8 - Brener Gameplays (Brener Matos Ferreira)
-   - 9 - Jack Maloi (Alison Paulo) 
-   - 10 - Lonsoldier (Marlon Reis) 
-   - 11 - Dudu (Eduardo Oliveira) 
-   - 12 - Bruno Menezes (Bruno Menezes)
-   - 13 - Igor Luiz (Igor)
-   - 14 - Diego (Diego)
-   - 15 - Rannid (Fabrício Golçalves)
-   - 16 - Samuel Dantas (Samuel Dantas)
-   - 17 - Geovani (Geovani Araujo)
-   - 18 - Novo competidor
-   - 19 - Novo competidor
-   - 20 - Novo competidor
+   - 1 - Paomarc (Paolo Paredes) x
+   - 2 - UaiLay (Laynara Souza) x
+   - 3 - Br's Brisantt (Brisantt) x
+   - 4 - Schumacher (Martins Swantaiger) x
+   - 5 - JackPocker40 (Peter Bruno) x
+   - 6 - RonalDan (Ronald Daniel) x
+   - 7 - Frank Gear (Frank Piero) x
+   - 8 - Jack Maloi (Alison Paulo) x
+   - 9 - Lonsoldier (Marlon Reis)
+   - 10 - Alaric (Emerson Eidan Enderson)
+   - 11 - Rannid (Fabrício Golçalves) x
+   - 12 - Jhonny (Jhonny Mota) x
+   - 13 - Senninkage (Edison Silva) x
+   - 14 - Novo competidor
+   - 15 - Novo competidor
   
   1.7 - Observações:
     

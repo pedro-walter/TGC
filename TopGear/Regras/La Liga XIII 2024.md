@@ -8,7 +8,7 @@
 
   1.1 - As inscrições estarão abertas do dia 19/08/2024 até 23/08/2024.
     
-  1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da seugunda rodada ou seja convidado para completar algum grupo, caso a administração decida.
+  1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
   1.3 - Punições da edição anterior (La Liga XII):
 
@@ -101,7 +101,7 @@
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: até dia 23/08/2024 às 12h.
+  2.1 - Prazo para confirmações e novas inscrições: até dia 23/08/2024 às 20h.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
@@ -195,7 +195,7 @@
   - Série Prata: Os 3 primeiros colocados serão promovidos para a Série Ouro. Permanecem na Série Prata do 4° ao 7° colocados. Cairão para a Série Bronze, os 3 últimos colocados.
   - Série Bronze: Sobem os 3 primeiros colocados da Série Bronze para a Série Prata.
 
-  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 24h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
+  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
   
 # **6. Desempate para as Fases Finais:** #
 

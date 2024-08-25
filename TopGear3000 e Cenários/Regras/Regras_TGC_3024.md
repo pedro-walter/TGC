@@ -72,7 +72,7 @@
 
 4.2. Após confirmação das inscrições, será realizado o sorteio dos planetas e a Fase de Grupos até o dia 03/08/2024;
 
-4.3. A depender da quantidade de inscritos a da fase de grupos terá de 7 a 14 dias.
+4.3. A depender da quantidade de inscritos a duração da fase de grupos terá de 7 a 14 dias.
 
 4.4. Cada rodada da fase de grupos e da fase mata-mata (Oitavas, Quartas, Semifinal e Final/Disputa de 3º) terão o prazo de 5 dias, finalizando até às 23h59 do último dia de prazo (Horário de Brasília).
 
@@ -82,7 +82,7 @@
 
 5.1. Será utilizado o CHALLONGE para chaveamento das partidas do campeonato [https://challonge.com/pt_BR/tgc3024](https://challonge.com/pt_BR/tgc3024)  
 
-5.2. O campeonato será no modelo Copa do Mundo, com uma fase de grupos e os mais bem colocados avançam para as próximas fases em disputas de jogo único.
+5.2. O campeonato será no modelo Copa do Mundo, com uma fase de grupos e os melhores colocados avançam para as próximas fases em disputas de jogo único.
 
 5.3. Na fase de grupos, os jogadores pontuarão de acordo com seu resultado em cada partida, conforme a relação a seguir:
 
@@ -127,7 +127,7 @@
 
 5.10. A substituição de jogadores só será adimitida, caso o piloto substituto ainda possa participar da partida referente à 2ª rodada. Caso um piloto desista do campeonato após a 1ª rodada, sua pontuação será atribuída ao seu substituto. Se não houver substituto, será aplicado w.o. para as partidas restantes, com pontuação máxima para o adversário e mínima para o desistente.
 
-5.11. Após de 50% da partida realizada, um dos pilotos pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 5 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
+5.11. Após de 50% da partida realizada, um dos pilotos pode avisar ao oponente que deseja parar e admitir a derrota. Assim, o adversário leva os 10 pontos de cada pista restante e o desistente fica com zero pontos nas mesmas. Para este caso, a partida não será considerada w.o e não haverá sansões.
 
 5.12. A tolerância de W.O's neste campeonato será no total de 2 partidas na fase de grupos se houver 3 ou mais partidas o piloto será impedido de participar do próximo campeonato da TGC. Até o final do prazo da fase de grupos, será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o W.O. não será contabilizado para efeitos de punição.
 

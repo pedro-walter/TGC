@@ -6,14 +6,14 @@
 
 # **1. INSCRIÇÕES:** #
 
-  1.1 - As inscrições estarão abertas do dia XX/XX/2024 até XX/XX/2024.
+  1.1 - As inscrições estarão abertas do dia 19/08/2024 até 23/08/2024.
     
-  1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e poderão substituir possíveis jogadores desistentes.
+  1.2 - Aqueles que se inscreverem após o encerramento das inscrições, serão colocados em cadastro reserva e serão convidados para participar do La Liga Bronze caso aja desistência antes do encerramento da segunda rodada, ou seja, convidado para completar algum grupo, caso a administração decida.
 
   1.3 - Punições da edição anterior (La Liga XII):
 
-  - Amélio Belchior (Amélio) infelizmente não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
-  - Aquino (Alexandre Aquino) infelizmente não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
+  - Amélio Belchior (Amélio) não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
+  - Aquino (Alexandre Aquino) não poderá participar do La Liga XIII. Em razão do excesso de W.O. no La Liga XII e como punição ficará uma edição sem poder participar, podendo voltar no La Liga XIV na Divisão Bronze.
 
   1.3.1 - Poderão participar do La Liga XIII, se assim manifestarem o interesse, porém como não participaram da edição XII, o(s) mesmo(s) foram rebaixados podendo voltar no La Liga XIV na Divisão Bronze.
     
@@ -43,35 +43,30 @@
    - 2 - Vinny (Vinícius Gustavo)
    - 3 - Luciano (Luciano Alves)
    - 4 - Leomarx Games (Leonardo Marques)
-   - 5 - Edwin HD (Edwin Hyrula)
+   - 5 - HD Gamer (Edwin Hyrula)
    - 6 - Pegasus (Edimar Caetano)
    - 7 - The Mister (Roberto Vasquez)
    - 8 - MMM (Marcel Santana)
-   - 9 - JavierVZL (Javier Dixon)
+   - 9 - JavierVZLA (Javier Dixon)
    - 10 - Paulo Fox (Paulo Muniz)
 
   1.6 Série Bronze - Competidores que participaram do La Liga XII e novos membros que desejarem se inscrever no La Liga XIII, conforme a sequência:
 
-   - 1 - Paomarc (Paolo Paredes)
-   - 2 - Casio (Casio Aquino)
-   - 3 - Senninkage (Edison Silva)
-   - 4 - Br's Brisantt (Brisantt)
-   - 5 - Schumacher (Martins Swantaiger)
-   - 6 - JackPocker40 (Peter Bruno)
-   - 7 - Marlon Reis (Marlon Reis)
-   - 8 - Brener Gameplays (Brener Matos Ferreira)
-   - 9 - Jack Maloi (Alison Paulo) 
-   - 10 - Lonsoldier (Marlon Reis) 
-   - 11 - Dudu (Eduardo Oliveira) 
-   - 12 - Bruno Menezes (Bruno Menezes)
-   - 13 - Igor Luiz (Igor)
-   - 14 - Diego (Diego)
-   - 15 - Rannid (Fabrício Golçalves)
-   - 16 - Samuel Dantas (Samuel Dantas)
-   - 17 - Geovani (Geovani Araujo)
-   - 18 - Novo competidor
-   - 19 - Novo competidor
-   - 20 - Novo competidor
+   - 1 - Paomarc (Paolo Paredes) 
+   - 2 - UaiLay (Laynara Souza) 
+   - 3 - Br's Brisantt (Brisantt) 
+   - 4 - Schumacher (Martins Swantaiger) 
+   - 5 - JackPocker40 (Peter Bruno) 
+   - 6 - RonalDan (Ronald Daniel) 
+   - 7 - Frank Gear (Frank Piero) 
+   - 8 - Jack Maloi (Alison Paulo) 
+   - 9 - Lonsoldier (Marlon Reis)
+   - 10 - Alaric (Emerson Eidan Enderson)
+   - 11 - Rannid (Fabrício Golçalves) 
+   - 12 - Jhonny (Jhonny Mota) 
+   - 13 - Senninkage (Edison Silva) 
+   - 14 - Novo competidor
+   - 15 - Novo competidor
   
   1.7 - Observações:
     
@@ -79,11 +74,8 @@
 
   1.7.2 - A Série Bronze será disputada no mesmo modelo das Séries Ouro e Prata, caso o número de inscritos seja menor ou igual a 10. Caso haja mais de 10 inscritos para a Série Bronze, estes serão dividos em grupos e o chaveamento será definido após encerramento das inscrições.
    
-   - Inscritos: até 12. Classificados: 8;
-   - Inscritos: entre 13 e 16. Classificados: 10;
-   - Inscritos: entre 17 e 20. Classificados: 12;
-   - Inscritos: entre 21 e 24. Classificados: 14;
-   - Inscritos: entre 25 e 32. Classificados: 16;
+   - Inscritos de 11 até 16. Classificados: 8;
+   - Acima de 16. Classificados 16.
   
   1.7.3 - Substituições: Caso haja algum piloto desistente ou punido na edição anterior nas Ligas Ouro ou Prata:
     
@@ -95,7 +87,9 @@
    - 6ª desistência/punição, sobe o 3º melhor rebaixado da Série do desistente (Ouro ou Prata).
    - A partir da 7ª desistência/punição, sobem os demais pilotos das Séries imediatamente abaixo, pela ordem de classificação (Prata ou Bronze). 
     
-  1.8 - O participante deverá se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
+  1.8 - Todos os participantes pré-inscritos deverão confirmar a participação na postagem do Facebook ou nos grupos do WhatsApp criados para a Série correspondente.
+  
+  1.9 - Novos participante deverão se inscrever através de postagem realizada diretamente nos comentários do post correspondente no Facebook.
 
         Exemplo:
         Apelido/Nickname: LeomarxGames
@@ -103,43 +97,41 @@
         Disponibilidade para jogar: Descrever o melhor possível. Ex.: Disponibilidade das 19 as 23h30 durante a semana e finais de semana a combinar com antecedência.
         Método que utiliza para conectar: Preferencialmente Radmin, se houver erro, poderá ser utilizado o Hamachi.
 
-  1.9 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
+  1.10 - Todos os participantes ao se inscreverem no campeonato, declaram estar cientes de todas as regras aqui estabelecidas e poderão sofrer as punições previstas, desde um w.o, uma possível eliminação do campeonato ou até exlusão da Comunidade.
 
 # **2. Cronograma Séries Ouro / Prata Horários de Brasília, Brasil:** #
    
-  2.1 - Prazo para confirmações e novas inscrições: XX/XX/2024 às 23h.
+  2.1 - Prazo para confirmações e novas inscrições: até dia 23/08/2024 às 20h.
   
   2.2 - Após revisão das inscrições será feito o sorteio das pistas/países e aberto o prazo do comissário.
   
-  2.3 - Prazo Comissário: XX/XX/2024 23h.
+  2.3 - Prazo Comissário: 24/08/2024 21h.
   
   2.4 - Após revisão do comissário, se não houver nenhum erro ou ausência de envio dos participantes inicia a Fase de Grupos.
   
-  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de XX/XX/2024, os carros do piloto serão escolhidos por meio de sorteio.
+  2.5 - Se após advertência dos administradores o jogador não corrigir o envio dos carros até as 23h59 de 24/08/2024, os carros do piloto serão escolhidos por meio de sorteio.
   
-  2.6 - Fase de Grupos terá prazo de 20 dias. Previsão de término – XX/XX/2024 23h.
+  2.6 - Fase de Grupos terá prazo de 21 dias. Previsão de término – 14/09/2024 23h59.
   
-  2.7 - Quartas de Final: XX/XX/2024 às 23h.
+  2.7 - Quartas de Final: até dia 21/09/2024 às 23h59.
   
-  2.8 - Semifinal: XX/XX/2024 23h.
+  2.8 - Semifinal: até dia 28/09/2024 23h59.
   
-  2.9 - Final e Disputa de 3º: XX/XX/2024 23h
+  2.9 - Final e Disputa de 3º: 05/10/2024 23h59
   
   2.10 - OBSERVAÇÕES:
        
-  - 2.10.1 - As rodadas podem ter um prazo estendido caso a administração julgue necessário.
+  - 2.10.1 - As rodadas podem ter um prazo estendido ou reduzidos caso a administração julgue necessário.
        
-  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 1XX/XX/2024), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
+  - 2.10.2 - Durante a fase de grupos, na primeira metade do prazo (até dia 04/09/2024), cada piloto deverá ter realizado ao menos 4 (quatro partidas) ou comprovar agendamento destas partidas com o DE ACORDO do adversário, com dia e hora marcados.
 
   - 2.10.3 - O competidor que não cumprir o item anterior, receberá W.O na diferença das partidas não realizadas ou agendadas, através de sorteio aleatório.
        
   - 2.10.4 - Caso o piloto não realize ao menos 2 (duas partidas) durante a primeira metade do prazo, será eliminado do torneio e estará automaticamente rebaixado para a edição seguinte.
   
-  - 2.10.5 - Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. no La Liga seguinte como punição ficará uma edição sem poder participar.
+  - 2.10.5 - Se um piloto acumular 4 W.O.s em qualquer divisão, será caracterizado como excesso de W.O. e como punição ficará uma edição sem poder participar do La Liga.
        
-  - 2.10.6 - Iniciado o campeonato, não haverá mais substituição de jogadores. Sendo aplicado W.O para os jogos faltantes do jogador que desistir do campeonato.
-       
-  - 2.10.7 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
+  - 2.10.6 - O cronograma e as fases da Série Bronze, serão definidos após encerramento das inscrições, momento em que a administração definirá a forma de disputa.
 
 # **3. Organização e Chaveamento:** #
   
@@ -171,11 +163,11 @@
 
   4.4 - Após o término das inscrições e sorteio dos países, todos os participantes da Série Ouro e Prata, deverão enviar a escolha de seus carros para todas as 9 partidas, até a data limite estabelecida no CRONOGRAMA
 
-  4.5 - Os pilotos das Séries Ouro e Prata, PODERÃO USAR CADA CARRO NO MÁXIMO 4 VEZES, sendo obrigatório o uso de todos os carros pelo menos uma vez.
+  4.5 - Os pilotos das Séries Ouro e Prata, DEVERÃO UTILIZAR OS TODOS OS CARROS EM PELO MENOS 2 RODADAS, escolhendo apenas um deles para 3 rodadas.
 
-  4.6 - Exemplo para 9 partidas... 4x carros vermelhos, 3x carros brancos, 1x carros Roxo e 1x carro Azul
+  4.6 - Exemplo para 9 partidas... 3x carro branco, 2x carro vermelho, 2x carro roxo e 2x carro azul.
 
-  4.7 - Para as Quartas de Finais e Semifinais, 3 Carros diferentes, 1 para cada país.
+  4.7 - Para as Quartas de Finais e Semifinais, deverá ser utilizado um carro por país.
 
   4.8 - Para a grande Final e Disputa de 3º, deverão se utilizados os 4 Carros, sendo 1 para cada país.
 
@@ -203,7 +195,7 @@
   - Série Prata: Os 3 primeiros colocados serão promovidos para a Série Ouro. Permanecem na Série Prata do 4° ao 7° colocados. Cairão para a Série Bronze, os 3 últimos colocados.
   - Série Bronze: Sobem os 3 primeiros colocados da Série Bronze para a Série Prata.
 
-  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 24h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
+  5.5 - A tolerância de W.O's neste campeonato será no total de 3 partidas na fase de grupos se houver 4 ou mais partidas o piloto será impedido de participar do próximo campeonato La Liga. No prazo de 72h após a aplicação do w.o., será oportunizado ao piloto que apresente justificativas, caso as justificativas sejam aceitas, o w.o. não será contabilizado para efeitos de punição.
   
 # **6. Desempate para as Fases Finais:** #
 
